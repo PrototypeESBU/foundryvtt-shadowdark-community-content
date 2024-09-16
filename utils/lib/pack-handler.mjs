@@ -2,7 +2,6 @@ import {ClassicLevel} from "classic-level";
 import {globSync} from "glob";
 import fs, { readdirSync } from "fs";
 import path from "path";
-import yaml from "js-yaml";
 
 import Logger from "./logger.mjs";
 import stringify from "json-stable-stringify-pretty";
@@ -51,7 +50,7 @@ export default class PackHandler {
 			let inserted = 0;
 			for (const file of files) {
 				const rawData = fs.readFileSync(path.join(inputDbDirectory, file));
-				const dbEntry = file.endsWith(".yml") ? yaml.load(rawData) : JSON.parse(rawData);
+				const dbEntry = JSON.parse(rawData);
 
 				let key = null;
 				if (dbEntry._key) {

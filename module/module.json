@@ -61,9 +61,9 @@
     ],
     "packFolders": [
 		{
-			"name": "Community Content",
+			"name": "Shadowdark Community Content",
 			"sorting": "a",
-			"color": "#363B45",
+			"color": "#151515",
 			"packs": [
                 "actors",
                 "adventures",
