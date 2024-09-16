@@ -1,0 +1,6 @@
+.vscode/
+node_modules/
+scratch/
+module/packs/
+
+*.code-workspace

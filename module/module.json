@@ -1,0 +1,80 @@
+{
+    "id": "shadowdark-community-content",
+    "title": "Shadowdark RPG: Community Content",
+	"description": "",
+    "version": "1.0",
+    "compatibility": {
+        "minimum": "12",
+        "verified": "12"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "compatibility": {},
+                "id": "shadowdark",
+                "type": "system"
+            }
+        ]
+    },
+    "authors": [
+		{
+			"name": "Prototype",
+			"discord": "prototypesbu"
+		}
+    ],
+    "packs": [
+        {
+            "name": "actors",
+            "label": "Monsters and NPCs",
+            "system": "shadowdark",
+            "path": "packs/actors",
+            "type": "Actor"
+        },
+        {
+            "name": "adventures",
+            "label": "Adventures",
+            "system": "shadowdark",
+            "path": "packs/adventures",
+            "type": "Adventure"
+        },
+        {
+            "name": "journals",
+            "label": "Journals",
+            "system": "shadowdark",
+            "path": "packs/journals",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "macros",
+            "label": "Macros",
+            "system": "shadowdark",
+            "path": "packs/macros",
+            "type": "Macro"
+        },
+        {
+            "name": "scenes",
+            "label": "Scenes",
+            "system": "shadowdark",
+            "path": "packs/scenes",
+            "type": "Scene"
+        }
+    ],
+    "packFolders": [
+		{
+			"name": "Community Content",
+			"sorting": "a",
+			"color": "#363B45",
+			"packs": [
+                "actors",
+                "adventures",
+                "journals",
+				"macros",
+				"scenes"
+			]
+		}
+	],
+    "url": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content",
+	"manifest": "https://raw.githubusercontent.com/PrototypeESBU/foundryvtt-shadowdark-community-content/main/module/module.json",
+	"download": "https://github.com/PrototypeESBU/shadowdark-community-content/releases/latest/download/shadowdark-community-content.zip"
+
+}
