@@ -1,0 +1,23 @@
+{
+	"_id": "1z4vkzV2b65JEMRe",
+	"_key": "!journal.pages!bhFUkZR5mcZSBeTL.1z4vkzV2b65JEMRe",
+	"image": {
+	},
+	"name": "Reporting Issues",
+	"src": null,
+	"system": {
+	},
+	"text": {
+		"content": "<p>Problems with the adventures?</p>",
+		"format": 1
+	},
+	"title": {
+		"level": 1,
+		"show": true
+	},
+	"type": "text",
+	"video": {
+		"controls": true,
+		"volume": 0.5
+	}
+}
