@@ -1,0 +1,11 @@
+{
+	"_id": "XIQ6nKdu2mDJ6KAT",
+	"_key": "!macros!XIQ6nKdu2mDJ6KAT",
+	"author": "XOge3YaW9qcUJnuq",
+	"command": "// Player Roll Initiative Macro\n// Author: PrototypeESBU\n// v1.0\n// Description: A macro that players can used to roll initiative\n//------------------------------\n// Allow players to add their character to a combat\nconst playerCreateCombatants = false;\n\n// Allow players to reroll their own initiative\nconst rerollInitiative = false;\n//------------------------------\nif(!game.user.character) {\n    ui.notifications.error(\"No Character Selected\");\n    return;\n}\nif(!game.combat) {\n    ui.notifications.error(\"No Active Encounter\");\n    return;\n}\n\ngame.user.character.rollInitiative({playerCreateCombatants, rerollInitiative});",
+	"folder": "lptHN8mM26ZeTUd8",
+	"img": "icons/svg/d20.svg",
+	"name": "Roll Initiative",
+	"scope": "global",
+	"type": "script"
+}

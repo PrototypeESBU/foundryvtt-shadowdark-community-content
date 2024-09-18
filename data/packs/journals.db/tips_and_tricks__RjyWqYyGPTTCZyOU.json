@@ -1,0 +1,23 @@
+{
+	"_id": "RjyWqYyGPTTCZyOU",
+	"_key": "!journal.pages!bhFUkZR5mcZSBeTL.RjyWqYyGPTTCZyOU",
+	"image": {
+	},
+	"name": "Tips and Tricks",
+	"src": null,
+	"system": {
+	},
+	"text": {
+		"content": "<ul><li><p><strong>Map Notes</strong>. View maps notes by selecting Journal Notes on the left side UI button overlays. Enable <strong>Toggle Notes Display</strong> to always show the map notes.</p></li><li><p><strong>Displaying Images.</strong> Clicking on an image in a journal will create a pop up windows that can be shown to players.</p></li></ul>",
+		"format": 1
+	},
+	"title": {
+		"level": 1,
+		"show": true
+	},
+	"type": "text",
+	"video": {
+		"controls": true,
+		"volume": 0.5
+	}
+}

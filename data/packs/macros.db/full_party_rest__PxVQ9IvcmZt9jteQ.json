@@ -1,0 +1,11 @@
+{
+	"_id": "PxVQ9IvcmZt9jteQ",
+	"_key": "!macros!PxVQ9IvcmZt9jteQ",
+	"author": "XOge3YaW9qcUJnuq",
+	"command": "// Full Party Rest macro\n// Author: PrototypeESBU\n// v1.0\n// Description: For each player character, sets HP to full and makes available all lost abilities \n// ------------------------------\n\ngame.users.forEach(player => {\n\tif (player.character) {\n        console.log(player.character.name);\n\t\tplayer.character.update({\"system.attributes.hp.value\": player.character.system.attributes.hp.max});\n\t\tplayer.character.items.forEach(item => {\n\t\t\tif (item.system.lost) {\n\t\t\t\titem.update({\"system.lost\": false});\n\t\t\t}\n\t\t});\n\t}\n});\n\nChatMessage.create({\n    flavor: `Full Rest`,\n    content: `<h3 style=\"font-family:'Montserrat-Bold'\">The party successfully rests</h3>`,\n});",
+	"folder": "FhCSCTkWnoWL3Q0A",
+	"img": "icons/svg/hanging-sign.svg",
+	"name": "Full Party Rest",
+	"scope": "global",
+	"type": "script"
+}

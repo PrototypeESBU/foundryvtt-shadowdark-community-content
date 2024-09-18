@@ -1,0 +1,11 @@
+{
+	"_id": "TaTdfowMVeMPyvAL",
+	"_key": "!macros!TaTdfowMVeMPyvAL",
+	"author": "9x0Fx3xohMgaCVFR",
+	"command": "// Adjust Prototype Token Settings Macro\n// Author: PrototypeESBU\n// v1.0\n// Description: Adjusts the prototype token setting for all actors in the game. Update values belown before running.\n// -------- display values chart --------------------------------\n//  0 | Never Displayed\n// 10 | When Controlled\n// 20 | Hovered by Owner\n// 30 | Hovered by Anyone\n// 40 | Always for Owner\n// 50 | Always for Everyone\n// ----- Set these values accordingly---------------------------\nconst updateMonsters = true;\nconst Monster_displayNamesValue = 40;\nconst Monster_displayBarsValue = 40;\nconst Monster_bar1Value = \"attributes.hp\";\n\nconst updateCharacters = true;\nconst Character_displayNamesValue = 50;\nconst Character_displayBarsValue = 50;\nconst Character_bar1Value = \"attributes.hp\";\n// --------------------------------------------------------------\n// --------------------------------------------------------------\n\nlet npcsUpdated = 0;\nlet playersUpdated = 0;\nfor (const gameActor of game.actors) {\n\n    if (gameActor.type === \"NPC\" && updateMonsters){\n        gameActor.prototypeToken.update({\n            displayName: Monster_displayNamesValue,\n            displayBars: Monster_displayBarsValue,\n            bar1: {\n                attribute: Monster_bar1Value\n            }\n        })\n        npcsUpdated++;\n        continue;\n    }\n    if (gameActor.type === \"Player\" && updateCharacters){\n        gameActor.prototypeToken.update({\n            displayName: Character_displayNamesValue,\n            displayBars: Character_displayBarsValue,\n            bar1: {\n                attribute: Character_bar1Value\n            }\n        })\n        playersUpdated++;\n        continue;\n    }\n\n}\nui.notifications.info(`${npcsUpdated} Monsters and ${playersUpdated} Players token updated.`);",
+	"folder": "KhiiIY18Ev8VLhLh",
+	"img": "icons/svg/cowled.svg",
+	"name": "Adjust Prototype Token Settings",
+	"scope": "global",
+	"type": "script"
+}

@@ -1,0 +1,11 @@
+{
+	"_id": "TGajfBowOmsbDR2E",
+	"_key": "!macros!TGajfBowOmsbDR2E",
+	"author": "XOge3YaW9qcUJnuq",
+	"command": "// Gain luck token macro\n// Author: PrototypeESBU\n// v1.0\n// ------------------------------\nif (game.settings.get(\"shadowdark\",  \"usePulpMode\")) {\n    await actor.update({\"system.luck.remaining\": actor.system.luck.remaining+1});\n    ui.notifications.info(`Luck Token Gained! ${actor.system.luck.remaining} remaining`);\n}\nelse {\n    if (actor.system.luck.available) {\n\t\tui.notifications.warn(`${actor.name} already has a luck token`);\n    }\n    else {\n        await actor.update({\"system.luck.available\": true});\n        ui.notifications.info(\"Luck Token Gained!\");\n    }\n}",
+	"folder": "lptHN8mM26ZeTUd8",
+	"img": "icons/svg/acid.svg",
+	"name": "Gain A Luck Token",
+	"scope": "global",
+	"type": "script"
+}
