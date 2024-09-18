@@ -1,8 +1,8 @@
 {
     "id": "shadowdark-community-content",
     "title": "Shadowdark RPG: Community Content",
-	"description": "",
-    "version": "1.0",
+	"description": "A collection of community provided content for Shadowdark RPG",
+    "version": "0.1",
     "compatibility": {
         "minimum": "12",
         "verified": "12"
@@ -39,7 +39,7 @@
         },
         {
             "name": "journals",
-            "label": "Journals",
+            "label": "Documents",
             "system": "shadowdark",
             "path": "packs/journals",
             "type": "JournalEntry"
@@ -50,20 +50,13 @@
             "system": "shadowdark",
             "path": "packs/macros",
             "type": "Macro"
-        },
-        {
-            "name": "scenes",
-            "label": "Scenes",
-            "system": "shadowdark",
-            "path": "packs/scenes",
-            "type": "Scene"
         }
     ],
     "packFolders": [
 		{
 			"name": "Community Content",
 			"sorting": "a",
-			"color": "#151515",
+			"color": "#3a283e",
 			"packs": [
                 "actors",
                 "adventures",
