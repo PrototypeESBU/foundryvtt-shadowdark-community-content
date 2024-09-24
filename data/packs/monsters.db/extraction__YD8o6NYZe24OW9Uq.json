@@ -1,0 +1,17 @@
+{
+	"_id": "YD8o6NYZe24OW9Uq",
+	"_key": "!actors.items!gPY39PrdJ0Mpmhcg.YD8o6NYZe24OW9Uq",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Extraction",
+	"system": {
+		"description": "<p>On a natural ATK roll of 20, the fennúr extracts a tooth from its target and deals an extra die of damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

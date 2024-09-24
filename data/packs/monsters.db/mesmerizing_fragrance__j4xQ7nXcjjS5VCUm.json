@@ -1,0 +1,17 @@
+{
+	"_id": "j4xQ7nXcjjS5VCUm",
+	"_key": "!actors.items!eC1YjWiVd6S6HvOD.j4xQ7nXcjjS5VCUm",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mesmerizing Fragrance",
+	"system": {
+		"description": "<p>Living creatures beginning their turn within near of blood orchid DC 14 WIS or stupefied [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

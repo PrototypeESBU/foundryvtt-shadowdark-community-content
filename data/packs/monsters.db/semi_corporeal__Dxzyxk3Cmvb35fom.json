@@ -1,0 +1,17 @@
+{
+	"_id": "Dxzyxk3Cmvb35fom",
+	"_key": "!actors.items!pSre2P5ETH5nJMYf.Dxzyxk3Cmvb35fom",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Semi-corporeal",
+	"system": {
+		"description": "<p>Half damage from non-magical sources. In place of attacks, can turn corporeal or incorporeal.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "vQQuWDQ4nXaxZkLI",
+	"_key": "!actors.items!KdBqomeJlrspmUJN.vQQuWDQ4nXaxZkLI",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Telepathy",
+	"system": {
+		"description": "<p>Though su-monsters can't speak, they can read surface thoughts and communicate simple ideas and phrases telepathically to a range of far.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

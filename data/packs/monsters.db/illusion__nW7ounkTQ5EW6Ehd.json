@@ -1,0 +1,23 @@
+{
+	"_id": "nW7ounkTQ5EW6Ehd",
+	"_key": "!actors.items!Y874dtg4u9ggEQc1.nW7ounkTQ5EW6Ehd",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Illusion",
+	"system": {
+		"dc": "12",
+		"description": "<p>Focus. Creates a convincing visible and audible illusion that fills up to a near-sized cube within far. DC 14 WIS to disbelieve.</p>",
+		"duration": {
+			"type": "focus",
+			"value": -1
+		},
+		"lost": false,
+		"range": "far",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

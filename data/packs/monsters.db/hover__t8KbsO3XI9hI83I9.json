@@ -1,0 +1,17 @@
+{
+	"_id": "t8KbsO3XI9hI83I9",
+	"_key": "!actors.items!4sw6pFglkyrQQjmV.t8KbsO3XI9hI83I9",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hover",
+	"system": {
+		"description": "<p>Instead of true flight, a Ythaiza hovers up to 3 feet above any solid or liquid surface.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

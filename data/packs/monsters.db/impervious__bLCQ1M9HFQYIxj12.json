@@ -1,0 +1,17 @@
+{
+	"_id": "bLCQ1M9HFQYIxj12",
+	"_key": "!actors.items!zf90Yf4bOpYVcfw6.bLCQ1M9HFQYIxj12",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only damaged by silver or magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

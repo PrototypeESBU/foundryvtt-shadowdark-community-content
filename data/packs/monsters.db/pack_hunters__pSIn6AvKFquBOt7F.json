@@ -1,0 +1,17 @@
+{
+	"_id": "pSIn6AvKFquBOt7F",
+	"_key": "!actors.items!NLvR9hfs2U1ZSP11.pSIn6AvKFquBOt7F",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pack Hunters",
+	"system": {
+		"description": "<p>ADV on ATK rolls and +1 damage when an allied biter is near.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

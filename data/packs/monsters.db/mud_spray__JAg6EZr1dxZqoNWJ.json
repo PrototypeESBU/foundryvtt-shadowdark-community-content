@@ -1,0 +1,24 @@
+{
+	"_id": "JAg6EZr1dxZqoNWJ",
+	"_key": "!actors.items!Ksco2yr4eGPssZAz.JAg6EZr1dxZqoNWJ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Mud Spray",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target within near: DC 14 DEX or blinded [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

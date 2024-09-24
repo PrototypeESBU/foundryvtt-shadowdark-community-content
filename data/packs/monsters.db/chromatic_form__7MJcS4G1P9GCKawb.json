@@ -1,0 +1,17 @@
+{
+	"_id": "7MJcS4G1P9GCKawb",
+	"_key": "!actors.items!2jN6oc1RlLSMlKor.7MJcS4G1P9GCKawb",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Chromatic Form",
+	"system": {
+		"description": "<p>Only harmed by magical sources. Naturally incorporeal.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

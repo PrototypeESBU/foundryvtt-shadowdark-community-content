@@ -1,0 +1,17 @@
+{
+	"_id": "s4atWtdnsF7hmB5Y",
+	"_key": "!actors.items!RufYAMFEqw9Q8GZ8.s4atWtdnsF7hmB5Y",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Heads",
+	"system": {
+		"description": "<p>Choose how many heads the beast has. Each is LV 2, AC 11, HP 15, and can make 1 bite attack. A killed head sprouts into 2 new heads at the start of the beast’s turn unless doused with holy water or targeted by a bless spell beforehand. The beast’s LV is all the heads combined.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,23 @@
+{
+	"_id": "a9BmibtyNHyPy3DW",
+	"_key": "!actors.items!YFlhNVWfTGAMIgmj.a9BmibtyNHyPy3DW",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Charm",
+	"system": {
+		"dc": "12",
+		"description": "<p>One living target. Contested CHA check or under slug folk’s control for [[/r 1d6]] days.</p>",
+		"duration": {
+			"type": "days",
+			"value": "1d6"
+		},
+		"lost": false,
+		"range": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

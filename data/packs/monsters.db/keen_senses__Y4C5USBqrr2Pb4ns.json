@@ -1,0 +1,17 @@
+{
+	"_id": "Y4C5USBqrr2Pb4ns",
+	"_key": "!actors.items!CuWqGcePbUZnJgXk.Y4C5USBqrr2Pb4ns",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Keen Senses",
+	"system": {
+		"description": "<p>Can't be surprised.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

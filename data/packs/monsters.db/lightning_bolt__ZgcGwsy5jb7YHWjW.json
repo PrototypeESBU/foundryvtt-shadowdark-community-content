@@ -1,0 +1,24 @@
+{
+	"_id": "ZgcGwsy5jb7YHWjW",
+	"_key": "!actors.items!jpyrs5K33G5sCc1A.ZgcGwsy5jb7YHWjW",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Lightning Bolt",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line extending double near from the impundulu. DC 12 DEX or [[/r 3d6]] damage (DISADV on check if wearing metal armor).</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,150 @@
+{
+	"_id": "GSgxeFnZjk5ltmaS",
+	"_key": "!actors!GSgxeFnZjk5ltmaS",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"hwb1Ycm6qCUJci2w",
+		"1j1OUsZsg4CZ7yjW",
+		"k7RvO3qv2ZCXfVWw",
+		"22HpjzE9wTzuHQOL",
+		"77w4OqHgZAEvvVuX"
+	],
+	"name": "Moth Knight",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Moth Knight",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 3
+			},
+			"hp": {
+				"hd": 0,
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>This silent, dessicated corpse wears a suit of battle-scarred plate armor. Behind it follows a trail of fluttering white moths with tattered wings.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 3 (platemail), <strong>HP</strong> 25, <strong>ATK</strong> 2 greatsword +5 (1d12), <strong>MV</strong> near (fly), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Death's Kiss</strong>. In place of attacking, a moth knight can deliver a moth-infused kiss to an incapacitated or recently dead (<1 minute) humanoid and transform them into a moth knight. Living targets get a DC 14 CHA save to resist.</p><p></p><p><strong>Moths</strong>. When slain, moths exit the moth knight’s body and attempt to transform the closest living humanoid into a moth knight (DC 14 CHA resists). If target resists, the moths die.</p><p></p><p><strong>Sunlight Toxicity</strong>. Takes 4d8 damage per round while in direct sunlight.</p><p></p><p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by fire and magical sources.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "3xwpuMcX3ZZdTBx6",
+	"_key": "!actors.items!LWpQAE6e3ewS3vRL.3xwpuMcX3ZZdTBx6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pack Tactics",
+	"system": {
+		"description": "<p>ADV on ATK rolls when an allied broodling is close.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

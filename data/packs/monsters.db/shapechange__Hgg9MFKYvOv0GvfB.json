@@ -1,0 +1,17 @@
+{
+	"_id": "Hgg9MFKYvOv0GvfB",
+	"_key": "!actors.items!XmLKI6s8CrDYcu6P.Hgg9MFKYvOv0GvfB",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Instantly change forms.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "pqU3NL1N8PKrXbSE",
+	"_key": "!actors.items!1ozZ4wT8xrjMQTtx.pqU3NL1N8PKrXbSE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rolling Charge",
+	"system": {
+		"description": "<p>In place of attacks, uddloran moves triple near in a straight line. Any creatures in its path take [[/r 1d10]] damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

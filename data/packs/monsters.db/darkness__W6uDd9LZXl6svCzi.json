@@ -1,0 +1,24 @@
+{
+	"_id": "W6uDd9LZXl6svCzi",
+	"_key": "!actors.items!q5Tv7qaQCER2HZC5.W6uDd9LZXl6svCzi",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Darkness",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Extinguish all light sources within near.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

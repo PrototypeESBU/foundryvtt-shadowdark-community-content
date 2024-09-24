@@ -1,0 +1,23 @@
+{
+	"_id": "26wcbF8mzhvm46Dd",
+	"_key": "!actors.items!y29Fe6ufvBcUP5kg.26wcbF8mzhvm46Dd",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Wither",
+	"system": {
+		"dc": "13",
+		"description": "<p>A non-undead creature within near takes [[/r 2d10]] damage. Kills a single tree or plants in a near-sized cube.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"range": "near",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "kC6QjcLlrmWkjZhR",
+	"_key": "!actors.items!Oe4NADvOlQwHRrEl.kC6QjcLlrmWkjZhR",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Lightning Strike",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line extending from the hag, hitting all creatures to a far distance. DC 15 DEX or [[/r 4d6]] damage.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

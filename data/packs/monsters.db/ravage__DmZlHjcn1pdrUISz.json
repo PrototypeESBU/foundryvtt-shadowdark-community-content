@@ -1,0 +1,17 @@
+{
+	"_id": "DmZlHjcn1pdrUISz",
+	"_key": "!actors.items!gXI6F02seZ3PTqYy.DmZlHjcn1pdrUISz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ravage",
+	"system": {
+		"description": "<p>Deals [[/r 2d10]] bite damage if it hits the same target with both claw attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

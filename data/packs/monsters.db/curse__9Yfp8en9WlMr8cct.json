@@ -1,0 +1,17 @@
+{
+	"_id": "9Yfp8en9WlMr8cct",
+	"_key": "!actors.items!vwkiKknOKXOweDoj.9Yfp8en9WlMr8cct",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Curse",
+	"system": {
+		"description": "<p>DC 15 CHA or target gains a magical curse and loses [[/r 1d4]] CHA each day. At 1 CHA, the target is compelled to commit an act of murder and cannibalism, after which the target turns into a wendigo.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

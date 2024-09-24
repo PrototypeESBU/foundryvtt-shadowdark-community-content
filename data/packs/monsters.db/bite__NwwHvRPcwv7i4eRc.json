@@ -1,0 +1,37 @@
+{
+	"_id": "NwwHvRPcwv7i4eRc",
+	"_key": "!actors.items!EG3qIeTMdeVsgTNo.NwwHvRPcwv7i4eRc",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Bite",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"attackType": "physical",
+		"bonuses": {
+			"attackBonus": 10,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": "3",
+			"special": "Swallow Whole",
+			"value": "3d6"
+		},
+		"description": "",
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Attack"
+}

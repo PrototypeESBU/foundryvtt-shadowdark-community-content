@@ -1,0 +1,17 @@
+{
+	"_id": "fLazMOTL6Xu6yFbo",
+	"_key": "!actors.items!q5Tv7qaQCER2HZC5.fLazMOTL6Xu6yFbo",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Light Toxicity",
+	"system": {
+		"description": "<p>DISADV on attack rolls, ability checks, and morale checks when illuminated by torchlight or greater light. Takes [[/r 3d8]] damage per round while in direct sunlight.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

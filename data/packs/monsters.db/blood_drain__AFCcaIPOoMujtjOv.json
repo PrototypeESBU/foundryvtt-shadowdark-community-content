@@ -1,0 +1,17 @@
+{
+	"_id": "AFCcaIPOoMujtjOv",
+	"_key": "!actors.items!gn86jEIdKewrgJaB.AFCcaIPOoMujtjOv",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Penanggalan heals [[/r 2d6]] HP and target permanently loses [[/r 1d4]] CON. At 0 CON, target dies and rises as a penanggalan (if female) or vampire spawn (if male).</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

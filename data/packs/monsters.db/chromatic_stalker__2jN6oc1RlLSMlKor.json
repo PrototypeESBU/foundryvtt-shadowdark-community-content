@@ -1,0 +1,148 @@
+{
+	"_id": "2jN6oc1RlLSMlKor",
+	"_key": "!actors!2jN6oc1RlLSMlKor",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"sQzpsQ1VsLjMpfAr",
+		"7MJcS4G1P9GCKawb",
+		"3NQv92CASBOeGFHk"
+	],
+	"name": "Chromatic Stalker",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Chromatic Stalker",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"hd": 0,
+				"max": 18,
+				"value": 18
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Hovering in mid-air, this vaguely humanoid-shaped creature is composed completely of color—an unearthly shade of ultraviolet you have never seen before.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 18, <strong>ATK</strong> 1 touch +5 (1d6 + drain), <strong>MV</strong> near (fly), <strong>S</strong> +0, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Chromatic Form</strong>. Only harmed by magical sources. Naturally incorporeal.</p><p></p><p><strong>Drain</strong>. Target takes 1d4 CHA damage and flesh becomes gray and colorless. At 0 CHA, target transformed into a chromatic stalker.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

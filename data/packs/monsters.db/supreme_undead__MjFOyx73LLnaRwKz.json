@@ -1,0 +1,17 @@
+{
+	"_id": "MjFOyx73LLnaRwKz",
+	"_key": "!actors.items!AI5kYHezlpF6z94l.MjFOyx73LLnaRwKz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Supreme Undead",
+	"system": {
+		"description": "<p>Immune to morale checks. Only harmed by silver or magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

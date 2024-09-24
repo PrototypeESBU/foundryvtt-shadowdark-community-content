@@ -1,0 +1,17 @@
+{
+	"_id": "3SZi1mL9espkv2Or",
+	"_key": "!actors.items!KWwrSCT7gyJw4gZ7.3SZi1mL9espkv2Or",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Water Body",
+	"system": {
+		"description": "<p>Invisible when submerged in water. Only harmed by magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

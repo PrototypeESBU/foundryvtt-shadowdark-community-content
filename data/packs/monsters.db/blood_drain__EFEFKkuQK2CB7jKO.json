@@ -1,0 +1,17 @@
+{
+	"_id": "EFEFKkuQK2CB7jKO",
+	"_key": "!actors.items!33BlNbDroPO3gB1N.EFEFKkuQK2CB7jKO",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Nosferatu heals [[/r 2d6]] HP and the target permanently loses [[/r 1d4]] CON. At 0 CON, the target dies and rises as a nosferatu or vampire spawn (nosferatu chooses).</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "PUPvcwoqMvWcWntE",
+	"_key": "!actors.items!Z60rj4OyvOqHgoaY.PUPvcwoqMvWcWntE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>DC 16 STR or target held. DC 16 STR on turn to break free. While target held, tentacles auto hit.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

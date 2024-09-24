@@ -1,0 +1,147 @@
+{
+	"_id": "bK4rW1go9oOOlWfD",
+	"_key": "!actors!bK4rW1go9oOOlWfD",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"ocQ7WFKsXMQypZ3W",
+		"23WUSlI04lvX7ydN"
+	],
+	"name": "Leucrotta",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Leucrotta",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"hd": 0,
+				"max": 21,
+				"value": 21
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4
+		},
+		"move": "doubleNear",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Intelligent and cruel, this horse-sized quadruped has the head of a badger, hooves of a stag, and a mouth with sharp bony ridges instead of teeth.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 21, <strong>ATK</strong> 2 bite +4 (2d6), <strong>MV</strong> double near, <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +0, <strong>W</strong> +2, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Lure</strong>. In place of attacking, a leucrotta can use its supernatural mimicry ability to call out to a target within far range that is unaware of the leucrotta’s presence. If the target fails a DC 14 CHA save, it becomes mesmerized and can take no other actions except for approaching the sound of the voice. This effect ends after 1d4 rounds or if the leucrotta attacks the target.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

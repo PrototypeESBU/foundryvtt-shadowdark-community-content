@@ -1,0 +1,25 @@
+{
+	"_id": "ifkKN1VSj6b1j0L1",
+	"_key": "!actors.items!ozienqs99SOl2me2.ifkKN1VSj6b1j0L1",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Dead Man's Pinch",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 5
+		},
+		"description": "<p>DC 14 CON or [[/r 1d4]] CON damage (can’t heal while ill). Repeat check once per day; ends after 2 successes. Die at 0 CON. Living creatures moving within close of infected target DC 14 CON or gain same disease.</p>",
+		"predefinedEffects": "",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

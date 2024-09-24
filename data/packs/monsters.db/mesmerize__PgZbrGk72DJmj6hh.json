@@ -1,0 +1,24 @@
+{
+	"_id": "PgZbrGk72DJmj6hh",
+	"_key": "!actors.items!peltdw9XnV4Qenqu.PgZbrGk72DJmj6hh",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Mesmerize",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One humanoid target who can see the vourdalak within near, DC 14 CHA or immobilized [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

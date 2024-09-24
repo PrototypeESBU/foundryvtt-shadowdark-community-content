@@ -1,0 +1,17 @@
+{
+	"_id": "VjSE0YT8A7i0UQGo",
+	"_key": "!actors.items!kguWFby09IYBeNnt.VjSE0YT8A7i0UQGo",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Resistant",
+	"system": {
+		"description": "<p>Half damage from non-magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

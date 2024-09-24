@@ -1,0 +1,17 @@
+{
+	"_id": "ZVRH8ZWfZJpgkRez",
+	"_key": "!actors.items!uFCjPyjaCatXowlm.ZVRH8ZWfZJpgkRez",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Paralyzed",
+	"system": {
+		"description": "<p>DC 14 CON or paralyzed for [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

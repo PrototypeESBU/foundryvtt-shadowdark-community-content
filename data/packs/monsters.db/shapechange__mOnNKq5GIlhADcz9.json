@@ -1,0 +1,17 @@
+{
+	"_id": "mOnNKq5GIlhADcz9",
+	"_key": "!actors.items!0msUDn4LIUmUxM4T.mOnNKq5GIlhADcz9",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>In place of an attack, can transform into a jackal, human, or hybrid humanoid-jackal.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

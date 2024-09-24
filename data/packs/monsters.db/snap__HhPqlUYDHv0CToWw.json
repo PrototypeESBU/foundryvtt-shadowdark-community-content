@@ -1,0 +1,24 @@
+{
+	"_id": "HhPqlUYDHv0CToWw",
+	"_key": "!actors.items!lmx8bHFOVsWGeiJg.HhPqlUYDHv0CToWw",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Snap",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Once per day, a hand of Ecnaa'zhass can loudly snap its thumb and forefinger and drop all enemies within near to 1 HP.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

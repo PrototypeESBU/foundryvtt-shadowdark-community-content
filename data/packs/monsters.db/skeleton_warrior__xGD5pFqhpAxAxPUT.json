@@ -1,0 +1,149 @@
+{
+	"_id": "xGD5pFqhpAxAxPUT",
+	"_key": "!actors!xGD5pFqhpAxAxPUT",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"nTz4bWA8153kUsLc",
+		"boBFiigc0aLo0soE",
+		"4hXxu3PqApeoPszQ",
+		"KLntqts0WH7c8nZe"
+	],
+	"name": "Skeleton Warrior",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Skeleton Warrior",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 16
+			},
+			"hp": {
+				"hd": 0,
+				"max": 39,
+				"value": 39
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Once powerful mortal warriors, these skeletal undead stalk the shadows, furthering the schemes of the evil powers who created them.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 16 (+1 platemail), <strong>HP</strong> 39, <strong>ATK</strong> 3 greatsword +9 (1d12), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong> Fear Aura</strong>. Continuous effect, near range. DC 15 CHA or DISADV on attack rolls, spellcasting checks, and morale checks for 1d6 rounds. No save if LV 5 or lower.</p><p></p><p><strong>Phylactery</strong>. Cannot be killed while spirit vessel (a golden circlet) is intact.</p><p></p><p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources. Immune to hostile spells of 2nd tier or lower.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

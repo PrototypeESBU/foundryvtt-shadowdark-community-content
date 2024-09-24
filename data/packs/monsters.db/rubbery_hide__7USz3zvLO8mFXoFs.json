@@ -1,0 +1,17 @@
+{
+	"_id": "7USz3zvLO8mFXoFs",
+	"_key": "!actors.items!z4ecrfRok1l1TMwG.7USz3zvLO8mFXoFs",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rubbery Hide",
+	"system": {
+		"description": "<p>Half damage from stabbing weapons. Can squeeze through tight spaces as if halfling-sized.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

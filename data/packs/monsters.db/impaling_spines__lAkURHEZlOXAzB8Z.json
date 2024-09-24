@@ -1,0 +1,17 @@
+{
+	"_id": "lAkURHEZlOXAzB8Z",
+	"_key": "!actors.items!kl9c1FCwgofUQqzb.lAkURHEZlOXAzB8Z",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impaling Spines",
+	"system": {
+		"description": "<p>On a natural attack roll of 19-20, target takes x2 damage and is immobilized. DC 14 STR on turn to break free. Target takes [[/r 1d12]] additional damage when removed from spine.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

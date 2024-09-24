@@ -1,0 +1,23 @@
+{
+	"_id": "8pA7mlbnHtjxlIm7",
+	"_key": "!actors.items!YFlhNVWfTGAMIgmj.8pA7mlbnHtjxlIm7",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Acid Spray",
+	"system": {
+		"dc": "13",
+		"description": "<p>[[/r 3d6]] damage to all within a near-sized cube within far.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"range": "far",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

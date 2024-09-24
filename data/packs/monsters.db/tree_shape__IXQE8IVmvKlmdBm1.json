@@ -1,0 +1,17 @@
+{
+	"_id": "IXQE8IVmvKlmdBm1",
+	"_key": "!actors.items!bnGBS2FVio5yRy4r.IXQE8IVmvKlmdBm1",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tree Shape",
+	"system": {
+		"description": "<p>Looks like a tree when motionless.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

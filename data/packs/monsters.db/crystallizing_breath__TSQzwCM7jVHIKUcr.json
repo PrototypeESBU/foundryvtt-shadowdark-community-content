@@ -1,0 +1,24 @@
+{
+	"_id": "TSQzwCM7jVHIKUcr",
+	"_key": "!actors.items!pC3FuIHpVBWxHXn1.TSQzwCM7jVHIKUcr",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Crystallizing Breath",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near-sized cube extending from the grootslang. DC 15 CON or target covered with tiny crystals (petrified) for [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "xWF4SEjuEbzheh0W",
+	"_key": "!actors.items!y3U4vduE35dOn4nG.xWF4SEjuEbzheh0W",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only harmed by magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

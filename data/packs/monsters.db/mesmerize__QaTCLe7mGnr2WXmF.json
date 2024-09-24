@@ -1,0 +1,24 @@
+{
+	"_id": "QaTCLe7mGnr2WXmF",
+	"_key": "!actors.items!rNVHq7wSQVic9kCU.QaTCLe7mGnr2WXmF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Mesmerize",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One humanoid target who can see the pontianak within near, DC 15 CHA or stupefied [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

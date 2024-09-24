@@ -1,0 +1,150 @@
+{
+	"_id": "UcQaaucN70HZ9SVA",
+	"_key": "!actors!UcQaaucN70HZ9SVA",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"C9u16HKxgcnnrUvK",
+		"Jdzw0vihIJgnRTVf",
+		"wLZr7HTqT6wSfJKE",
+		"1WM63nHakoQkVklg",
+		"I5nWmWEsHUUydyt7"
+	],
+	"name": "Tsathoggan Frog Priest",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Tsathoggan Frog Priest",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"hd": 0,
+				"max": 24,
+				"value": 24
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>This pale, emaciated toad-man croaks blasphemously as it utters praises to Great Tsathoggua.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 24, <strong>ATK</strong> 2 mace +4 (1d6) or 1 spell +4, <strong>MV</strong> near (swim), <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +3, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Amphibious</strong>. Can breathe air or water.</p><p></p><p><strong>Croaking Doom (WIS Spell)</strong>. DC 13. Focus. One target within double near immobilized and takes 1d6 damage per round for duration. DC 13 WIS on turn to break free.</p><p></p><p><strong>Darkness (WIS Spell)</strong>. DC 11. Extinguishes all non-magical light sources within far.</p><p></p><p><strong>Rebuke (WIS Spell)</strong>. DC 13. Lawful creatures cannot attack frog priest or come within near range for 1d4 rounds.</p><p></p>",
+		"spellcastingAbility": "wis",
+		"spellcastingAttackNum": 1,
+		"spellcastingBonus": 4
+	},
+	"type": "NPC"
+}

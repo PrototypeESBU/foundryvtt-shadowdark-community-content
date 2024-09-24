@@ -1,0 +1,17 @@
+{
+	"_id": "uWfgWnid42S1hMyv",
+	"_key": "!actors.items!AnhNwJd6uJgKiBOE.uWfgWnid42S1hMyv",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same werefox, contract lycanthropy.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

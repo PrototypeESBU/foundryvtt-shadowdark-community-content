@@ -1,0 +1,150 @@
+{
+	"_id": "5zjN4udaXjVrq3rE",
+	"_key": "!actors!5zjN4udaXjVrq3rE",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"9cJ7ZNpMdZqkl0Wq",
+		"3mLyDGkjCdWcetGS",
+		"Dw1HtpXTda4WfFuh",
+		"QH8yPur0Anm9QtJy",
+		"TjEx3Pv5QNO4Z4na"
+	],
+	"name": "Huecuva",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Huecuva",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 3
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"hd": 0,
+				"max": 25,
+				"value": 25
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Appearing as humanoid skeletons dressed in tattered holy vestments in their natural form, these former clerics have a special hatred of Lawful-aligned priests. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 25, <strong>ATK</strong> 2 claws +4 (1d8), or 1 unholy word, <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +1, <strong>W</strong> +3, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Hatred</strong>. ADV on ATK rolls vs. Lawful-aligned priests.</p><p></p><p><strong>Illusory Form</strong>. Can appear as they did in life. DC 16 WIS to disbelieve.</p><p></p><p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Unholy Word</strong>. All Lawful and Neutral living creatures within near that can hear the huecuva, DC 14 WIS or 2d6 damage and paralyzed 1 round.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

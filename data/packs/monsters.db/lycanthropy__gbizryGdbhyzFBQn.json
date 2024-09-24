@@ -1,0 +1,17 @@
+{
+	"_id": "gbizryGdbhyzFBQn",
+	"_key": "!actors.items!nC1yXs2YidbT7wk0.gbizryGdbhyzFBQn",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same wereboar, contract lycanthropy.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

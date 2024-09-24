@@ -1,0 +1,17 @@
+{
+	"_id": "wdNSiNoppK8jX8vx",
+	"_key": "!actors.items!TrfrcNmCZEj2jBMM.wdNSiNoppK8jX8vx",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Enthrall",
+	"system": {
+		"description": "<p>A humanoid sitting on the back of a glashtyn must win a contested CHA check to avoid becoming paralyzed and unable to dismount. Repeat contested CHA check on each turn to break the enchantment.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

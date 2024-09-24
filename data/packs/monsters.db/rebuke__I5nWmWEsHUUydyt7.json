@@ -1,0 +1,23 @@
+{
+	"_id": "I5nWmWEsHUUydyt7",
+	"_key": "!actors.items!UcQaaucN70HZ9SVA.I5nWmWEsHUUydyt7",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Rebuke",
+	"system": {
+		"dc": "13",
+		"description": "<p>Lawful creatures cannot attack frog priest or come within near range for [[/r 1d4]] rounds.</p>",
+		"duration": {
+			"type": "rounds",
+			"value": "1d4"
+		},
+		"lost": false,
+		"range": "near",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

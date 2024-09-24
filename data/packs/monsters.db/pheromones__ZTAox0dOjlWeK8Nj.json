@@ -1,0 +1,17 @@
+{
+	"_id": "ZTAox0dOjlWeK8Nj",
+	"_key": "!actors.items!HtYRHApNWiqCvgJE.ZTAox0dOjlWeK8Nj",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pheromones",
+	"system": {
+		"description": "<p>Once per day, in place of attacks, all living creatures within double near, DC 14 WIS or paralyzed [[/r 1d6]] rounds. DC 14 WIS on turn to recover.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

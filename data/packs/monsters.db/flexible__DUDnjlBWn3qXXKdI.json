@@ -1,0 +1,17 @@
+{
+	"_id": "DUDnjlBWn3qXXKdI",
+	"_key": "!actors.items!H4boKC4QHj84uNmk.DUDnjlBWn3qXXKdI",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flexible",
+	"system": {
+		"description": "<p>Can squeeze through openings as if halfling-sized.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

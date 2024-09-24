@@ -1,0 +1,148 @@
+{
+	"_id": "n2qc2K8I0YlEl4wI",
+	"_key": "!actors!n2qc2K8I0YlEl4wI",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"3C5RLCNFrFdv4B2X",
+		"g4AyuZu4RjefLDek",
+		"z39t0GNQATSa1O9q"
+	],
+	"name": "Devil-swine",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Devil-swine",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -1
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": "11"
+			},
+			"hp": {
+				"hd": 0,
+				"max": "16",
+				"value": "16"
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": "3"
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>These half-demon, swine-headed humanoids gorge themselves on the flesh of sentient beings.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 16, <strong>ATK</strong> 1 greataxe +3 (1d8/1d10) or 1 gore +3 (1d8), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -1, <strong>W</strong> +1, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Swineherd</strong>. In place of attacks, can mentally command 1d10 boars or swine and incite them to a murderous frenzy for 1d6 rounds.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

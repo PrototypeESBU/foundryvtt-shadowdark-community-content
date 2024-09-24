@@ -1,0 +1,17 @@
+{
+	"_id": "bSMee9plQQghIkT0",
+	"_key": "!actors.items!umHPZp7r5QaRaPC3.bSMee9plQQghIkT0",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gelatinous",
+	"system": {
+		"description": "<p>Half damage from stabbing weapons.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

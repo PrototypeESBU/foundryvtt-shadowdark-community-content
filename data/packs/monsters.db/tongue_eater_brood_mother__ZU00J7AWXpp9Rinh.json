@@ -1,0 +1,148 @@
+{
+	"_id": "ZU00J7AWXpp9Rinh",
+	"_key": "!actors!ZU00J7AWXpp9Rinh",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"FOGGZ8fOa1F5IU10",
+		"Gx4LqrFBoIgqFvsV",
+		"lE0ELioq7icPEasN"
+	],
+	"name": "Tongue-eater Brood Mother",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Tongue-eater Brood Mother",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": -2
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": -2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 8
+			},
+			"hp": {
+				"hd": 0,
+				"max": 39,
+				"value": 39
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>This enormous, bloated sack of transparent, gelatinous flesh is covered with barbed appendages. Its great circular maw is ringed by multiple rows of jagged, dagger-sized teeth.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 8, <strong>HP</strong> 39, <strong>ATK</strong> 3 bite +7 (2d6 + swallow), <strong>MV</strong> near (swim), <strong>S</strong> +4, <strong>D</strong> -2, <strong>C</strong> +3, <strong>I</strong> -4, <strong>W</strong> -2, <strong>Ch</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Swallow</strong>. On a natural attack roll of 19-20, target is swallowed. Target takes 1d6 damage per round and must pass a DC 14 CON check each round they remain swallowed to resist tongue-eater infection. Brood mother regurgitates all swallowed if dealt at least 15 damage in 1 round to the inside of its gullet or once a swallowed creature is infected.</p><p></p><p><strong>Tongue-Eater Infection</strong>. See previous.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

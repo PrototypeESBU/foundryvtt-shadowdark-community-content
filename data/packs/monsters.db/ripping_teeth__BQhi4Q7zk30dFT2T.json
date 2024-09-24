@@ -1,0 +1,17 @@
+{
+	"_id": "BQhi4Q7zk30dFT2T",
+	"_key": "!actors.items!nKZlKhALOWbeEfw6.BQhi4Q7zk30dFT2T",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ripping Teeth",
+	"system": {
+		"description": "<p>If both claw attacks hit the same target, target takes an additional [[/r 2d8]] bite damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

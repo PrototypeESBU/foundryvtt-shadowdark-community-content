@@ -1,0 +1,17 @@
+{
+	"_id": "W7TcFoje2K5tSPiC",
+	"_key": "!actors.items!wTnf8KldZaMIHy7x.W7TcFoje2K5tSPiC",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same wereshark, contract lycanthropy.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

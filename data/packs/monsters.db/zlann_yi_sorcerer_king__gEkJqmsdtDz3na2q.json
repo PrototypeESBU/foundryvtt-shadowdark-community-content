@@ -1,0 +1,154 @@
+{
+	"_id": "gEkJqmsdtDz3na2q",
+	"_key": "!actors!gEkJqmsdtDz3na2q",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"nEkwzgnZDNje95xP",
+		"MEtleZLiMQ9axYH3",
+		"eYUFuyxKy9H0xqot",
+		"ctwHhMELO98SHgTR",
+		"pOQ9uuTL2R4LSOr4",
+		"mphyoT16VWes5yk3",
+		"d3M7T62HnIj3hq8x",
+		"rc9aSPUkgyWO27Ds",
+		"RLAUIyoMpfo9XXf2"
+	],
+	"name": "Zlann-yi Sorcerer-king",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Zlann-yi Sorcerer-king",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": -1
+			},
+			"int": {
+				"mod": 4
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 9
+			},
+			"hp": {
+				"hd": 0,
+				"max": 48,
+				"value": 48
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10
+		},
+		"move": "close",
+		"moveNote": "",
+		"notes": "\n\t<p><i>This enormous, corpulent toad-man squats atop a golden throne, held aloft by naked, vacant-eyed human thralls.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 9, <strong>HP</strong> 48, <strong>ATK</strong> 1 bite +6 (1d8) or 1 croaking doom or 2 spell +8, <strong>MV</strong> close, <strong>S</strong> +3, <strong>D</strong> -1, <strong>C</strong> +3, <strong>I</strong> +4, <strong>W</strong> +4, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Croaking Doom</strong>. 1/hour. All non-Zlann-Yi within double near DC 16 CON or paralyzed 1d4 rounds. If target is LV 7 or less and fails check, go to 0 HP.</p><p></p><p><strong>Enslave (INT spell)</strong>. DC 15. One target within double near DC 15 WIS or Zlann-Yi sorcerer-king controls for 2d6 rounds.</p><p></p><p><strong>Haruspicy (WIS spell)</strong>. DC 13. After taking 1 round to read the entrails of a sentient creature, all Zlann-Yi within near have ADV on all ATK rolls and checks for 1d6 rounds.</p><p></p><p><strong>Summon Toad Demon</strong>. 1/day. Summons a toad demon to serve for 2d6 rounds.</p><p></p><p><strong>Teleport (INT spell)</strong>. Self. DC 14. Teleport up to 10 miles.</p><p></p><p><strong>Terrify (WIS spell)</strong>. DC 15. On target within double near DC 15 WIS or DISADV on ATK rolls for 1d6 rounds.</p><p></p><p><strong>Unholy Blight (WIS spell)</strong>. DC 15. All enemies in a near-sized cube within far take 4d6 damage.</p><p></p><p><strong>Warding (INT spell)</strong>. Self. DC 14. Can only be harmed by magical sources for 1d4 rounds.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 2,
+		"spellcastingBonus": 8
+	},
+	"type": "NPC"
+}

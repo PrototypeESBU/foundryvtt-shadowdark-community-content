@@ -1,0 +1,37 @@
+{
+	"_id": "pUbwFw3152HGbB95",
+	"_key": "!actors.items!eC1YjWiVd6S6HvOD.pUbwFw3152HGbB95",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Tentacles",
+	"system": {
+		"attack": {
+			"num": "2"
+		},
+		"attackType": "physical",
+		"bonuses": {
+			"attackBonus": 3,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": "1",
+			"special": "Blood Drain",
+			"value": "1d6"
+		},
+		"description": "",
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Attack"
+}

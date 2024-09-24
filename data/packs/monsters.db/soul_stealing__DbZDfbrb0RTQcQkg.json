@@ -1,0 +1,17 @@
+{
+	"_id": "DbZDfbrb0RTQcQkg",
+	"_key": "!actors.items!nxoeLhKB68HfihOt.DbZDfbrb0RTQcQkg",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Soul-stealing",
+	"system": {
+		"description": "<p>In place of attacking, the cat-sith sits atop the chest of an unconscious, sleeping, or paralyzed humanoid. DC 15 CHA or humanoid drops to 0 HP.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

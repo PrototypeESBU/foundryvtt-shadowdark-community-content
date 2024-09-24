@@ -1,0 +1,17 @@
+{
+	"_id": "U2Lz5zxGwAMkU5nA",
+	"_key": "!actors.items!XwMsQXu0xzanvvHy.U2Lz5zxGwAMkU5nA",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hook",
+	"system": {
+		"description": "<p>DC 15 STR or DEX or target pulled next to fen giant, knocked prone, and immobilized 1 round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "DBXPKLHEAN2MJC8Q",
+	"_key": "!actors.items!WtcYMwwBRc7RYQr5.DBXPKLHEAN2MJC8Q",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>DC 11 CON or lose [[/r 1d4]] DEX. At 0 DEX, paralyzed for [[/r 4d6]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

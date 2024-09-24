@@ -1,0 +1,17 @@
+{
+	"_id": "RKF98HtBiuX7b4tU",
+	"_key": "!actors.items!YWSn0dQV9hcTPru8.RKF98HtBiuX7b4tU",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Vanishing Strike",
+	"system": {
+		"description": "<p>In place of attacking, the Pinestraw Man makes a single melee attack with his axe and then teleports to anywhere within far range.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "sWVA9PsM3TGdgdzH",
+	"_key": "!actors.items!KdBqomeJlrspmUJN.sWVA9PsM3TGdgdzH",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Young",
+	"system": {
+		"description": "<p>[[/r 1d3]]+1 young (1 HP, noncombatants). Each adds +1 DC to su-monster's mind thrust.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

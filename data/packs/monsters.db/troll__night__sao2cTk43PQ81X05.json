@@ -1,0 +1,150 @@
+{
+	"_id": "sao2cTk43PQ81X05",
+	"_key": "!actors!sao2cTk43PQ81X05",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"JG9C2r5wLr53BweH",
+		"YZ6eSolzfO54LArE",
+		"YuKVARRP6DLQ072w",
+		"Op5woXEQoeJW7KT8",
+		"tScIZWE7W3zsaunv"
+	],
+	"name": "Troll, Night",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Night Troll",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 14
+			},
+			"hp": {
+				"hd": 0,
+				"max": 33,
+				"value": 33
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Long and spindly, with ebon hides, these supernatural trolls stalk their prey by the light of the moon.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 14, <strong>HP</strong> 33, <strong>ATK</strong> 2 claw +7 (1d6) and 1 bite +7 (1d10), <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +2, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Nightlife</strong>. Night trolls only exist between sunset and sunrise. At sunrise, they vanish, reappearing at sunset on the spot where they vanished.</p><p></p><p><strong>Regenerate</strong>. Regains 2d6 HP on turn unless its wounds are cauterized with acid or fire.</p><p></p><p><strong>Stealthy</strong>. ADV on DEX checks to sneak and hide.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

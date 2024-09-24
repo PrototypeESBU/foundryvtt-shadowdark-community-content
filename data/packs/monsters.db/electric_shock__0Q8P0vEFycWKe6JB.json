@@ -1,0 +1,24 @@
+{
+	"_id": "0Q8P0vEFycWKe6JB",
+	"_key": "!actors.items!nSHQZIWKUxCX0cD2.0Q8P0vEFycWKe6JB",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Electric Shock",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Once per hour, can emit a blast of electricity that fills a near-sized cube extending from the tassargoi. Those in the cube take [[/r 3d6]] damage and must succeed at a DC 13 CON check or be paralyzed [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

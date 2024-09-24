@@ -1,0 +1,17 @@
+{
+	"_id": "SHpkg3saH8UPFIAT",
+	"_key": "!actors.items!m9FGYl6UCuDqhjhS.SHpkg3saH8UPFIAT",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Abduct",
+	"system": {
+		"description": "<p>Targets held for 2 consecutive rounds are pulled inside solid stone. While inside solid stone, bite attack auto hits, DC 16 to escape on turn.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

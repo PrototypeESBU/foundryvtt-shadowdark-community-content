@@ -1,0 +1,17 @@
+{
+	"_id": "ADfRCHlh2OCntlNg",
+	"_key": "!actors.items!4ty4a6NteypQwjn2.ADfRCHlh2OCntlNg",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>DC 11 CON or target falls into a deep sleep for [[/r 1d6]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

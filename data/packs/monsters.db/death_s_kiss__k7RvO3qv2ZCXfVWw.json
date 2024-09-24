@@ -1,0 +1,17 @@
+{
+	"_id": "k7RvO3qv2ZCXfVWw",
+	"_key": "!actors.items!GSgxeFnZjk5ltmaS.k7RvO3qv2ZCXfVWw",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Death's Kiss",
+	"system": {
+		"description": "<p>In place of attacking, a moth knight can deliver a moth-infused kiss to an incapacitated or recently dead (<1 minute) humanoid and transform them into a moth knight. Living targets get a DC 14 CHA save to resist.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

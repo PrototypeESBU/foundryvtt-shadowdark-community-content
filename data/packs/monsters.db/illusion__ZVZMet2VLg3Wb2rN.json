@@ -1,0 +1,17 @@
+{
+	"_id": "ZVZMet2VLg3Wb2rN",
+	"_key": "!actors.items!ft20i1IRyS2gAx3q.ZVZMet2VLg3Wb2rN",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Illusion",
+	"system": {
+		"description": "<p>Instantly change to look like any plant of similar size.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

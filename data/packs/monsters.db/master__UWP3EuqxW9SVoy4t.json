@@ -1,0 +1,17 @@
+{
+	"_id": "UWP3EuqxW9SVoy4t",
+	"_key": "!actors.items!hiGleIhi61IEpkaj.UWP3EuqxW9SVoy4t",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Master",
+	"system": {
+		"description": "<p>Cannot harm a goblin.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

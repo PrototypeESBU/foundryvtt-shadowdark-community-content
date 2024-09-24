@@ -1,0 +1,25 @@
+{
+	"_id": "UxgcOUplWdSkB9Z7",
+	"_key": "!actors.items!fqy3i4oJXdzp6lcs.UxgcOUplWdSkB9Z7",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Constrict",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Contested STR to hold target immobile for 1 round.</p>",
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

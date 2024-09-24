@@ -1,0 +1,17 @@
+{
+	"_id": "JACavo0ASC3QznSD",
+	"_key": "!actors.items!588p7cSkwPcyxNzK.JACavo0ASC3QznSD",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ambuscade",
+	"system": {
+		"description": "<p>When buried in sand, ADV on DEX checks to sneak and hide.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "rtQbWC9EZxAB8zFa",
+	"_key": "!actors.items!FChGG4x83gxC6v5c.rtQbWC9EZxAB8zFa",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sudden Strike",
+	"system": {
+		"description": "<p>During a surprise round, has ADV on attack rolls and deals ×3 damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

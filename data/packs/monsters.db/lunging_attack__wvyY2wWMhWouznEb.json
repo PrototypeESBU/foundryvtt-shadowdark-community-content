@@ -1,0 +1,17 @@
+{
+	"_id": "wvyY2wWMhWouznEb",
+	"_key": "!actors.items!cDLSsmkV6NGsmPUD.wvyY2wWMhWouznEb",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lunging Attack",
+	"system": {
+		"description": "<p>In place of attacks, can reach up to near and make 1 bite attack with ADV on attack roll.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

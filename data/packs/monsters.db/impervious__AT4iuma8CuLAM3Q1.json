@@ -1,0 +1,17 @@
+{
+	"_id": "AT4iuma8CuLAM3Q1",
+	"_key": "!actors.items!aJzzD1F9JRvGxwQN.AT4iuma8CuLAM3Q1",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only damaged by acid, fire, or magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

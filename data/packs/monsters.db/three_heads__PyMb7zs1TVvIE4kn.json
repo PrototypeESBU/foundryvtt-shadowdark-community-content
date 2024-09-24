@@ -1,0 +1,17 @@
+{
+	"_id": "PyMb7zs1TVvIE4kn",
+	"_key": "!actors.items!CtPqPOqC3wPM8AR4.PyMb7zs1TVvIE4kn",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Three Heads",
+	"system": {
+		"description": "<p>Can't be surprised.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

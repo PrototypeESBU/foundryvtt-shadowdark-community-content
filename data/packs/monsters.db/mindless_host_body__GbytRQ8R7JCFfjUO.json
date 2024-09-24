@@ -1,0 +1,17 @@
+{
+	"_id": "GbytRQ8R7JCFfjUO",
+	"_key": "!actors.items!S7IwQEZlDytPYmfS.GbytRQ8R7JCFfjUO",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mindless Host Body",
+	"system": {
+		"description": "<p>Immune to morale checks. If reduced to 0 HP by a non-magical source, DC 12 CON or go to 1 HP. If host body is reduced to 0 HP, tongue-eater emerges from host body and body can no longer be used as a host. If not yet an adult, tongue-eater is a defenseless [[/r 1d3]]-foot-long creature. If an adult, see below.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,23 @@
+{
+	"_id": "lhvrJfaPljX5AvF2",
+	"_key": "!actors.items!YeP0xyE9hqE9PPS8.lhvrJfaPljX5AvF2",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Unholy Word",
+	"system": {
+		"dc": "15",
+		"description": "<p>One lawful or neutral target of LV 9 or less within near must make a contested CHA check or go to 0 HP.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"range": "near",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

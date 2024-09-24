@@ -1,0 +1,17 @@
+{
+	"_id": "5M6dDK7ipp2EqKvp",
+	"_key": "!actors.items!8IxUJFgmk2emX08A.5M6dDK7ipp2EqKvp",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nightmare Paralysis",
+	"system": {
+		"description": "<p>When a sentient humanoid sleeps within double near range of a patch of these gray mushrooms, the target must succeed at a DC 12 WIS save or become paralyzed for [[/r 1d4]] hours. [[/r 2d6]] minutes after becoming paralyzed, the mushrooms transform into [[/r 1d4]] fungal stalkers per paralyzed target.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

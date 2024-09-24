@@ -1,0 +1,17 @@
+{
+	"_id": "a8URZW0oF8utQRic",
+	"_key": "!actors.items!peltdw9XnV4Qenqu.a8URZW0oF8utQRic",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Vourdalak heals [[/r 2d6]] HP and target loses [[/r 1d4]] CON. At 0 CON, target dies.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

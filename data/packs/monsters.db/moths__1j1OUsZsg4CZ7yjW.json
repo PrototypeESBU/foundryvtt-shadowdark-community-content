@@ -1,0 +1,17 @@
+{
+	"_id": "1j1OUsZsg4CZ7yjW",
+	"_key": "!actors.items!GSgxeFnZjk5ltmaS.1j1OUsZsg4CZ7yjW",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Moths",
+	"system": {
+		"description": "<p>When slain, moths exit the moth knight’s body and attempt to transform the closest living humanoid into a moth knight (DC 14 CHA resists). If target resists, the moths die.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

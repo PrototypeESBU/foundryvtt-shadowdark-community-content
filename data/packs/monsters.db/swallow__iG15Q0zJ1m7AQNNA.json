@@ -1,0 +1,17 @@
+{
+	"_id": "iG15Q0zJ1m7AQNNA",
+	"_key": "!actors.items!VrEUeSgIJDXkaB1u.iG15Q0zJ1m7AQNNA",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a natural attack roll of 18-20, target is swallowed. Total darkness inside and [[/r 2d12]] damage per round. Troll gorger regurgitates all swallowed if dealt at least 20 damage in one round to the inside of its gullet.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

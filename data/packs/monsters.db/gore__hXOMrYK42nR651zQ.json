@@ -1,0 +1,17 @@
+{
+	"_id": "hXOMrYK42nR651zQ",
+	"_key": "!actors.items!ADINkzDIorx4GzCO.hXOMrYK42nR651zQ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gore",
+	"system": {
+		"description": "<p>Deals an extra die of damage if it hits the same target with both tusks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

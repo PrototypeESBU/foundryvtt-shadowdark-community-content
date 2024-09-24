@@ -1,0 +1,23 @@
+{
+	"_id": "ufRlDkjTQeg7s5mS",
+	"_key": "!actors.items!Y874dtg4u9ggEQc1.ufRlDkjTQeg7s5mS",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Charm",
+	"system": {
+		"dc": "12",
+		"description": "<p>One living target. Contested CHA check or under masked mage's control for [[/r 1d10]] days.</p>",
+		"duration": {
+			"type": "days",
+			"value": "0"
+		},
+		"lost": false,
+		"range": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

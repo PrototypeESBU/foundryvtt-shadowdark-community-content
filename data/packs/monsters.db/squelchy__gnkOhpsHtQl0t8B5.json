@@ -1,0 +1,17 @@
+{
+	"_id": "gnkOhpsHtQl0t8B5",
+	"_key": "!actors.items!BZVF4o7ph1PUJEsX.gnkOhpsHtQl0t8B5",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Squelchy",
+	"system": {
+		"description": "<p>Half damage from bludgeoning weapons.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "iry3mjsohlOgFSO4",
+	"_key": "!actors.items!mz4ypmV7Tgix9JYh.iry3mjsohlOgFSO4",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Semi-amphibious",
+	"system": {
+		"description": "<p>Can crawl on land (MV close). Must submerge in water after 1 hour or suffocate.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

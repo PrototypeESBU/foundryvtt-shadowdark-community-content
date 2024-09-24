@@ -1,0 +1,24 @@
+{
+	"_id": "c5Z0acywnY8FJZoj",
+	"_key": "!actors.items!e0NMmPfUxUF3MdLD.c5Z0acywnY8FJZoj",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Croak",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All non-Zlann-Yi within near DC 12 CON or paralyzed 1 round.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

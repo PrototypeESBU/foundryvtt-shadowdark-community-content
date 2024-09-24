@@ -1,0 +1,154 @@
+{
+	"_id": "Lbx7hKaDx7BzeGDI",
+	"_key": "!actors!Lbx7hKaDx7BzeGDI",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"WUvw93GVKmKdZVZ6",
+		"vLeucXuvkbo3TkB9",
+		"GgAwgd7RUH3uxDlS",
+		"KO8Lm3LPYeR6Vy5b",
+		"ULV2jy5taX5snksm",
+		"hS0YqSfTJEamjIgi",
+		"2mDb6wqdMwwOsGNa",
+		"UUSL8iqYcoOLtULL",
+		"bkP2E2awBZFY3VHT"
+	],
+	"name": "Prayer Corpse",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Prayer Corpse",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"hd": 0,
+				"max": 49,
+				"value": 49
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>Pale and headless, this 10-foot-long humanoid cadaver crawls about on its inverted forearms and knees. Its torso is covered with oozing sores, unholy symbols branded into its flesh, dozens of mouths whispering obscene prayers to dark gods, and dozens of hands that claw at the air and make occult gestures.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 49, <strong>ATK</strong> 3 claw +7 (1d10) or 2 spell +7, <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +4, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Chaos Ward</strong>. Non-chaotic creatures targeting a prayer corpse have DISADV on attack rolls and hostile spellcasting checks.</p><p></p><p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by magical sources.</p><p></p>",
+		"spellcastingAbility": "wis",
+		"spellcastingAttackNum": 2,
+		"spellcastingBonus": 7
+	},
+	"type": "NPC"
+}

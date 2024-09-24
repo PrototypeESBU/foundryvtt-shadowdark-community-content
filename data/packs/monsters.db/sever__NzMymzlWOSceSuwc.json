@@ -1,0 +1,17 @@
+{
+	"_id": "NzMymzlWOSceSuwc",
+	"_key": "!actors.items!FChGG4x83gxC6v5c.NzMymzlWOSceSuwc",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sever",
+	"system": {
+		"description": "<p>On a natural ATK roll of 19-20 against a humanoid or animal target, DC 15 DEX or target decapitated and killed.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

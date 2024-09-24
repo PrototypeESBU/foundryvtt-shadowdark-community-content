@@ -1,0 +1,17 @@
+{
+	"_id": "TIKHppjx7g6cN0EM",
+	"_key": "!actors.items!te0HGdwpEzd8AObO.TIKHppjx7g6cN0EM",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flurry Of Blades",
+	"system": {
+		"description": "<p>If the boneguard does not move, it can make 3 longsword attacks in the same round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

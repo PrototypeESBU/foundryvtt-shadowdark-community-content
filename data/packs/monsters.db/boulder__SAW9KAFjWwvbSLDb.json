@@ -1,0 +1,17 @@
+{
+	"_id": "SAW9KAFjWwvbSLDb",
+	"_key": "!actors.items!fjtQixzWcA0wSo8L.SAW9KAFjWwvbSLDb",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Boulder",
+	"system": {
+		"description": "<p>Indistinguishable from a boulder when motionless.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

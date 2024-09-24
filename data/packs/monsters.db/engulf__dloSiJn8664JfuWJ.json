@@ -1,0 +1,17 @@
+{
+	"_id": "dloSiJn8664JfuWJ",
+	"_key": "!actors.items!KWwrSCT7gyJw4gZ7.dloSiJn8664JfuWJ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Engulf",
+	"system": {
+		"description": "<p>DC 14 STR or DEX or target held. Engulfed target takes [[/r 1d6]] damage at the start of its turn. DC 14 STR or DEX on turn to break free.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

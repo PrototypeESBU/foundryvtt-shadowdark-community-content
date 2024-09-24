@@ -1,0 +1,24 @@
+{
+	"_id": "0hvxHqUysPEXAhtA",
+	"_key": "!actors.items!oHuOtqbM5TZ1RhEf.0hvxHqUysPEXAhtA",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target within near who can see the hag, DC 14 CHA or under hag’s control for [[/r 1d4]] days.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

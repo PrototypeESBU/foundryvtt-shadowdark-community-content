@@ -1,0 +1,23 @@
+{
+	"_id": "y6SxRb6HIyrEFCGF",
+	"_key": "!actors.items!YeP0xyE9hqE9PPS8.y6SxRb6HIyrEFCGF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Burn",
+	"system": {
+		"dc": "14",
+		"description": "<p>One creature in double near takes [[/r 4d6]] damage.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"range": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "KiJ0xUIiKUD7ksTA",
+	"_key": "!actors.items!vwkiKknOKXOweDoj.KiJ0xUIiKUD7ksTA",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only harmed by fire (deal ×2 damage) and magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

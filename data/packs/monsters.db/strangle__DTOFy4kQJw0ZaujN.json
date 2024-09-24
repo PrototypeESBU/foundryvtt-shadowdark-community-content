@@ -1,0 +1,17 @@
+{
+	"_id": "DTOFy4kQJw0ZaujN",
+	"_key": "!actors.items!SxSbGxS01Kqgwvh8.DTOFy4kQJw0ZaujN",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Strangle",
+	"system": {
+		"description": "<p>A grabbed target cannot speak and takes [[/r 2d6]] damage per round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "XC1WYCE92An5UcuF",
+	"_key": "!actors.items!AnhNwJd6uJgKiBOE.XC1WYCE92An5UcuF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One humanoid target who can see the werefox within near, DC 12 CHA or under werefox’s control for [[/r 1d6]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

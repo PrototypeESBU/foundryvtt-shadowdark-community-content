@@ -1,0 +1,17 @@
+{
+	"_id": "r9lNBhIqpmU1TjBy",
+	"_key": "!actors.items!eC1YjWiVd6S6HvOD.r9lNBhIqpmU1TjBy",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Blood orchid heals [[/r 1d6]] HP and target loses 1 CON. At 0 CON, target dies.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,149 @@
+{
+	"_id": "Xt88oIaJXTmYotWO",
+	"_key": "!actors!Xt88oIaJXTmYotWO",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"G7k6yGBOOUGuIt4R",
+		"9tunM5aHcoJiPNKe",
+		"55aK7LVUWejescg3",
+		"dQusnS41JVyO6buk"
+	],
+	"name": "Slaughterhound",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Slaughterhound",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"hd": 0,
+				"max": 23,
+				"value": 23
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A mastiff with a shimmering black pelt, cold blue eyes, and an over-sized mouth with three rows of jagged silver teeth.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 23, <strong>ATK</strong> 2 bites +4 (1d8 + disintegration), <strong>MV</strong> near, <strong>S</strong> +2, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Dimensional Charge</strong>. In place of attacks, teleport anywhere within sight and make 1 bite attack.</p><p></p><p><strong>Disintegration</strong>. A creature reduced to 0 hit points from bite attack is turned to ash.</p><p></p><p><strong>Unnatural Anatomy</strong>. Half damage from nonmagical weapons.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

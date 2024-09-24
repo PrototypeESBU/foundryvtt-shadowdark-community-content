@@ -1,0 +1,150 @@
+{
+	"_id": "RufYAMFEqw9Q8GZ8",
+	"_key": "!actors!RufYAMFEqw9Q8GZ8",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"eb1cjLHqSlwpbpPe",
+		"YH8itHWwqS1OW09e",
+		"AchAriBJ5ap7TnrY",
+		"s4atWtdnsF7hmB5Y",
+		"wuQsGyAsuFhuKQLL"
+	],
+	"name": "Ghoulspawn Hydra",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Ghoulspawn Hydra",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"hd": 0,
+				"max": 30,
+				"value": 30
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>This enormous beast has a shaggy, elephant-like body with a cluster of fanged, ghoulish humanoid heads writhing from long necks. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 15, <strong>ATK</strong> 1 bite (near) +7 (1d8 + paralyze), <strong>MV</strong> near, <strong>S</strong> +5, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 2</p><p></p>\n\t<p><strong>Create Spawn</strong>. Humanoids killed and not completely consumed by a ghoulspawn hydra rise as ghouls 2d6 rounds after death.</p><p></p><p><strong>Heads</strong>. Choose how many heads the beast has. Each is LV 2, AC 11, HP 15, and can make 1 bite attack. A killed head sprouts into 2 new heads at the start of the beast’s turn unless doused with holy water or targeted by a bless spell beforehand. The beast’s LV is all the heads combined.</p><p></p><p><strong>Paralyze</strong>. DC 14 CON or paralyzed 1d4 rounds.</p><p></p><p><strong>Undead</strong>. Immune to morale checks.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

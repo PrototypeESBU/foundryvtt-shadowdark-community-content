@@ -1,0 +1,24 @@
+{
+	"_id": "pehsXs9ZcW68evvd",
+	"_key": "!actors.items!h6664LUiKz55fHRw.pehsXs9ZcW68evvd",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Grab",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target in near. DC 14 STR or wrapped in toad demon’s tongue and pulled into its mouth. Bite attacks auto-hit the target. Can only grab 1 target at a time. DC 14 STR on turn to break free.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

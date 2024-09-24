@@ -1,0 +1,17 @@
+{
+	"_id": "hqkI7vphLwLmHMYd",
+	"_key": "!actors.items!pgImNmipkN0nhyjW.hqkI7vphLwLmHMYd",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Amphibious",
+	"system": {
+		"description": "<p>Can breathe air or water.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

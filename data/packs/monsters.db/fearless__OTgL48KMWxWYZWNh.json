@@ -1,0 +1,17 @@
+{
+	"_id": "OTgL48KMWxWYZWNh",
+	"_key": "!actors.items!OZzcgPCBQqt3lFB4.OTgL48KMWxWYZWNh",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fearless",
+	"system": {
+		"description": "<p>Immune to morale checks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

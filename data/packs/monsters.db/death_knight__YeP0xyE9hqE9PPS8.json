@@ -1,0 +1,152 @@
+{
+	"_id": "YeP0xyE9hqE9PPS8",
+	"_key": "!actors!YeP0xyE9hqE9PPS8",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"Jzigkd5Lyjp2zUhj",
+		"y6SxRb6HIyrEFCGF",
+		"qY08qBocybCjhqB6",
+		"KOwVUsiMp3Pipkh8",
+		"qlaMQe0Xwtzht8dv",
+		"xWvYXamNAjUAPwzR",
+		"lhvrJfaPljX5AvF2"
+	],
+	"name": "Death Knight",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Death Knight",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 18
+			},
+			"hp": {
+				"hd": 0,
+				"max": 71,
+				"value": 71
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 15
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A form of lich created from a fallen lawful knight. Only 12 are known to exist.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 18 (+3 mithral platemail), <strong>HP</strong> 71, <strong>ATK</strong> 4 +2 greatsword +10 (1d12 + 2), <strong>MV</strong> near, <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 15</p><p></p>\n\t<p><strong>Burn (CHA Spell)</strong>. DC 14. One creature in double near takes 4d6 damage.</p><p></p><p><strong>Gate</strong>. 1/day. Open a portal at a point within near to Hell or the Dark Realms. Lasts 1d6 rounds or until dismissed. While portal is open, a 2-in-6 chance per round of summoning a devil or demon of LV 9 or less under the Death Knight’s command.</p><p></p><p><strong>Phylactery</strong>. Cannot be killed while spirit vessel (a ruby) is intact.</p><p></p><p><strong>Summon Nightmare</strong>. 1/day. Summon a nightmare steed.</p><p></p><p><strong>Supreme Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources.</p><p></p><p><strong>Unholy Word (CHA Spell)</strong>. DC 15. One lawful or neutral target of LV 9 or less within near must make a contested CHA check or go to 0 HP.</p><p></p>",
+		"spellcastingAbility": "cha",
+		"spellcastingAttackNum": 1,
+		"spellcastingBonus": 4
+	},
+	"type": "NPC"
+}

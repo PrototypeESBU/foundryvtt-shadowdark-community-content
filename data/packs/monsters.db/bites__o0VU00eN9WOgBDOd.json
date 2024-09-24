@@ -1,0 +1,38 @@
+{
+	"_id": "o0VU00eN9WOgBDOd",
+	"_key": "!actors.items!CVATmgSYagi1F8jx.o0VU00eN9WOgBDOd",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Bites",
+	"system": {
+		"attack": {
+			"num": "2"
+		},
+		"attackType": "physical",
+		"bonuses": {
+			"attackBonus": 6,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": "2",
+			"special": "Gobble",
+			"value": "2d8"
+		},
+		"description": "",
+		"predefinedEffects": "",
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Attack"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "LLETdXJZ56e7kSVf",
+	"_key": "!actors.items!dEn0n8o53SZhK318.LLETdXJZ56e7kSVf",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flammable",
+	"system": {
+		"description": "<p>Takes double damage from fire.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "wI7SmXVGLY4K65lT",
+	"_key": "!actors.items!V8ABRE0AlCFqasB4.wI7SmXVGLY4K65lT",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Clay-like Body",
+	"system": {
+		"description": "<p>Immune to bludgeoning attacks. Half damage from cutting and stabbing attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

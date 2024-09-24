@@ -1,0 +1,17 @@
+{
+	"_id": "3OxsqHOnwCtfv6C6",
+	"_key": "!actors.items!33BlNbDroPO3gB1N.3OxsqHOnwCtfv6C6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Charm",
+	"system": {
+		"description": "<p>One humanoid target who can see the nosferatu within near. DC 16 CHA or under the nosferatu’s control for [[/r 1d4]] days.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

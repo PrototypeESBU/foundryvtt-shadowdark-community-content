@@ -1,0 +1,149 @@
+{
+	"_id": "wrDdN4euM34f1RRH",
+	"_key": "!actors!wrDdN4euM34f1RRH",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"01SPvBuOhVNiei9b",
+		"IGdZanX8QbPQ9X1E",
+		"Gabf5cGtJSivsnfh",
+		"ym4V1iB7YH75w3wy"
+	],
+	"name": "Hag, Marsh",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Marsh Hag",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 1
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"hd": 0,
+				"max": 24,
+				"value": 24
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5
+		},
+		"move": "near",
+		"moveNote": "swim",
+		"notes": "\n\t<p><i>A squat, muck-covered crone, with moss and toadstools sprouting from her soggy, green-brown flesh.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 24, <strong>ATK</strong> 2 bite +3 (1d6 + poison) or 1 vomit muck (near), <strong>MV</strong> near (swim), <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +0, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Poison</strong>. DC 13 CON or paralyzed 1d4 rounds.</p><p></p><p><strong>Shapechange</strong>. Instantly change to look like any other humanoid.</p><p></p><p><strong>Vomit Muck</strong>. DC 13 DEX or target blinded for 1d4 rounds.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

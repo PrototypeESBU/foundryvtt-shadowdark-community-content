@@ -1,0 +1,17 @@
+{
+	"_id": "xN4Ac0EjfxpCpqSZ",
+	"_key": "!actors.items!SxxGcDedHqHjzGfH.xN4Ac0EjfxpCpqSZ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rotting Curse",
+	"system": {
+		"description": "<p>DC 14 CON or target takes [[/r 1d4]] CON damage (can’t heal CON while cursed) and gains a magical curse that causes the target’s flesh to rot. Repeat check once per day. Dead at 0 CON, rises as zombie.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

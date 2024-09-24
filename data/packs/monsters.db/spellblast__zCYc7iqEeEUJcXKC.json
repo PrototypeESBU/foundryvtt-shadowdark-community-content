@@ -1,0 +1,23 @@
+{
+	"_id": "zCYc7iqEeEUJcXKC",
+	"_key": "!actors.items!Y874dtg4u9ggEQc1.zCYc7iqEeEUJcXKC",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Spellblast",
+	"system": {
+		"dc": "13",
+		"description": "<p>[[/r 3d10]] damage within far.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"range": "far",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

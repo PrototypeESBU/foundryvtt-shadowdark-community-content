@@ -1,0 +1,37 @@
+{
+	"_id": "w3l5lKz1Jo98x0Cc",
+	"_key": "!actors.items!P4b196Kmlcp566df.w3l5lKz1Jo98x0Cc",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Claws",
+	"system": {
+		"attack": {
+			"num": "2"
+		},
+		"attackType": "physical",
+		"bonuses": {
+			"attackBonus": 4,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": "1",
+			"special": "Grab",
+			"value": "1d8"
+		},
+		"description": "",
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Attack"
+}

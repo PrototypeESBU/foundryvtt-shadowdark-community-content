@@ -1,0 +1,17 @@
+{
+	"_id": "fCBdSw3O9pkvUGB6",
+	"_key": "!actors.items!yNGf1RZmNxovs5U9.fCBdSw3O9pkvUGB6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stealthy",
+	"system": {
+		"description": "<p>ADV on DEX checks to sneak and hide.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

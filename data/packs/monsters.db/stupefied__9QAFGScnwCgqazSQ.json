@@ -1,0 +1,17 @@
+{
+	"_id": "9QAFGScnwCgqazSQ",
+	"_key": "!actors.items!IPfAw35IF3WSKvhl.9QAFGScnwCgqazSQ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stupefied",
+	"system": {
+		"description": "<p>While devouring prey whole, bonegrinder giant is stupefied for [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

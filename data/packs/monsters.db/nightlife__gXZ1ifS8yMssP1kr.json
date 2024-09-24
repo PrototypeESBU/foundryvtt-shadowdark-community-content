@@ -1,0 +1,17 @@
+{
+	"_id": "gXZ1ifS8yMssP1kr",
+	"_key": "!actors.items!bI4rD06ajD17MBFC.gXZ1ifS8yMssP1kr",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nightlife",
+	"system": {
+		"description": "<p>A mngwa only exists between sunset and sunrise. At sunrise, they vanish, reappearing at sunset on the spot where they vanished, fully healed of all wounds and harmful effects.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

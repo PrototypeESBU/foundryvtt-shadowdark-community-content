@@ -1,0 +1,17 @@
+{
+	"_id": "H7yLE2xPNZZEOAlh",
+	"_key": "!actors.items!vwKDkA1wPmpn08q8.H7yLE2xPNZZEOAlh",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Water Toxicity",
+	"system": {
+		"description": "<p>Sandsquid dies if completely immersed in water.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

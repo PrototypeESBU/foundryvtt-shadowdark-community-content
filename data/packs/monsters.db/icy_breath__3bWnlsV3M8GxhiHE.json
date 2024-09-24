@@ -1,0 +1,24 @@
+{
+	"_id": "3bWnlsV3M8GxhiHE",
+	"_key": "!actors.items!i9UCgeUkW8cJTQUi.3bWnlsV3M8GxhiHE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Icy Breath",
+	"system": {
+		"attack": {
+			"num": ""
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All within near-sized cube DC 14 DEX or [[/r 3d10]] damage and paralyzed [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

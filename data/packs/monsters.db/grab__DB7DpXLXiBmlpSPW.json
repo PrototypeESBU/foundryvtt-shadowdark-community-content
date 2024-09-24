@@ -1,0 +1,17 @@
+{
+	"_id": "DB7DpXLXiBmlpSPW",
+	"_key": "!actors.items!DXJ9Q02DubO748y9.DB7DpXLXiBmlpSPW",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>Target is immobilized. DC 15 STR or DEX on turn to break free. Can immobilize up to 3 targets at once.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

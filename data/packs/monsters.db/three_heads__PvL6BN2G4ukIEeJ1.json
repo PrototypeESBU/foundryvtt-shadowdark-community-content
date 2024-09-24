@@ -1,0 +1,17 @@
+{
+	"_id": "PvL6BN2G4ukIEeJ1",
+	"_key": "!actors.items!LX2cFFME4gH9c0mT.PvL6BN2G4ukIEeJ1",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Three Heads",
+	"system": {
+		"description": "<p>Can't be surprised. ADV on saves vs charm and mind-affecting spells.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "kxEtzWaqhqaPoYIG",
+	"_key": "!actors.items!6hK7023fIYTaID9l.kxEtzWaqhqaPoYIG",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Crush",
+	"system": {
+		"description": "<p>In place of attacks, meat cube moves double near in a straight line. Any creatures smaller than the meat cube in its path take [[/r 3d6]] damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

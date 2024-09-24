@@ -1,0 +1,17 @@
+{
+	"_id": "boBFiigc0aLo0soE",
+	"_key": "!actors.items!xGD5pFqhpAxAxPUT.boBFiigc0aLo0soE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Phylactery",
+	"system": {
+		"description": "<p>Cannot be killed while spirit vessel (a golden circlet) is intact.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

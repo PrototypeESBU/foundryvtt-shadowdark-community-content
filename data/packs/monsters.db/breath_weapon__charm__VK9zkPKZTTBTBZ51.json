@@ -1,0 +1,17 @@
+{
+	"_id": "VK9zkPKZTTBTBZ51",
+	"_key": "!actors.items!Z60rj4OyvOqHgoaY.VK9zkPKZTTBTBZ51",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Breath Weapon: Charm",
+	"system": {
+		"description": "<p>DC 15 CHA or target becomes ally for [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "pSKvLJZPZxdRrcVq",
+	"_key": "!actors.items!vwkiKknOKXOweDoj.pSKvLJZPZxdRrcVq",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Howl",
+	"system": {
+		"description": "<p>1/day, 1 mile range. DC 18 CHA or DISADV on attacks and spellcasting checks for [[/r 1d6]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

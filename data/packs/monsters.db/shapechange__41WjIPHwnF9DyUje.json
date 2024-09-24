@@ -1,0 +1,17 @@
+{
+	"_id": "41WjIPHwnF9DyUje",
+	"_key": "!actors.items!czwZPQxWpePApr0x.41WjIPHwnF9DyUje",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>In place of attacks, can change to look like any humanoid or giant 3 feet taller or shorter.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

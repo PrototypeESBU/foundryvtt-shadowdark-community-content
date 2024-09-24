@@ -1,0 +1,17 @@
+{
+	"_id": "Aw3vu8lMCsxs4rLz",
+	"_key": "!actors.items!akAKpDGTjZcZFJQ2.Aw3vu8lMCsxs4rLz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flyby Attack",
+	"system": {
+		"description": "<p>In place of attacks, fly up to double near in a straight line and make 1 bite attack at any point along the path. If hit, x2 damage and target knocked prone.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

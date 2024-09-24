@@ -1,0 +1,17 @@
+{
+	"_id": "I5ZllBL6Yirbye3D",
+	"_key": "!actors.items!nolGXheETwWid5tM.I5ZllBL6Yirbye3D",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Bloodlust",
+	"system": {
+		"description": "<p>Enters a killing frenzy after a successful bite attack. Immune to morale checks and deals +[[/r 1d10]] damage. Ends when the byakhee or opponents are slain.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

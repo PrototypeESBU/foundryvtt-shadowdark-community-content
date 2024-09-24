@@ -1,0 +1,17 @@
+{
+	"_id": "KLntqts0WH7c8nZe",
+	"_key": "!actors.items!xGD5pFqhpAxAxPUT.KLntqts0WH7c8nZe",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fear Aura",
+	"system": {
+		"description": "<p>Continuous effect, near range. DC 15 CHA or DISADV on attack rolls, spellcasting checks, and morale checks for [[/r 1d6]] rounds. No save if LV 5 or lower.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

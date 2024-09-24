@@ -1,0 +1,17 @@
+{
+	"_id": "gljlwX8MP23TDhS1",
+	"_key": "!actors.items!I9cVjgBjEtDm3ORw.gljlwX8MP23TDhS1",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Iron Body",
+	"system": {
+		"description": "<p>Nonmagical weapons that strike an iron gargoyle break on a d6 roll of 1-3.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "xMUcfXjMxTr7RUGn",
+	"_key": "!actors.items!yNGf1RZmNxovs5U9.xMUcfXjMxTr7RUGn",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gnaw",
+	"system": {
+		"description": "<p>Deals [[/r 1d10]] bite damage if it hits the same target with both claw attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

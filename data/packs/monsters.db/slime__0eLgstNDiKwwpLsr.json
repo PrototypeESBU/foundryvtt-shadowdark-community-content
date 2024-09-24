@@ -1,0 +1,17 @@
+{
+	"_id": "0eLgstNDiKwwpLsr",
+	"_key": "!actors.items!yyAYbKYJQcshhEXR.0eLgstNDiKwwpLsr",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Slime",
+	"system": {
+		"description": "<p>Half damage from nonmagical sources. Items made of wood, leather, or metal that touch the slime are destroyed on a d6 roll of 1-2.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

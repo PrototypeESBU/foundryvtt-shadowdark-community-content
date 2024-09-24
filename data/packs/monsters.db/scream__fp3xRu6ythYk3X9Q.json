@@ -1,0 +1,24 @@
+{
+	"_id": "fp3xRu6ythYk3X9Q",
+	"_key": "!actors.items!2TRqpcu8Kp8cWNy8.fp3xRu6ythYk3X9Q",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Scream",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All living creatures within double-near, DC 14 CON or [[/r 3d6]] damage, and agarat heals [[/r 2d6]] HP.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

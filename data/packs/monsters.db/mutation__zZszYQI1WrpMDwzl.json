@@ -1,0 +1,17 @@
+{
+	"_id": "zZszYQI1WrpMDwzl",
+	"_key": "!actors.items!SCoQH3knx2FOGBhJ.zZszYQI1WrpMDwzl",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mutation",
+	"system": {
+		"description": "<p>The troll has 3 mutations from the following list (roll [[/r 2d6]]):</p><p>1. Thick hide: +3 AC, </p><p>2. 2d10 additional eyes (can’t be surprised), </p><p>3. Wings: gains MV near (fly), </p><p>4. Tentacles: gains an additional ATK tentacles +7 (1d10), </p><p>5. Fast: gains MV double near, </p><p>6. Magic resistant: immune to Tier 3 or lower spells, </p><p>7. Wallcrawler: gains MV near (climb), </p><p>8. Elite: +4 to STR, DEX, CON, or INT, </p><p>9. Acid immune, </p><p>10. Fire immune, </p><p>11. Enchanted hide: only harmed by magical sources</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

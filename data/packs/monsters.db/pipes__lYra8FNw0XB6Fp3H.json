@@ -1,0 +1,17 @@
+{
+	"_id": "lYra8FNw0XB6Fp3H",
+	"_key": "!actors.items!KP0lSRw2but84Vej.lYra8FNw0XB6Fp3H",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pipes",
+	"system": {
+		"description": "<p>Once per minute, all enemies within double near that can hear the pipes, DC 12 WIS or fall into a deep sleep for [[/r 1d6]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

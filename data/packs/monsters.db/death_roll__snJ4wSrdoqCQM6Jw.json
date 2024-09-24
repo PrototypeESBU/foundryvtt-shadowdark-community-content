@@ -1,0 +1,17 @@
+{
+	"_id": "snJ4wSrdoqCQM6Jw",
+	"_key": "!actors.items!fqy3i4oJXdzp6lcs.snJ4wSrdoqCQM6Jw",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Death Roll",
+	"system": {
+		"description": "<p>If both bite attacks hit the same target, DC 14 STR or the target is restrained.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

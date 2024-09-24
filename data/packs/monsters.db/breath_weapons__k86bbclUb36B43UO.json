@@ -1,0 +1,24 @@
+{
+	"_id": "k86bbclUb36B43UO",
+	"_key": "!actors.items!Z60rj4OyvOqHgoaY.k86bbclUb36B43UO",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Breath Weapons",
+	"system": {
+		"attack": {
+			"num": "5"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Each breath weapon can fire once every other round, but must each target a different creature within double near range.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

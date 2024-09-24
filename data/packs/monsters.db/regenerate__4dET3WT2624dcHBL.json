@@ -1,0 +1,17 @@
+{
+	"_id": "4dET3WT2624dcHBL",
+	"_key": "!actors.items!TPqQvN7utfOtIuyx.4dET3WT2624dcHBL",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Regenerate",
+	"system": {
+		"description": "<p>While in water, regains [[/r 2d6]] HP on turn unless its wounds are cauterized with fire or acid.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

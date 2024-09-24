@@ -1,0 +1,17 @@
+{
+	"_id": "WeKKDHMum8goO9LB",
+	"_key": "!actors.items!sAXnORFgeVpo9YNU.WeKKDHMum8goO9LB",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Inspiring",
+	"system": {
+		"description": "<p>All goblins and bugbears within double near have +1 to attack rolls and ADV on morale checks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

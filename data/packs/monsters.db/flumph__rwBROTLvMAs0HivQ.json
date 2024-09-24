@@ -1,0 +1,149 @@
+{
+	"_id": "rwBROTLvMAs0HivQ",
+	"_key": "!actors!rwBROTLvMAs0HivQ",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"161ILP2za70HRNaH",
+		"C2ldRZ2PVT6Fw3PA",
+		"j3ekL1XUakiHADxP",
+		"z4Pfw563W3RlQdmW"
+	],
+	"name": "Flumph",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Flumph",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 0
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": -1
+			},
+			"wis": {
+				"mod": 4
+			}
+		},
+		"alignment": "lawful",
+		"attributes": {
+			"ac": {
+				"value": "13"
+			},
+			"hp": {
+				"hd": 0,
+				"max": "5",
+				"value": "5"
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": "1"
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Wizened defenders of goodness and law, these creatures resemble floating jellyfish with large eye stalks and a mouth on its head.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 5, <strong>ATK</strong> 1 tentacles +1 (1d4 + poison), <strong>MV</strong> near (fly), <strong>S</strong> -1, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> +2, <strong>W</strong> +4, <strong>Ch</strong> +0, <strong>AL</strong> L, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Poison</strong>. DC 12 CON or paralyzed 1 round.</p><p></p><p><strong>Stench Spray</strong>. 1/day. A straight line extending from the flumph, hitting all creatures to a near distance. DC 15 DEX or covered with a foul-smelling goo that doubles the chance of hostile monster encounters for 1d6 hours or until target bathes in vinegar.</p><p></p><p><strong>Telepathy</strong>. Can read surface thoughts within double near. Cannot be surprised by thinking creatures.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

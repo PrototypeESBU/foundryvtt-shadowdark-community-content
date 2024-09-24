@@ -1,0 +1,17 @@
+{
+	"_id": "jYZmAQcUMk6koJxS",
+	"_key": "!actors.items!BZVF4o7ph1PUJEsX.jYZmAQcUMk6koJxS",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Desiccating Touch",
+	"system": {
+		"description": "<p>[[/r 1d3]] CON damage. Death if reduced to 0 CON.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

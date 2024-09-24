@@ -1,0 +1,17 @@
+{
+	"_id": "QQ5EDrMJ62LDYoyG",
+	"_key": "!actors.items!crxyiI6YL6jk2TyE.QQ5EDrMJ62LDYoyG",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wail Of The Damned",
+	"system": {
+		"description": "<p>Constant effect. All hearing creatures within far, DC 14 WIS or stupefied [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "n5ncfO1DpWw4tI1V",
+	"_key": "!actors.items!tOhm95ApXxB0nu1W.n5ncfO1DpWw4tI1V",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Musk",
+	"system": {
+		"description": "<p>Living creatures that start their turn within near of the dire sloth, DC 15 CON or DISADV on ATK rolls, ability checks, and spellcasting checks for [[/r 1d6]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

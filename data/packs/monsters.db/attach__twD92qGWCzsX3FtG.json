@@ -1,0 +1,17 @@
+{
+	"_id": "twD92qGWCzsX3FtG",
+	"_key": "!actors.items!0xiJ5Mz8sQW4rPnG.twD92qGWCzsX3FtG",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Attach",
+	"system": {
+		"description": "<p>DC 13 STR or DEX or myling clings to target's back. DC 13 STR on turn to remove. At the beginning of the myling’s turn while attached, target makes a DC 15 WIS check to avoid being compelled to properly bury the myling.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

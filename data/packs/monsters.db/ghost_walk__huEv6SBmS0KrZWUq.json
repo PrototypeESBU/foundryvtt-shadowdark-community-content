@@ -1,0 +1,17 @@
+{
+	"_id": "huEv6SBmS0KrZWUq",
+	"_key": "!actors.items!ny80WOScOLWXf0Wv.huEv6SBmS0KrZWUq",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ghost-walk",
+	"system": {
+		"description": "<p>In place of attacking can turn incorporeal for [[/r 1d4]] rounds and move through solid surfaces. If stuck inside a solid surface when time expires, ghost spider dies. While incorporeal, only harmed by magical sources and cannot attack. Ability recharges after [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

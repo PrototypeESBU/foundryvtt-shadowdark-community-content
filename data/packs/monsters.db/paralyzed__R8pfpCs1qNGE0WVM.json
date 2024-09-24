@@ -1,0 +1,17 @@
+{
+	"_id": "R8pfpCs1qNGE0WVM",
+	"_key": "!actors.items!V8ABRE0AlCFqasB4.R8pfpCs1qNGE0WVM",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Paralyzed",
+	"system": {
+		"description": "<p>DC 13 CON or paralyzed [[/r 1d4]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

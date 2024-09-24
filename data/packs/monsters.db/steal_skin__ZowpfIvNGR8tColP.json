@@ -1,0 +1,17 @@
+{
+	"_id": "ZowpfIvNGR8tColP",
+	"_key": "!actors.items!IxDmuvO9PYPlmp3C.ZowpfIvNGR8tColP",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Steal Skin",
+	"system": {
+		"description": "<p>Can spend 1 minute removing the skin of a humanoid dead for less than 24 hours. Skin-stealer can don or remove a stolen skin in place of an attack. When wearing a stolen skin, the skin-stealer impersonates the skin's original owner, including the victim's voice, but gains none of the creature’s abilities or memories. A skin-stealer can collect up to 6 skins, which are preserved and remain as supple as living skin.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

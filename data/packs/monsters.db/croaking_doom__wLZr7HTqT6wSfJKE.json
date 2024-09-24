@@ -1,0 +1,23 @@
+{
+	"_id": "wLZr7HTqT6wSfJKE",
+	"_key": "!actors.items!UcQaaucN70HZ9SVA.wLZr7HTqT6wSfJKE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Croaking Doom",
+	"system": {
+		"dc": "13",
+		"description": "<p>Focus. One target within double near immobilized and takes [[/r 1d6]] damage per round for duration. DC 13 WIS on turn to break free.</p>",
+		"duration": {
+			"type": "focus",
+			"value": -1
+		},
+		"lost": false,
+		"range": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

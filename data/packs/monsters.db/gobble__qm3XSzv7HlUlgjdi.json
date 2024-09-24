@@ -1,0 +1,17 @@
+{
+	"_id": "qm3XSzv7HlUlgjdi",
+	"_key": "!actors.items!CVATmgSYagi1F8jx.qm3XSzv7HlUlgjdi",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gobble",
+	"system": {
+		"description": "<p>A creature reduced to 0 HP from a bite attack is immediately chewed to pulp and swallowed, then completely digested in [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

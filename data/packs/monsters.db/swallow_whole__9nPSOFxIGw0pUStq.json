@@ -1,0 +1,17 @@
+{
+	"_id": "9nPSOFxIGw0pUStq",
+	"_key": "!actors.items!kSIeNSXz4XSaZdwA.9nPSOFxIGw0pUStq",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow Whole",
+	"system": {
+		"description": "<p>On a natural attack roll of 20, the target is swallowed. Total darkness inside and [[/r 1d10]] damage per round. Regurgitates all swallowed if dealt at least 15 damage to the inside of its gullet.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,149 @@
+{
+	"_id": "H4boKC4QHj84uNmk",
+	"_key": "!actors!H4boKC4QHj84uNmk",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"2mZhIHZJ9yV3Qs8z",
+		"LKqxGrpjmNRk9kFv",
+		"lX2gMNpPZpFnDc0H",
+		"DUDnjlBWn3qXXKdI"
+	],
+	"name": "Crawling Giant",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Crawling Giant",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 0
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 5
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 10
+			},
+			"hp": {
+				"hd": 0,
+				"max": 40,
+				"value": 40
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 8
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>These pale, 18-foot-long humanoids have cartilage-like bones and a ravenous appetite. Unable to stand, they crawl through the dark places of the earth seeking sentient prey.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 10, <strong>HP</strong> 40, <strong>ATK</strong> 2 fists +7 (1d10) and 1 bite +7 (2d6), <strong>MV</strong> near, <strong>S</strong> +5, <strong>D</strong> +0, <strong>C</strong> +4, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 8</p><p></p>\n\t<p><strong>Flexible</strong>. Can squeeze through openings as if halfling-sized.</p><p></p><p><strong>Stealthy</strong>. ADV on DEX checks to sneak and hide.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

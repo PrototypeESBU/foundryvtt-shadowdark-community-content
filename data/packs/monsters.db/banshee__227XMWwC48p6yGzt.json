@@ -1,0 +1,150 @@
+{
+	"_id": "227XMWwC48p6yGzt",
+	"_key": "!actors!227XMWwC48p6yGzt",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"Hlooti0CPRKeKP3z",
+		"7QlzkOAGokPaCKpu",
+		"iQCCwMUoB6uWoG2l",
+		"ny4OGkjnq2LMuAJJ",
+		"6Qpni7MuFdRw188Z"
+	],
+	"name": "Banshee",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Banshee",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 0
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"hd": 0,
+				"max": 31,
+				"value": 31
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 7
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>These hateful spirits are formed from the souls of tormented women who were wronged in life.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 31, <strong>ATK</strong> 2 death touch +6 (1d8 + life drain), <strong>MV</strong> near (fly), <strong>S</strong> +0, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 7</p><p></p>\n\t<p><strong> Greater Undead</strong>. Immune to morale checks. Only damaged by silver or magical sources. Naturally incorporeal.</p><p></p><p><strong>Horrifying Appearance</strong>. Living creatures within near: DC 14 CHA or DISADV on attack rolls, spellcasting checks, and morale checks for 1d4 rounds.</p><p></p><p><strong>Life Drain</strong>. 1d4 CON damage. Death at 0 CON.</p><p></p><p><strong>Wail</strong>. 1/day. In place of attacks, living creatures within double near who can hear: contested CHA check or drop to 1 HP and paralyzed for 1d4 rounds.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

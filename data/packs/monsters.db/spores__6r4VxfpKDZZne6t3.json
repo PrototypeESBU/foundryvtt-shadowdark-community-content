@@ -1,0 +1,17 @@
+{
+	"_id": "6r4VxfpKDZZne6t3",
+	"_key": "!actors.items!QQWd6IvaoV5e3iPG.6r4VxfpKDZZne6t3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spores",
+	"system": {
+		"description": "<p>Living creatures that start their turn within double near of a stranglevine, DC 12 CON or sleep for [[/r 1d4]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

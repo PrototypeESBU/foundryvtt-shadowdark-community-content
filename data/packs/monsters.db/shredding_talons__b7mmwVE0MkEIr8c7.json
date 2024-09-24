@@ -1,0 +1,17 @@
+{
+	"_id": "b7mmwVE0MkEIr8c7",
+	"_key": "!actors.items!Py3kytKP70iAXu4e.b7mmwVE0MkEIr8c7",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shredding Talons",
+	"system": {
+		"description": "<p>Deals an extra die of damage if 2 or more claw attacks hit the same target. If all 4 claw attacks hit the same target, DC 15 CON or drop to 0 HP.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

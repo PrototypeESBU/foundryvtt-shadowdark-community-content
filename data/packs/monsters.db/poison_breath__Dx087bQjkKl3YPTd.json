@@ -1,0 +1,17 @@
+{
+	"_id": "Dx087bQjkKl3YPTd",
+	"_key": "!actors.items!aIydvtPjVcUjTiJy.Dx087bQjkKl3YPTd",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison Breath",
+	"system": {
+		"description": "<p>Fills a near-sized cube extending from the Stollenwurm. DC 13 CON or [[/r 2d6]] damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

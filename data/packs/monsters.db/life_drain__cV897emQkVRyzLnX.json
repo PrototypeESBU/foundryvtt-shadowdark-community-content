@@ -1,0 +1,17 @@
+{
+	"_id": "cV897emQkVRyzLnX",
+	"_key": "!actors.items!AoHtl1f2Hw18OqCl.cV897emQkVRyzLnX",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Life Drain",
+	"system": {
+		"description": "<p>[[/r 1d4]] CON damage. Death at 0 CON.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

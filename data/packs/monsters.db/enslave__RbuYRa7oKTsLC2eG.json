@@ -1,0 +1,17 @@
+{
+	"_id": "RbuYRa7oKTsLC2eG",
+	"_key": "!actors.items!3EtHhr5RunRpa3Uf.RbuYRa7oKTsLC2eG",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Enslave",
+	"system": {
+		"description": "<p>In place of attacks, 1 target within close. Contested CHA check. If yak-folk wins, it controls target for [[/r 1d4]] days. Can only enslave 1 creature at a time.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

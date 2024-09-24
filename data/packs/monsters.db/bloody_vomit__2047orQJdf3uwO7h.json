@@ -1,0 +1,24 @@
+{
+	"_id": "2047orQJdf3uwO7h",
+	"_key": "!actors.items!PkObyPyXuQ7lAw6w.2047orQJdf3uwO7h",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bloody Vomit",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>[[/r 3d6]] damage to all within a near-sized cube extending from the bloody bones. Reusable after [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

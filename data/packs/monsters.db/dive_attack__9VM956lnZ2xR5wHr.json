@@ -1,0 +1,17 @@
+{
+	"_id": "9VM956lnZ2xR5wHr",
+	"_key": "!actors.items!i7Fsb4fVd6hHNDhg.9VM956lnZ2xR5wHr",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dive Attack",
+	"system": {
+		"description": "<p>In place of attacks, fly up to double near and make 1 gore attack. If hit, x2 damage and target paralyzed 1 round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

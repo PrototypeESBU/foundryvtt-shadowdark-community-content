@@ -1,0 +1,17 @@
+{
+	"_id": "v0D36DhzsXU4Ii0t",
+	"_key": "!actors.items!vYMwXuBVubD7G1Lp.v0D36DhzsXU4Ii0t",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impregnate",
+	"system": {
+		"description": "<p>In place of attacks, gut spider inserts a clutch of eggs in a paralyzed, sleeping, or unconscious living target’s belly, dealing [[/r 2d6]] damage. Each day thereafter, DC 13 CON or target takes [[/r 2d6]] more damage (damage doesn’t heal while egg-sack remains inside target). At 0 HP, target dies as [[/r 2d6]] young (LV 0 spiders) eat their way out of target’s belly.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

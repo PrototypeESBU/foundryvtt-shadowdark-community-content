@@ -1,0 +1,17 @@
+{
+	"_id": "KcfEaTPfW9HnkhtF",
+	"_key": "!actors.items!IPfAw35IF3WSKvhl.KcfEaTPfW9HnkhtF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Devour Whole",
+	"system": {
+		"description": "<p>On a natural ATK roll of 19-20 against a humanoid target, DC 15 STR or DEX or go to 0 HP as body masticated and swallowed.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

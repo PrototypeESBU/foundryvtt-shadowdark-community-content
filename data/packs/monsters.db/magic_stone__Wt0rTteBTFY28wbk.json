@@ -1,0 +1,17 @@
+{
+	"_id": "Wt0rTteBTFY28wbk",
+	"_key": "!actors.items!y29Fe6ufvBcUP5kg.Wt0rTteBTFY28wbk",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Magic Stone",
+	"system": {
+		"description": "<p>+2 to spellcasting checks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

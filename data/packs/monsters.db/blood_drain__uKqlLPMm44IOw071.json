@@ -1,0 +1,17 @@
+{
+	"_id": "uKqlLPMm44IOw071",
+	"_key": "!actors.items!huueSUBjfGzxUIBd.uKqlLPMm44IOw071",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Blood vine heals [[/r 1d10]] HP and grows 5 feet. Target takes 1 CON damage. Death at 0 CON.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

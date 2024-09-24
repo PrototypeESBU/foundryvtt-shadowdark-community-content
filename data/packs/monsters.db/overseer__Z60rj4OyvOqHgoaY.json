@@ -1,0 +1,154 @@
+{
+	"_id": "Z60rj4OyvOqHgoaY",
+	"_key": "!actors!Z60rj4OyvOqHgoaY",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"k86bbclUb36B43UO",
+		"NUVs0ciPCp5wFXKI",
+		"7jxazsOmtinzPc2u",
+		"VK9zkPKZTTBTBZ51",
+		"jjKycweTjGEFRXKE",
+		"FO9quk0jhyQkPwy7",
+		"gA08MhQjJ8WdudY5",
+		"1oQTFW8iGr3KXjfJ",
+		"PUPvcwoqMvWcWntE"
+	],
+	"name": "Overseer",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Overseer",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"hd": 0,
+				"max": 49,
+				"value": 49
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 10
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>A hovering column of pink tentacle polyps dangle from a central fleshy trunk, surrounded by five huge toothless mouths and ringed by hundreds of small black eyes. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 49, <strong>ATK</strong> 3 tentacles +9 (1d10 + grab) or 5 breath weapons, <strong>MV</strong> near (fly), <strong>S</strong> +4, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> +3, <strong>W</strong> +2, <strong>Ch</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>All-Around Sight</strong>. Can’t be surprised.</p><p></p><p><strong>Breath Weapons</strong>. Each breath weapon can fire once every other round, but must each target a different creature within double near range.</p><p></p><p><strong>Breath Weapon: Charm</strong>. DC 15 CHA or target becomes ally for 1d4 rounds.</p><p></p><p><strong>Breath Weapon: Dispel</strong>. DC 15 DEX or all magical effects end.</p><p></p><p><strong>Breath Weapon: Hold</strong>. DC 15 DEX or target immobilized 1d4 rounds.</p><p></p><p><strong>Breath Weapon: Incinerate</strong>. DC 15 DEX or 4d8 fire damage.</p><p></p><p><strong>Breath Weapon: Toxic Bite</strong>. DC 15 CON or target goes to 0 HP.</p><p></p><p><strong>Grab</strong>. DC 16 STR or target held. DC 16 STR on turn to break free. While target held, tentacles auto hit.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

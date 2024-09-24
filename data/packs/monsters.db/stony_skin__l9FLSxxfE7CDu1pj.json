@@ -1,0 +1,17 @@
+{
+	"_id": "l9FLSxxfE7CDu1pj",
+	"_key": "!actors.items!tH5IPuk9xVBZgpDV.l9FLSxxfE7CDu1pj",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stony Skin",
+	"system": {
+		"description": "<p>Nonmagical weapons that hit the troll break on a d6 roll of 1-3.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

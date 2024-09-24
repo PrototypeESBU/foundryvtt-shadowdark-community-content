@@ -1,0 +1,17 @@
+{
+	"_id": "GwxHJ7lwdoIPa92h",
+	"_key": "!actors.items!4PiGegxPfdTp8pN0.GwxHJ7lwdoIPa92h",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same werejaguar, contract lycanthropy.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

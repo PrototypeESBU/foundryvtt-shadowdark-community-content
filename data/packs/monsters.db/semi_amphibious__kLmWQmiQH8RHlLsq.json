@@ -1,0 +1,17 @@
+{
+	"_id": "kLmWQmiQH8RHlLsq",
+	"_key": "!actors.items!TPqQvN7utfOtIuyx.kLmWQmiQH8RHlLsq",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Semi-amphibious",
+	"system": {
+		"description": "<p>Can walk on land, but must submerge in water after 1 hour or suffocate.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

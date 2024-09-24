@@ -1,0 +1,17 @@
+{
+	"_id": "botIM9taEQhvJhf1",
+	"_key": "!actors.items!jpyrs5K33G5sCc1A.botIM9taEQhvJhf1",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>In place of attacks, can transform into a unique human form.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

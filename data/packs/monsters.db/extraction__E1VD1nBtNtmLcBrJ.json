@@ -1,0 +1,17 @@
+{
+	"_id": "E1VD1nBtNtmLcBrJ",
+	"_key": "!actors.items!p1KchDMYk23UJ0Ri.E1VD1nBtNtmLcBrJ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Extraction",
+	"system": {
+		"description": "<p>On a natural attack roll of 20, the fairy extracts a tooth from its target and deals an extra die of damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

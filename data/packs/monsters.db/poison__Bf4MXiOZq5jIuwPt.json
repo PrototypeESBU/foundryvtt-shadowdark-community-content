@@ -1,0 +1,17 @@
+{
+	"_id": "Bf4MXiOZq5jIuwPt",
+	"_key": "!actors.items!sa8XGyBTsPc5QhDS.Bf4MXiOZq5jIuwPt",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>DC 11 CON or target stupefied [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

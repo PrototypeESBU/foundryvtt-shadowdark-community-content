@@ -1,0 +1,17 @@
+{
+	"_id": "1lpVqi7HMeZ1VX2D",
+	"_key": "!actors.items!BZVF4o7ph1PUJEsX.1lpVqi7HMeZ1VX2D",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Acid, cold, electricity, and fire immune.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

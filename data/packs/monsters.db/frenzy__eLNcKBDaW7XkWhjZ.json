@@ -1,0 +1,17 @@
+{
+	"_id": "eLNcKBDaW7XkWhjZ",
+	"_key": "!actors.items!H4nqY11Qzl5NIZVL.eLNcKBDaW7XkWhjZ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Frenzy",
+	"system": {
+		"description": "<p>1/day, immune to morale checks and +2 to attack rolls and damage (4 rounds).</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

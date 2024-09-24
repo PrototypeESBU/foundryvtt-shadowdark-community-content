@@ -1,0 +1,17 @@
+{
+	"_id": "iNY0qIPw5vuojBGd",
+	"_key": "!actors.items!5chiJu1modB1CTWO.iNY0qIPw5vuojBGd",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flock Tactics",
+	"system": {
+		"description": "<p>ADV on ATK rolls when an allied bloodbird is close.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

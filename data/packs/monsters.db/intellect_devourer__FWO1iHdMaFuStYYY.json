@@ -1,0 +1,149 @@
+{
+	"_id": "FWO1iHdMaFuStYYY",
+	"_key": "!actors!FWO1iHdMaFuStYYY",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"tAOPJPx3UrCQ9DN6",
+		"rCLLPW2QEDZrY9zw",
+		"chPeJkS4662orGiW",
+		"sPYUmnj0fUlYecWH"
+	],
+	"name": "Intellect Devourer",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Intellect Devourer",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 2
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 13
+			},
+			"hp": {
+				"hd": 0,
+				"max": 22,
+				"value": 22
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 5
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>Tiny creatures resembling glistening mauve brains with 4 clawed feet. Unable to experience emotions or indulge in the sins or physical pleasure on their own, they steal bodies to slake their unnatural appetites for gluttony, lust, and cruelty.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 13, <strong>HP</strong> 22, <strong>ATK</strong> 2 claws +4 (1d4) or id insinuation, <strong>MV</strong> near (climb), <strong>S</strong> -3, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +3, <strong>W</strong> +2, <strong>Ch</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 5</p><p></p>\n\t<p><strong>Body Thief</strong>. In place of attacks, burrows into the head of a sleeping, paralyzed, or recently dead (1 day or less) creature, dealing 3d6 damage. If the target is slain or already dead, the body revives at full HP and is under the intellect devourer's control. The intellect devourer gains access to the host body's languages, knowledge, and memories, but not spellcasting or supernatural abilities. The body decays and is uninhabitable after 3d6 days.</p><p></p><p><strong>Id Insinuation</strong>. One target within double near DC 14 CHA or paralyzed for 1d4 rounds.</p><p></p><p><strong>Impervious</strong>. Only harmed by magical sources. Impervious does not apply to host body.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "eshT1PjSFMD40IZv",
+	"_key": "!actors.items!Qqh2PLW5tC7X8Hqe.eshT1PjSFMD40IZv",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Any humanoid child within far, DC 16 WIS or under the grýla’s control for [[/r 1d4]] days.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

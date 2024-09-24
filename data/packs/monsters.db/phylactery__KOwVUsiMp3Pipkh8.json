@@ -1,0 +1,17 @@
+{
+	"_id": "KOwVUsiMp3Pipkh8",
+	"_key": "!actors.items!YeP0xyE9hqE9PPS8.KOwVUsiMp3Pipkh8",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Phylactery",
+	"system": {
+		"description": "<p>Cannot be killed while spirit vessel (a ruby) is intact.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

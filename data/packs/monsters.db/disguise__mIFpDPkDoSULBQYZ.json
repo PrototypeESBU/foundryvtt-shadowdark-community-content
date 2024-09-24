@@ -1,0 +1,17 @@
+{
+	"_id": "mIFpDPkDoSULBQYZ",
+	"_key": "!actors.items!G7tXWjuc60tDFyPl.mIFpDPkDoSULBQYZ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Disguise",
+	"system": {
+		"description": "<p>While motionless on the ceiling, a piercer is indistinguishable from a stalactite.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

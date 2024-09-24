@@ -1,0 +1,17 @@
+{
+	"_id": "s60BBAl1Ppd8WFqS",
+	"_key": "!actors.items!kguWFby09IYBeNnt.s60BBAl1Ppd8WFqS",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Horrible Growth",
+	"system": {
+		"description": "<p>After killing a living creature, 4 in 6 chance of transforming into a chaos beast.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

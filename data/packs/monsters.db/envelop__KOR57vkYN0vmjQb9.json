@@ -1,0 +1,17 @@
+{
+	"_id": "KOR57vkYN0vmjQb9",
+	"_key": "!actors.items!teGyWB0YGVKhZiir.KOR57vkYN0vmjQb9",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Envelop",
+	"system": {
+		"description": "<p>The mist’s body fills a near-sized cube. Instead of an attack roll, the mist envelops creatures and devours them with its life drain. All light sources inside it are extinguished (including magical light). Creatures inside it are blinded.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "tL7MATxs5vOMYiiq",
+	"_key": "!actors.items!DzX9OwE21qqVfzUC.tL7MATxs5vOMYiiq",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Latch",
+	"system": {
+		"description": "<p>If goblin deals 4 or more damage with its claw attack, the goblin latches to target with its hook-like little finger. All melee attacks vs. target made with ADV. STR DC 11 on turn to tear off (even if goblin is dead).</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

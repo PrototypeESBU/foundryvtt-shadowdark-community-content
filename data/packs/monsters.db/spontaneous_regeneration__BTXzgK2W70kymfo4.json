@@ -1,0 +1,17 @@
+{
+	"_id": "BTXzgK2W70kymfo4",
+	"_key": "!actors.items!OZzcgPCBQqt3lFB4.BTXzgK2W70kymfo4",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spontaneous Regeneration",
+	"system": {
+		"description": "<p>When a wohlk dies, [[/r 1d6]] fully grown wohlks sprout from its corpse in [[/r 1d6]] hours unless the body is burnt or immersed in acid.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

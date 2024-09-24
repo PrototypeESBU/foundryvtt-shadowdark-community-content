@@ -1,0 +1,17 @@
+{
+	"_id": "KcvryuLXcGUH936v",
+	"_key": "!actors.items!nolGXheETwWid5tM.KcvryuLXcGUH936v",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Void Born",
+	"system": {
+		"description": "<p>Unaffected by the vacuum of outer space. Does not breathe. Cold and fire immune.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

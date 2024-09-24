@@ -1,0 +1,17 @@
+{
+	"_id": "SaVpEwz1aJ2StDsQ",
+	"_key": "!actors.items!x3GV0x2ES7FLjEdm.SaVpEwz1aJ2StDsQ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Corrosive",
+	"system": {
+		"description": "<p>Nonmagical metal or leather that touches the moss dissolves on a [[/r 1d6]] roll of 1-3.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

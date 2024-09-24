@@ -1,0 +1,25 @@
+{
+	"_id": "IGdZanX8QbPQ9X1E",
+	"_key": "!actors.items!wrDdN4euM34f1RRH.IGdZanX8QbPQ9X1E",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Vomit Muck",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>DC 13 DEX or target blinded for [[/r 1d4]] rounds.</p>",
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

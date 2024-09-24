@@ -1,0 +1,17 @@
+{
+	"_id": "ky5OW3QkpMkxupo6",
+	"_key": "!actors.items!rgUEoW1ONHuIPlkY.ky5OW3QkpMkxupo6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Snake Heads",
+	"system": {
+		"description": "<p>Has [[/r 1d6]] + 5 snake heads, granting [[/r 1d4]] bite attacks on any given round. Can't be surprised.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

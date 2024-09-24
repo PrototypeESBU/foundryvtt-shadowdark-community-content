@@ -1,0 +1,24 @@
+{
+	"_id": "yemj1fIOvxk0101b",
+	"_key": "!actors.items!9uzkCb4GTtGz3BVe.yemj1fIOvxk0101b",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Barrage",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near-sized cube extending from the archer bush with thorny projectiles. DC 14 DEX or [[/r 3d6]] damage.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

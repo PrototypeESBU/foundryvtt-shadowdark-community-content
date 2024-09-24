@@ -1,0 +1,17 @@
+{
+	"_id": "k8tPlAPL4YmhDZl5",
+	"_key": "!actors.items!JbPKrVChRdtf8uq8.k8tPlAPL4YmhDZl5",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Attach",
+	"system": {
+		"description": "<p>Attach to target; bite auto-hits next round. DC 13 STR on turn to escape.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

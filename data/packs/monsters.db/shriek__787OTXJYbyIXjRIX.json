@@ -1,0 +1,17 @@
+{
+	"_id": "787OTXJYbyIXjRIX",
+	"_key": "!actors.items!CtPqPOqC3wPM8AR4.787OTXJYbyIXjRIX",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shriek",
+	"system": {
+		"description": "<p>1/day. All creatures within double near that can hear its shriek must make a DC 14 CON check or be paralyzed for [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

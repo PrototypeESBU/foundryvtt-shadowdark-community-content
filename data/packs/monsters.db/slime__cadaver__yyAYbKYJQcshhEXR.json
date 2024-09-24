@@ -1,0 +1,148 @@
+{
+	"_id": "yyAYbKYJQcshhEXR",
+	"_key": "!actors!yyAYbKYJQcshhEXR",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"in86alEaXXp184pv",
+		"0eLgstNDiKwwpLsr",
+		"DuMZ2mdl6H5ovQC0"
+	],
+	"name": "Slime, Cadaver",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Cadaver Slime",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -4
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 1
+			},
+			"int": {
+				"mod": -4
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 11
+			},
+			"hp": {
+				"hd": 0,
+				"max": 20,
+				"value": 20
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 4
+		},
+		"move": "near",
+		"moveNote": "climb",
+		"notes": "\n\t<p><i>This pinkish ooze is typically found lurking inside the body cavity of corpses.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 11, <strong>HP</strong> 20, <strong>ATK</strong> 1 tendril +4 (1d6 + burrow), <strong>MV</strong> near (climb), <strong>S</strong> +2, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> -4, <strong>W</strong> +1, <strong>Ch</strong> -4, <strong>AL</strong> N, <strong>LV</strong> 4</p><p></p>\n\t<p><strong>Burrow</strong>. DC 12 STR or DEX or slime forces its way into a target’s open orifice and begins to eat the target from the inside out. Target takes 2d10 damage per round until slime removed. Any spell or magical effect that heals HP drives out the slime. The slime is also driven out if the target takes 10 or more points of fire damage.</p><p></p><p><strong>Slime</strong>. Half damage from nonmagical sources. Items made of wood, leather, or metal that touch the slime are destroyed on a d6 roll of 1-2.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

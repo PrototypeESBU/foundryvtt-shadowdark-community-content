@@ -1,0 +1,17 @@
+{
+	"_id": "aPTyABNmVWxNsUrc",
+	"_key": "!actors.items!ehuOzOJI0c7xozRC.aPTyABNmVWxNsUrc",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Burn",
+	"system": {
+		"description": "<p>DC 13 DEX or target takes [[/r 1d6]] damage per round until flames extinguished.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

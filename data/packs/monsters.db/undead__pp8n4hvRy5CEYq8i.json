@@ -1,0 +1,17 @@
+{
+	"_id": "pp8n4hvRy5CEYq8i",
+	"_key": "!actors.items!29eO88rekxYcpZgK.pp8n4hvRy5CEYq8i",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Undead",
+	"system": {
+		"description": "<p>Immune to morale checks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

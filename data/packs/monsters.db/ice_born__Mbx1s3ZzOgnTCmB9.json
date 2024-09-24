@@ -1,0 +1,17 @@
+{
+	"_id": "Mbx1s3ZzOgnTCmB9",
+	"_key": "!actors.items!i9UCgeUkW8cJTQUi.Mbx1s3ZzOgnTCmB9",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ice-born",
+	"system": {
+		"description": "<p>MV not hindered by snow or ice. Cold immune. Double damage from fire.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "LwsJ0ibvwSLc4hVz",
+	"_key": "!actors.items!debg7azQhUPAeCqM.LwsJ0ibvwSLc4hVz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Void-caller",
+	"system": {
+		"description": "<p>1/day, summon a void spawn, [[/r 1d4]] void spiders, or [[/r 1d6]] byakhee to serve her for 24 hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

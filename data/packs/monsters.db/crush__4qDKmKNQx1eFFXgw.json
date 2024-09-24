@@ -1,0 +1,17 @@
+{
+	"_id": "4qDKmKNQx1eFFXgw",
+	"_key": "!actors.items!lmx8bHFOVsWGeiJg.4qDKmKNQx1eFFXgw",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Crush",
+	"system": {
+		"description": "<p>Targets held for more than 2 rounds begin taking [[/r 2d8]] damage at the start of their turn.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

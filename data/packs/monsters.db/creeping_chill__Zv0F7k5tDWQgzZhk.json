@@ -1,0 +1,17 @@
+{
+	"_id": "Zv0F7k5tDWQgzZhk",
+	"_key": "!actors.items!lTrhzaF5CpPSapTe.Zv0F7k5tDWQgzZhk",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Creeping Chill",
+	"system": {
+		"description": "<p>DC 11 CON or DISADV on attack rolls and spellcasting checks for [[/r 1d6]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

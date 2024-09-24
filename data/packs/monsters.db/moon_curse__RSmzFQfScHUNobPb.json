@@ -1,0 +1,25 @@
+{
+	"_id": "RSmzFQfScHUNobPb",
+	"_key": "!actors.items!H0H0cRw9Y2Bf0Sxt.RSmzFQfScHUNobPb",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Moon Curse",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>DC 15 CON or target gains a magical curse that causes their flesh to wither for [[/r 1d6]] damage per round when immersed in natural moonlight.</p>",
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

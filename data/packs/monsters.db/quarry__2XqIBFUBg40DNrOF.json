@@ -1,0 +1,17 @@
+{
+	"_id": "2XqIBFUBg40DNrOF",
+	"_key": "!actors.items!jaAvEO5RKGfkCGr3.2XqIBFUBg40DNrOF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Quarry",
+	"system": {
+		"description": "<p>Humanoid target within double near and visible to slow walker becomes its quarry. Effect only ends if slow walker or quarry destroyed. Slow walker always knows quarry’s location (even if invisible or separated over any distance). ADV on attacks vs quarry. Only 1 quarry at a time.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

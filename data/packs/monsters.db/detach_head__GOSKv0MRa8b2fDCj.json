@@ -1,0 +1,17 @@
+{
+	"_id": "GOSKv0MRa8b2fDCj",
+	"_key": "!actors.items!gn86jEIdKewrgJaB.GOSKv0MRa8b2fDCj",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Detach Head",
+	"system": {
+		"description": "<p>Head and entrails detach at night to seek prey. Body becomes dormant. Head must reunite with body before sunrise or head and body are destroyed. While detached, head takes [[/r 3d8]] damage per round in direct sunlight. Head cannot be destroyed unless reduced to 0 HP and exposed to direct sunlight or pierced with a wooden stake.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

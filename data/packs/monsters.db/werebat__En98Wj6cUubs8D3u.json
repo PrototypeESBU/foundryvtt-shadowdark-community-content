@@ -1,0 +1,149 @@
+{
+	"_id": "En98Wj6cUubs8D3u",
+	"_key": "!actors!En98Wj6cUubs8D3u",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"K3eaKmRaSiFGCiGB",
+		"xyjXWArzGPfpfpFz",
+		"uEVjEBK1wrahLQX7",
+		"dqWXOqg55Ae87zyP"
+	],
+	"name": "Werebat",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Werebat",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -2
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"hd": 0,
+				"max": 14,
+				"value": 14
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 3
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>A terrifying man-bat with great black wings and blood-red eyes.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 14, <strong>ATK</strong> 1 bite +3 (1d6 + blood drain), <strong>MV</strong> near (fly), <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> +2, <strong>Ch</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 3</p><p></p>\n\t<p><strong>Blood Drain</strong>. Werebat heals 1d6 HP and target takes 1d2 CON damage. At 0 CON target dies.</p><p></p><p><strong>Impervious</strong>. Only damaged by silver or magic sources.</p><p></p><p><strong>Lycanthropy</strong>. If 12 or more damage from the same werebat, contract lycanthropy.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

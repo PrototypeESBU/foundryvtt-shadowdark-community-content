@@ -1,0 +1,26 @@
+{
+	"_id": "39Yvyxj9MqNGVWqQ",
+	"_key": "!actors.items!uph64LXziOdyQ1q9.39Yvyxj9MqNGVWqQ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Green Slime",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 2
+		},
+		"description": "<p>A @UUID[Compendium.shadowdark-community-content.monsters.Actor.QWSx8NMb9wj8ahbz]{Green Slime} attaches to target.</p>",
+		"predefinedEffects": "",
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

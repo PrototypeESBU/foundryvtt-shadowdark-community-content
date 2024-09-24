@@ -1,0 +1,148 @@
+{
+	"_id": "ynuVMRXGUX8Mr0YY",
+	"_key": "!actors!ynuVMRXGUX8Mr0YY",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"MqovOXa0hYBJYJHe",
+		"aPEciv2ApEeOp4YU",
+		"8zceYLKC50zS3xFb"
+	],
+	"name": "Piranha Bird",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Piranha Bird",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 0
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": -3
+			},
+			"str": {
+				"mod": -3
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "neutral",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"hd": 0,
+				"max": 4,
+				"value": 4
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 1
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>These tiny, bright green flightless birds hunt in packs, scouring the warm plains for fresh meat.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 4, <strong>ATK</strong> 1 bite +1 (1d6 + latch), <strong>MV</strong> near, <strong>S</strong> -3, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> -3, <strong>W</strong> +1, <strong>Ch</strong> -1, <strong>AL</strong> N, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Latch</strong>. Attach to target; bite auto-hits next round. DC 9 STR on turn to tear off.</p><p></p><p><strong>Pack Tactics</strong>. ADV on ATK rolls when an allied piranha bird is close.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

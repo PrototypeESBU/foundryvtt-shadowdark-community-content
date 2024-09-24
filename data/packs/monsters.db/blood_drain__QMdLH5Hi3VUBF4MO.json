@@ -1,0 +1,17 @@
+{
+	"_id": "QMdLH5Hi3VUBF4MO",
+	"_key": "!actors.items!dEn0n8o53SZhK318.QMdLH5Hi3VUBF4MO",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Pine blight heals [[/r 1d6]] HP and target loses 1 CON. At 0 CON, target dies.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

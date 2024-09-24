@@ -1,0 +1,17 @@
+{
+	"_id": "wok6ODkO9AgJd4Y6",
+	"_key": "!actors.items!NkIFbWEBO8TLWlcW.wok6ODkO9AgJd4Y6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Reality Distortion",
+	"system": {
+		"description": "<p>Constant effect. All living creatures within near, DC 15 CHA or DISADV on all ATK rolls, ability checks, and spellcasting checks for [[/r 1d6]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "1I8yT0cTc7KMIjLW",
+	"_key": "!actors.items!AoHtl1f2Hw18OqCl.1I8yT0cTc7KMIjLW",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Possess",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target, close range. Contested CHA check. If specter wins, it inhabits target’s body and controls it for [[/r 1d4]] rounds. Target takes [[/r 1d4]] damage each round while possessed as body withers.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

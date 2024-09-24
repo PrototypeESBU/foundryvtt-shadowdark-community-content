@@ -1,0 +1,148 @@
+{
+	"_id": "jpyrs5K33G5sCc1A",
+	"_key": "!actors!jpyrs5K33G5sCc1A",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"9LNDrYQKCJZ0gWE6",
+		"ZgcGwsy5jb7YHWjW",
+		"botIM9taEQhvJhf1"
+	],
+	"name": "Impundulu",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Impundulu",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -1
+			},
+			"con": {
+				"mod": 1
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 2
+			},
+			"wis": {
+				"mod": 1
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 12
+			},
+			"hp": {
+				"hd": 0,
+				"max": 28,
+				"value": 28
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 6
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>Also called \"lightning birds,\" these 7-foot-tall, stork-like creatures often serve evil witches or tribal shamans.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 28, <strong>ATK</strong> 2 bite +5 (1d12) or 1 lightning bolt, <strong>MV</strong> near (fly), <strong>S</strong> +2, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> +1, <strong>Ch</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 6</p><p></p>\n\t<p><strong>Lightning Bolt</strong>. A straight line extending double near from the impundulu. DC 12 DEX or 3d6 damage (DISADV on check if wearing metal armor).</p><p></p><p><strong>Shapechange</strong>. In place of attacks, can transform into a unique human form.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "SMYN98OJtARwmr0R",
+	"_key": "!actors.items!ra6nAzslCb21qXzj.SMYN98OJtARwmr0R",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>In place of attacks, can transform into a black cat.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

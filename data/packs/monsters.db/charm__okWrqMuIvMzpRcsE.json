@@ -1,0 +1,25 @@
+{
+	"_id": "okWrqMuIvMzpRcsE",
+	"_key": "!actors.items!fjtQixzWcA0wSo8L.okWrqMuIvMzpRcsE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One animal or beast with INT -2 or less, DC 15 CHA or becomes ally for [[/r 1d4]] days.</p>",
+		"ranges": [
+			"far"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "WtuAyAmWO2qKp5y4",
+	"_key": "!actors.items!hdrn7uta7QcqcMq3.WtuAyAmWO2qKp5y4",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One humanoid or giant target who can see and hear the ash giant within near. DC 14 CHA or under ash giant’s control for 1 day.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

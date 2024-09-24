@@ -1,0 +1,24 @@
+{
+	"_id": "IAsVVIArkVURRj5B",
+	"_key": "!actors.items!zf90Yf4bOpYVcfw6.IAsVVIArkVURRj5B",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Hypnotic Gaze",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All enemies within double near that can see the stygian lynx's eyes must make a DC 12 WIS check or be paralyzed for [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "h0o2TqrdicoCYuiY",
+	"_key": "!actors.items!7g2L856fFqRImAag.h0o2TqrdicoCYuiY",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stun",
+	"system": {
+		"description": "<p>DC 13 CON or paralyzed 1 round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

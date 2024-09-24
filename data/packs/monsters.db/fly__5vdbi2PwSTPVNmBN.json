@@ -1,0 +1,23 @@
+{
+	"_id": "5vdbi2PwSTPVNmBN",
+	"_key": "!actors.items!Y874dtg4u9ggEQc1.5vdbi2PwSTPVNmBN",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Fly",
+	"system": {
+		"dc": "13",
+		"description": "<p>Fly (MV double near) for 10 minutes.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"range": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

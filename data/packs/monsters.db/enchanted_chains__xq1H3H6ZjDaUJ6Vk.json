@@ -1,0 +1,17 @@
+{
+	"_id": "xq1H3H6ZjDaUJ6Vk",
+	"_key": "!actors.items!DXJ9Q02DubO748y9.xq1H3H6ZjDaUJ6Vk",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Enchanted Chains",
+	"system": {
+		"description": "<p>Half damage from non-magical attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

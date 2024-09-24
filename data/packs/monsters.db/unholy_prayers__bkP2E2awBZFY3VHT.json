@@ -1,0 +1,17 @@
+{
+	"_id": "bkP2E2awBZFY3VHT",
+	"_key": "!actors.items!Lbx7hKaDx7BzeGDI.bkP2E2awBZFY3VHT",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Unholy Prayers",
+	"system": {
+		"description": "<p>Can cast the following spells: Command, Flame Strike, Divine Vengeance, Dominion, Plane Shift.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

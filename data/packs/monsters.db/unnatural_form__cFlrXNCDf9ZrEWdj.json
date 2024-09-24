@@ -1,0 +1,17 @@
+{
+	"_id": "cFlrXNCDf9ZrEWdj",
+	"_key": "!actors.items!1GTQ2w7uqC2DEj2N.cFlrXNCDf9ZrEWdj",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Unnatural Form",
+	"system": {
+		"description": "<p>Only harmed by fire and magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

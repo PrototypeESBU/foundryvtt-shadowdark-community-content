@@ -1,0 +1,17 @@
+{
+	"_id": "yH8fcDZPdc4DJJkP",
+	"_key": "!actors.items!vwKDkA1wPmpn08q8.yH8fcDZPdc4DJJkP",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only harmed by magical sources, unless attacked from within sandsquid.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

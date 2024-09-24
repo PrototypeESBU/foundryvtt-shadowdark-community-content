@@ -1,0 +1,37 @@
+{
+	"_id": "6Nyudzgut8Wr3yKS",
+	"_key": "!actors.items!hcuWAH3YuDIkloVp.6Nyudzgut8Wr3yKS",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Bite",
+	"system": {
+		"attack": {
+			"num": "2"
+		},
+		"attackType": "physical",
+		"bonuses": {
+			"attackBonus": 5,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": "2",
+			"special": "Engulf",
+			"value": "2d6"
+		},
+		"description": "",
+		"ranges": [
+			"close"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Attack"
+}

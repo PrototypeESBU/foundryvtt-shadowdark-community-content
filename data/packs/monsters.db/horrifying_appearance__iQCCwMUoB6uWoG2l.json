@@ -1,0 +1,17 @@
+{
+	"_id": "iQCCwMUoB6uWoG2l",
+	"_key": "!actors.items!227XMWwC48p6yGzt.iQCCwMUoB6uWoG2l",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Horrifying Appearance",
+	"system": {
+		"description": "<p>Living creatures within near: DC 14 CHA or DISADV on attack rolls, spellcasting checks, and morale checks for [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

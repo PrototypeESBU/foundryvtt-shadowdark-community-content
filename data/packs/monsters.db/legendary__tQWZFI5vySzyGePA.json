@@ -1,0 +1,17 @@
+{
+	"_id": "tQWZFI5vySzyGePA",
+	"_key": "!actors.items!YWSn0dQV9hcTPru8.tQWZFI5vySzyGePA",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Legendary",
+	"system": {
+		"description": "<p>Only damaged by fire and magical sources. Immune to bludgeoning and piercing attacks. Hostile spells targeting the Pinestraw Man are DC 16 to cast.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

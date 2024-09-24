@@ -1,0 +1,17 @@
+{
+	"_id": "oT1imPbvP4NEc26Y",
+	"_key": "!actors.items!WY9dgjhgwieobeBx.oT1imPbvP4NEc26Y",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sunlight Petrification",
+	"system": {
+		"description": "<p>While exposed to natural sunlight, DC 15 CON each round or hag petrified.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

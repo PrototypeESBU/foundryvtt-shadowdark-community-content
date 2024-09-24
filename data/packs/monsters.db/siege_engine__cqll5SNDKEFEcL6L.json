@@ -1,0 +1,17 @@
+{
+	"_id": "cqll5SNDKEFEcL6L",
+	"_key": "!actors.items!JZY9wU8VJ6FqBUwm.cqll5SNDKEFEcL6L",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Siege Engine",
+	"system": {
+		"description": "<p>ADV on all STR-based checks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

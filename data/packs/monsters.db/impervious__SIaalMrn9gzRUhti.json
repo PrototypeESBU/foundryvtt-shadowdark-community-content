@@ -1,0 +1,17 @@
+{
+	"_id": "SIaalMrn9gzRUhti",
+	"_key": "!actors.items!uph64LXziOdyQ1q9.SIaalMrn9gzRUhti",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only damaged by cold or fire.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

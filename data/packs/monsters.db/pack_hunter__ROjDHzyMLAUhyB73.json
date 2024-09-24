@@ -1,0 +1,17 @@
+{
+	"_id": "ROjDHzyMLAUhyB73",
+	"_key": "!actors.items!ERfYp0TA1IjW7dyb.ROjDHzyMLAUhyB73",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pack Hunter",
+	"system": {
+		"description": "<p>Deals +1 damage while an ally is close.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

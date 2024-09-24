@@ -1,0 +1,17 @@
+{
+	"_id": "P9IwY1ewug9NUtdn",
+	"_key": "!actors.items!SxxGcDedHqHjzGfH.P9IwY1ewug9NUtdn",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Create Undead",
+	"system": {
+		"description": "<p>1/day, can create [[/r 2d4]] skeletons, [[/r 1d6]] zombies, [[/r 1d4]] ghouls, a wight, or a wraith to do her bidding for 24 hours. Must have access to humanoid corpses.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

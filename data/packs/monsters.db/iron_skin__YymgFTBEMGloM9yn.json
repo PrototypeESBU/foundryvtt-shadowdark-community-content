@@ -1,0 +1,17 @@
+{
+	"_id": "YymgFTBEMGloM9yn",
+	"_key": "!actors.items!2qTyiNcE99f2Vn8F.YymgFTBEMGloM9yn",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Iron Skin",
+	"system": {
+		"description": "<p>Nonmagical weapons that strike the hag break on a die roll of 1-3.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

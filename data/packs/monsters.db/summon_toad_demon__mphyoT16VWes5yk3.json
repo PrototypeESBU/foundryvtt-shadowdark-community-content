@@ -1,0 +1,17 @@
+{
+	"_id": "mphyoT16VWes5yk3",
+	"_key": "!actors.items!gEkJqmsdtDz3na2q.mphyoT16VWes5yk3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Summon Toad Demon",
+	"system": {
+		"description": "<p>1/day. Summons a toad demon to serve for [[/r 2d6]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

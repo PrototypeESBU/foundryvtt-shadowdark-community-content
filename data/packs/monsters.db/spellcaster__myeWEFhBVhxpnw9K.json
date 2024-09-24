@@ -1,0 +1,23 @@
+{
+	"_id": "myeWEFhBVhxpnw9K",
+	"_key": "!actors.items!KviG7Ryk26FuDBfx.myeWEFhBVhxpnw9K",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Spellcaster",
+	"system": {
+		"dc": "11",
+		"description": "<p>Can cast [[/r 1d3]] random Tier 1 Priest spells.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"range": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

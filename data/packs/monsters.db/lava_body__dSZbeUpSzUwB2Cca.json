@@ -1,0 +1,17 @@
+{
+	"_id": "dSZbeUpSzUwB2Cca",
+	"_key": "!actors.items!hcuWAH3YuDIkloVp.dSZbeUpSzUwB2Cca",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lava Body",
+	"system": {
+		"description": "<p>Creatures starting their turn within close of a molten weird take [[/r 1d6]] damage. Only harmed by magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "ZlX2EosY5eoVEwlC",
+	"_key": "!actors.items!ft20i1IRyS2gAx3q.ZlX2EosY5eoVEwlC",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Soporific Fragrance",
+	"system": {
+		"description": "<p>Living creatures within near: DC 11 CON or fall into deep sleep for [[/r 1d4]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "ctwHhMELO98SHgTR",
+	"_key": "!actors.items!gEkJqmsdtDz3na2q.ctwHhMELO98SHgTR",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Haruspicy (Wis Spell)",
+	"system": {
+		"description": "<p>DC 13. After taking 1 round to read the entrails of a sentient creature, all Zlann-Yi within near have ADV on all ATK rolls and checks for [[/r 1d6]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

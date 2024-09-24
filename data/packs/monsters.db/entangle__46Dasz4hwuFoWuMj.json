@@ -1,0 +1,24 @@
+{
+	"_id": "46Dasz4hwuFoWuMj",
+	"_key": "!actors.items!aJzzD1F9JRvGxwQN.46Dasz4hwuFoWuMj",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Entangle",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target within close: DC 11 STR or immobilized. DC 11 STR on turn to break free.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "sIX5Clq3I0bTwuYc",
+	"_key": "!actors.items!1lEf0DXJJQF1CNU0.sIX5Clq3I0bTwuYc",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>DC 13 CON or paralyzed [[/r 1d4]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

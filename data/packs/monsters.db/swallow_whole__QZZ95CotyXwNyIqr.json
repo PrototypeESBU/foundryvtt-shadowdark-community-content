@@ -1,0 +1,17 @@
+{
+	"_id": "QZZ95CotyXwNyIqr",
+	"_key": "!actors.items!EG3qIeTMdeVsgTNo.QZZ95CotyXwNyIqr",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow Whole",
+	"system": {
+		"description": "<p>On a natural attack roll of 19-20, target swallowed. Total darkness inside and [[/r 1d10]] damage per round. Frawg regurgitates all swallowed if dealt 20 damage to inside of gullet.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

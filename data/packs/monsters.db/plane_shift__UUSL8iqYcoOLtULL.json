@@ -1,0 +1,23 @@
+{
+	"_id": "UUSL8iqYcoOLtULL",
+	"_key": "!actors.items!Lbx7hKaDx7BzeGDI.UUSL8iqYcoOLtULL",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Plane Shift",
+	"system": {
+		"dc": 15,
+		"description": "<p>You fold space and time, transporting yourself and all willing creatures within close range to a location on another plane of your choice. </p><p></p><p>Unless you have been to your intended location before, you appear in a random place on the destination plane.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"range": "close",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

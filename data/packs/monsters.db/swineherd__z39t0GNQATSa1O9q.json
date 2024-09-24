@@ -1,0 +1,17 @@
+{
+	"_id": "z39t0GNQATSa1O9q",
+	"_key": "!actors.items!n2qc2K8I0YlEl4wI.z39t0GNQATSa1O9q",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swineherd",
+	"system": {
+		"description": "<p>In place of attacks, can mentally command [[/r 1d10]] boars or swine and incite them to a murderous frenzy for [[/r 1d6]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

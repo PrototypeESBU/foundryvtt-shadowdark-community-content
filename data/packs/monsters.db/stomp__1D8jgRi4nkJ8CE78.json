@@ -1,0 +1,37 @@
+{
+	"_id": "1D8jgRi4nkJ8CE78",
+	"_key": "!actors.items!YpSimoP3TXWVnfiB.1D8jgRi4nkJ8CE78",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/skills/melee/weapons-crossed-swords-yellow.webp",
+	"name": "Stomp",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"attackType": "physical",
+		"bonuses": {
+			"attackBonus": 11,
+			"critical": {
+				"failureThreshold": 1,
+				"multiplier": 2,
+				"successThreshold": 20
+			},
+			"damageBonus": 0
+		},
+		"damage": {
+			"numDice": "3",
+			"special": "Squash",
+			"value": "3d12"
+		},
+		"description": "",
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Attack"
+}

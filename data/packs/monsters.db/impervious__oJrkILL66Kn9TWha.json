@@ -1,0 +1,17 @@
+{
+	"_id": "oJrkILL66Kn9TWha",
+	"_key": "!actors.items!bnGBS2FVio5yRy4r.oJrkILL66Kn9TWha",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Immune to nonmagical weapons.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

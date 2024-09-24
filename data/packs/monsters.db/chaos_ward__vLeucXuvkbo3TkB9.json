@@ -1,0 +1,17 @@
+{
+	"_id": "vLeucXuvkbo3TkB9",
+	"_key": "!actors.items!Lbx7hKaDx7BzeGDI.vLeucXuvkbo3TkB9",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Chaos Ward",
+	"system": {
+		"description": "<p>Non-chaotic creatures targeting a prayer corpse have DISADV on attack rolls and hostile spellcasting checks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "GND2p2Et6cayZZhx",
+	"_key": "!actors.items!fjtQixzWcA0wSo8L.GND2p2Et6cayZZhx",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lumbering",
+	"system": {
+		"description": "<p>Cannot move and attack in the same round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

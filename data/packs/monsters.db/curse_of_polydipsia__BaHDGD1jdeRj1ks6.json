@@ -1,0 +1,17 @@
+{
+	"_id": "BaHDGD1jdeRj1ks6",
+	"_key": "!actors.items!zuhsNrZSxcLSdlUo.BaHDGD1jdeRj1ks6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Curse Of Polydipsia",
+	"system": {
+		"description": "<p>DC 14 CON or target takes 1 CON damage (can’t heal CON while cursed) and gains a magical curse that causes the target to suffer from an insatiable thirst. Repeat check at noon and midnight each day. Dead at 0 CON.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

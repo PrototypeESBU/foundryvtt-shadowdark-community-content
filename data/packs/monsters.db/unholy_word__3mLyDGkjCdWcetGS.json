@@ -1,0 +1,24 @@
+{
+	"_id": "3mLyDGkjCdWcetGS",
+	"_key": "!actors.items!5zjN4udaXjVrq3rE.3mLyDGkjCdWcetGS",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Unholy Word",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>All Lawful and Neutral living creatures within near that can hear the huecuva, DC 14 WIS or [[/r 2d6]] damage and paralyzed 1 round.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}
