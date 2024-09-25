@@ -1,0 +1,17 @@
+{
+	"_id": "igzyd9KwwodteU2V",
+	"_key": "!actors.items!M03N85PbDfGMr3WF.igzyd9KwwodteU2V",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spellfire",
+	"system": {
+		"description": "<p>Fire fills a near-sized cube around the ooze, dealing [[/r 4d6]] damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

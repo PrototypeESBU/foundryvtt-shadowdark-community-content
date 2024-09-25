@@ -1,0 +1,24 @@
+{
+	"_id": "Y3H8OWQJXlji8HdV",
+	"_key": "!actors.items!n5Viq8qdHlpzvkuR.Y3H8OWQJXlji8HdV",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Icy Breath",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near-sized cube extending from the niflundur. DC 13 DEX or [[/r 3d6]] damage and immobilized 1 round.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "MrM8SEpzTSvvn9E3",
+	"_key": "!actors.items!CVATmgSYagi1F8jx.MrM8SEpzTSvvn9E3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ravenous",
+	"system": {
+		"description": "<p>If a creature (even another blemmyes) is reduced to 0 HP within near, the blemmyes' next action must be to spend 1 round devouring the corpse.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "qOBKZt7nxwijScen",
+	"_key": "!actors.items!CWPqs20n2TFBt0Q5.qOBKZt7nxwijScen",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Phylactery",
+	"system": {
+		"description": "<p>Cannot be killed while spirit vessel (a bloodstone embedded within the doll) is intact.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

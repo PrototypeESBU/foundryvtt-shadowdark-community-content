@@ -1,0 +1,17 @@
+{
+	"_id": "6Qpni7MuFdRw188Z",
+	"_key": "!actors.items!227XMWwC48p6yGzt.6Qpni7MuFdRw188Z",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wail",
+	"system": {
+		"description": "<p>1/day. In place of attacks, living creatures within double near who can hear: contested CHA check or drop to 1 HP and paralyzed for [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "PUkEs9PTTCgbCljF",
+	"_key": "!actors.items!WrxwMfFZ3rcZBjLh.PUkEs9PTTCgbCljF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Wind Body",
+	"system": {
+		"description": "<p>Naturally invisible. Only harmed by magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

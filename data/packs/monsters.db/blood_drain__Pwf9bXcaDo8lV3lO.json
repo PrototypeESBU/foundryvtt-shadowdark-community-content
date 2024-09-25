@@ -1,0 +1,17 @@
+{
+	"_id": "Pwf9bXcaDo8lV3lO",
+	"_key": "!actors.items!AI5kYHezlpF6z94l.Pwf9bXcaDo8lV3lO",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Chon-chon heals [[/r 1d6]] HP and target loses [[/r 1d4]] CON. At 0 CON, target dies and its head becomes a chon-chon.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

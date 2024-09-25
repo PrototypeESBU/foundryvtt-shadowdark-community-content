@@ -1,0 +1,24 @@
+{
+	"_id": "wG2SvDNBoevsHRdh",
+	"_key": "!actors.items!DzX9OwE21qqVfzUC.wG2SvDNBoevsHRdh",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Hook",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": null
+		},
+		"description": "",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

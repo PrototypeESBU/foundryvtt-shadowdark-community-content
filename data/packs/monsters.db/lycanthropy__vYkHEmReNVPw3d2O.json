@@ -1,0 +1,17 @@
+{
+	"_id": "vYkHEmReNVPw3d2O",
+	"_key": "!actors.items!875aztZHJpqqo2BG.vYkHEmReNVPw3d2O",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same werecrocodile, contract lycanthropy.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

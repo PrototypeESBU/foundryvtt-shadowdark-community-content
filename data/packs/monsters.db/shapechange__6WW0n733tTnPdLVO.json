@@ -1,0 +1,17 @@
+{
+	"_id": "6WW0n733tTnPdLVO",
+	"_key": "!actors.items!zuhsNrZSxcLSdlUo.6WW0n733tTnPdLVO",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shapechange",
+	"system": {
+		"description": "<p>Instantly change to look like any other humanoid.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

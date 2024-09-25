@@ -1,0 +1,17 @@
+{
+	"_id": "G886qnWFC6CphwX2",
+	"_key": "!actors.items!bnGBS2FVio5yRy4r.G886qnWFC6CphwX2",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>If 2 or more tentacles hit the same target, the victim is pulled next to the dark young’s blood-sucking maws. [[/r 1d4]] permanent CON damage. At 0 CON, the target dies.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

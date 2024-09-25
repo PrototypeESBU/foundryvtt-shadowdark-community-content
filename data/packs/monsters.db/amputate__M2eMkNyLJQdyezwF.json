@@ -1,0 +1,17 @@
+{
+	"_id": "M2eMkNyLJQdyezwF",
+	"_key": "!actors.items!YWSn0dQV9hcTPru8.M2eMkNyLJQdyezwF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Amputate",
+	"system": {
+		"description": "<p>On a natural attack roll of 18-19, target loses a randomly determined limb. On a natural attack roll of 20, target is beheaded.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

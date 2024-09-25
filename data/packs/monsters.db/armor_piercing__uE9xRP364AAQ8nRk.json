@@ -1,0 +1,17 @@
+{
+	"_id": "uE9xRP364AAQ8nRk",
+	"_key": "!actors.items!5chiJu1modB1CTWO.uE9xRP364AAQ8nRk",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Armor Piercing",
+	"system": {
+		"description": "<p>Beak attack ignores armor.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

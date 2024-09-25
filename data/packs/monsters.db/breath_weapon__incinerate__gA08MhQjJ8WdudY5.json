@@ -1,0 +1,17 @@
+{
+	"_id": "gA08MhQjJ8WdudY5",
+	"_key": "!actors.items!Z60rj4OyvOqHgoaY.gA08MhQjJ8WdudY5",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Breath Weapon: Incinerate",
+	"system": {
+		"description": "<p>DC 15 DEX or [[/r 4d8]] fire damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

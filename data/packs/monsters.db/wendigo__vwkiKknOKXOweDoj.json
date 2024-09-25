@@ -1,0 +1,150 @@
+{
+	"_id": "vwkiKknOKXOweDoj",
+	"_key": "!actors!vwkiKknOKXOweDoj",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"qWWHyrNxGp37uKpz",
+		"9Yfp8en9WlMr8cct",
+		"KiJ0xUIiKUD7ksTA",
+		"pSKvLJZPZxdRrcVq",
+		"Fm2LUCrIBPKdiaj3"
+	],
+	"name": "Wendigo",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Wendigo",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 4
+			},
+			"con": {
+				"mod": 4
+			},
+			"dex": {
+				"mod": 4
+			},
+			"int": {
+				"mod": 2
+			},
+			"str": {
+				"mod": 4
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": 17
+			},
+			"hp": {
+				"hd": 0,
+				"max": 67,
+				"value": 67
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": 14
+		},
+		"move": "doubleNear",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>An emaciated humanoid three times the size of a man with an elk's skull for a head, over-sized antlers, jagged teeth, and legs that end in blackened, smoldering stumps.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 17, <strong>HP</strong> 67, <strong>ATK</strong> 4 rend +9 (2d10 + curse), <strong>MV</strong> double near (fly), <strong>S</strong> +4, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +2, <strong>W</strong> +2, <strong>Ch</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 14</p><p></p>\n\t<p><strong>Curse</strong>. DC 15 CHA or target gains a magical curse and loses 1d4 CHA each day. At 1 CHA, the target is compelled to commit an act of murder and cannibalism, after which the target turns into a wendigo.</p><p></p><p><strong>Howl</strong>. 1/day, 1 mile range. DC 18 CHA or DISADV on attacks and spellcasting checks for 1d6 hours.</p><p></p><p><strong>Impervious</strong>. Only harmed by fire (deal ×2 damage) and magical sources.</p><p></p><p><strong>Incorporeal</strong>. In place of attacks, become corporeal or incorporeal.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

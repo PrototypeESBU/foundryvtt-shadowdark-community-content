@@ -1,0 +1,17 @@
+{
+	"_id": "xLnAh4YNE1G6oZkC",
+	"_key": "!actors.items!NkIFbWEBO8TLWlcW.xLnAh4YNE1G6oZkC",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flesh-warping",
+	"system": {
+		"description": "<p>DC 14 CON or target takes [[/r 1d4]] CON damage. Repeat check each round for [[/r 1d4]] rounds. At 0 CON, target dies and transforms into a chaos pudding.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

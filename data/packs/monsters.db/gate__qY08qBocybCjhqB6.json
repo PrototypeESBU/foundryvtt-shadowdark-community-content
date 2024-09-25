@@ -1,0 +1,17 @@
+{
+	"_id": "qY08qBocybCjhqB6",
+	"_key": "!actors.items!YeP0xyE9hqE9PPS8.qY08qBocybCjhqB6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gate",
+	"system": {
+		"description": "<p>1/day. Open a portal at a point within near to Hell or the Dark Realms. Lasts [[/r 1d6]] rounds or until dismissed. While portal is open, a 2-in-6 chance per round of summoning a devil or demon of LV 9 or less under the Death Knight’s command.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

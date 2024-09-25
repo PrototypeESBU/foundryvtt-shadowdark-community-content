@@ -1,0 +1,17 @@
+{
+	"_id": "MYPuEGlfuVGzymep",
+	"_key": "!actors.items!gklZSxiwdaqcwdye.MYPuEGlfuVGzymep",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Heads",
+	"system": {
+		"description": "<p>Choose how many heads the troll has (minimum of 2). Each is LV 3, AC 12, HP 15, and can make 1 bite attack. A killed head sprouts into [[/r 1d2]] new heads at the start of the troll's turn unless cauterized with acid or fire. The troll’s LV is all the heads' LVs combined.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

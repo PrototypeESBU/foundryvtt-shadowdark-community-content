@@ -1,0 +1,17 @@
+{
+	"_id": "4znJ2jMbP0NNiRzz",
+	"_key": "!actors.items!nKZlKhALOWbeEfw6.4znJ2jMbP0NNiRzz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pack Tactics",
+	"system": {
+		"description": "<p>ADV on ATK rolls when an allied dire baboon is close.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

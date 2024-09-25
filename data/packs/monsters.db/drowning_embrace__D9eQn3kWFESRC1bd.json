@@ -1,0 +1,17 @@
+{
+	"_id": "D9eQn3kWFESRC1bd",
+	"_key": "!actors.items!QLloIk3Hdih5o8xG.D9eQn3kWFESRC1bd",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drowning Embrace",
+	"system": {
+		"description": "<p>DC 12 STR or DEX or target immobilized and lungs fill with sea water. Target takes [[/r 1d6]] damage per round thereafter. DC 12 STR on turn to break free and clear sea water from lungs.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

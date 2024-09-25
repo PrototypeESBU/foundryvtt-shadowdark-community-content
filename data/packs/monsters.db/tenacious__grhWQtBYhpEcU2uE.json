@@ -1,0 +1,17 @@
+{
+	"_id": "grhWQtBYhpEcU2uE",
+	"_key": "!actors.items!nC1yXs2YidbT7wk0.grhWQtBYhpEcU2uE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tenacious",
+	"system": {
+		"description": "<p>If wereboar takes 10 damage or less that would reduce it to 0 HP, it is reduced to 1 HP instead.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

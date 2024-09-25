@@ -1,0 +1,17 @@
+{
+	"_id": "8qkAXbRaW1S3mOd0",
+	"_key": "!actors.items!M03N85PbDfGMr3WF.8qkAXbRaW1S3mOd0",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Absorb Spells",
+	"system": {
+		"description": "<p>If a spell is successfully cast within near, the ooze can try to absorb it. Roll [[/r 1d20]]+4. If higher than spellcasting check, the spell fails, the ooze gains 5 HP, and Spellfire ability triggers.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

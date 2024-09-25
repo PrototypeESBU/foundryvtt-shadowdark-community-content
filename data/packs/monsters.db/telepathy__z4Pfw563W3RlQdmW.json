@@ -1,0 +1,17 @@
+{
+	"_id": "z4Pfw563W3RlQdmW",
+	"_key": "!actors.items!rwBROTLvMAs0HivQ.z4Pfw563W3RlQdmW",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Telepathy",
+	"system": {
+		"description": "<p>Can read surface thoughts within double near. Cannot be surprised by thinking creatures.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

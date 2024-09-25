@@ -1,0 +1,17 @@
+{
+	"_id": "n4P4U7LnRV9rmlHv",
+	"_key": "!actors.items!4oRigJZCsLLGCyR7.n4P4U7LnRV9rmlHv",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Resistant",
+	"system": {
+		"description": "<p>Half damage from fire attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

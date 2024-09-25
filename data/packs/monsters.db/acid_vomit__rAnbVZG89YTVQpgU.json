@@ -1,0 +1,24 @@
+{
+	"_id": "rAnbVZG89YTVQpgU",
+	"_key": "!actors.items!aaHNBQlMeDK6WF6s.rAnbVZG89YTVQpgU",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Acid Vomit",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line extending from the Ygoran, hitting all creatures to a double near distance. DC 15 DEX or [[/r 2d8]] damage.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

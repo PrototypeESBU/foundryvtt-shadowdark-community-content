@@ -1,0 +1,17 @@
+{
+	"_id": "X800i0cRIO99aNgn",
+	"_key": "!actors.items!4ty4a6NteypQwjn2.X800i0cRIO99aNgn",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Magic Resistance",
+	"system": {
+		"description": "<p>ADV on saves to resist harmful spells and magical effects.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

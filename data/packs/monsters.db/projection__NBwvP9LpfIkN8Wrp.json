@@ -1,0 +1,17 @@
+{
+	"_id": "NBwvP9LpfIkN8Wrp",
+	"_key": "!actors.items!Esb6X5U0qG2cXNPB.NBwvP9LpfIkN8Wrp",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Projection",
+	"system": {
+		"description": "<p>1/day. Can project a spirit body (same stats) that can turn corporeal or incorporeal in place of making attacks. The berbalang's body is unconscious, and if slain, the spirit dies. If the spirit is reduced to 0 HP, it returns to the body immediately.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

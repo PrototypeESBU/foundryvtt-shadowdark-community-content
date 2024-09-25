@@ -1,0 +1,17 @@
+{
+	"_id": "4pJxAapcQAcoyYPR",
+	"_key": "!actors.items!uph64LXziOdyQ1q9.4pJxAapcQAcoyYPR",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Slime Spatter",
+	"system": {
+		"description": "<p>When slime lord is struck with a melee weapon, the weapon becomes coated with green slime. Additionally, all living creatures within close must succeed at a DC 10 DEX save to avoid being struck by a glob of green slime.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "MnB6NbRwbXD6BxJn",
+	"_key": "!actors.items!aaHNBQlMeDK6WF6s.MnB6NbRwbXD6BxJn",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>DC 15 STR or target held. DC 15 STR on turn to break free. While target held, both bite attacks auto hit.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

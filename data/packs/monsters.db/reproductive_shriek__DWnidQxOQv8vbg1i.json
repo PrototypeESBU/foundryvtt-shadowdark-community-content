@@ -1,0 +1,17 @@
+{
+	"_id": "DWnidQxOQv8vbg1i",
+	"_key": "!actors.items!ZZsWKfjrQ3jQmHx5.DWnidQxOQv8vbg1i",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Reproductive Shriek",
+	"system": {
+		"description": "<p>Once per day, in place of attacks, all man-sized or larger creatures within double near who can hear the carcinid must make a DC 13 WIS or take [[/r 1d4]] CON damage (can't heal while ill). Repeat check once per day. Die at 0 CON, and a carcinid erupts from the body.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

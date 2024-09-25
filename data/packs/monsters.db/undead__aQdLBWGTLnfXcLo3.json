@@ -1,0 +1,17 @@
+{
+	"_id": "aQdLBWGTLnfXcLo3",
+	"_key": "!actors.items!VcA8NBZv6YRd6ihE.aQdLBWGTLnfXcLo3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Undead",
+	"system": {
+		"description": "<p>Immune to morale checks. Only harmed by magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

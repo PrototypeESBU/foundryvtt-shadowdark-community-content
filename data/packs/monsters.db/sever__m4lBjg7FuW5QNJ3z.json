@@ -1,0 +1,17 @@
+{
+	"_id": "m4lBjg7FuW5QNJ3z",
+	"_key": "!actors.items!4oRigJZCsLLGCyR7.m4lBjg7FuW5QNJ3z",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sever",
+	"system": {
+		"description": "<p>On a natural attack roll of 19, target loses a randomly determined limb. On a natural 20, target decapitated.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

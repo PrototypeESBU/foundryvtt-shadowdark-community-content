@@ -1,0 +1,17 @@
+{
+	"_id": "QI5PAb6CK89d4uWq",
+	"_key": "!actors.items!Qqh2PLW5tC7X8Hqe.QI5PAb6CK89d4uWq",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Enchanted Hide",
+	"system": {
+		"description": "<p>Only harmed by fire and magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "4eRMoVdpyMrjVgJw",
+	"_key": "!actors.items!KdBqomeJlrspmUJN.4eRMoVdpyMrjVgJw",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Mind Thrust",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Fills a near-sized cube extending from the su-monster. DC 12 INT or [[/r 2d6]] damage and paralyzed for [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

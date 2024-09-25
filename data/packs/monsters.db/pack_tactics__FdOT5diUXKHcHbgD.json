@@ -1,0 +1,17 @@
+{
+	"_id": "FdOT5diUXKHcHbgD",
+	"_key": "!actors.items!akAKpDGTjZcZFJQ2.FdOT5diUXKHcHbgD",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pack Tactics",
+	"system": {
+		"description": "<p>ADV on ATK rolls when an allied bloodwing is close.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

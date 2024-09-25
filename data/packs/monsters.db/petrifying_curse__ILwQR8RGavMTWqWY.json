@@ -1,0 +1,25 @@
+{
+	"_id": "ILwQR8RGavMTWqWY",
+	"_key": "!actors.items!WY9dgjhgwieobeBx.ILwQR8RGavMTWqWY",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Petrifying Curse",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>DC 14 CON or target gains a magical curse that deals [[/r 1d4]] DEX damage (can't heal DEX while cursed). Repeat check once per day. Petrified at 0 DEX.</p>",
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

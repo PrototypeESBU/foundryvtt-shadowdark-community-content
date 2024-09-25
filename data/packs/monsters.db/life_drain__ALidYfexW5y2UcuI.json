@@ -1,0 +1,24 @@
+{
+	"_id": "ALidYfexW5y2UcuI",
+	"_key": "!actors.items!teGyWB0YGVKhZiir.ALidYfexW5y2UcuI",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Life Drain",
+	"system": {
+		"attack": {
+			"num": ""
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>[[/r 1d4]] CON damage if the target begins its turn inside the mist. Death if reduced to 0 CON.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

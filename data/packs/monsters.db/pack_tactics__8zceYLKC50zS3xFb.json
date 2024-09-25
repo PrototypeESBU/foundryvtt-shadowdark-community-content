@@ -1,0 +1,17 @@
+{
+	"_id": "8zceYLKC50zS3xFb",
+	"_key": "!actors.items!ynuVMRXGUX8Mr0YY.8zceYLKC50zS3xFb",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pack Tactics",
+	"system": {
+		"description": "<p>ADV on ATK rolls when an allied piranha bird is close.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

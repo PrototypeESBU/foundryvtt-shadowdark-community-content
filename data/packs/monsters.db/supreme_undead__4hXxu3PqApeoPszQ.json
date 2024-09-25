@@ -1,0 +1,17 @@
+{
+	"_id": "4hXxu3PqApeoPszQ",
+	"_key": "!actors.items!xGD5pFqhpAxAxPUT.4hXxu3PqApeoPszQ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Supreme Undead",
+	"system": {
+		"description": "<p>Immune to morale checks. Only damaged by silver or magical sources. Immune to hostile spells of 2nd tier or lower.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

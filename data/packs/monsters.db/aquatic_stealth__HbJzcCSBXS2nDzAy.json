@@ -1,0 +1,17 @@
+{
+	"_id": "HbJzcCSBXS2nDzAy",
+	"_key": "!actors.items!XwMsQXu0xzanvvHy.HbJzcCSBXS2nDzAy",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Aquatic Stealth",
+	"system": {
+		"description": "<p>ADV on checks to sneak and hide when in water.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

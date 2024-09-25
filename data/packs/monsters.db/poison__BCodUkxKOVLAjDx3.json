@@ -1,0 +1,17 @@
+{
+	"_id": "BCodUkxKOVLAjDx3",
+	"_key": "!actors.items!aIydvtPjVcUjTiJy.BCodUkxKOVLAjDx3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>DC 13 CON or go to 0 HP with a death timer of 1.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

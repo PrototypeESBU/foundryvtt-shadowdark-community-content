@@ -1,0 +1,17 @@
+{
+	"_id": "P4OR0glc5wXluxT2",
+	"_key": "!actors.items!P4b196Kmlcp566df.P4OR0glc5wXluxT2",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>Target immobilized. DC 13 STR or DEX on turn to break free.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

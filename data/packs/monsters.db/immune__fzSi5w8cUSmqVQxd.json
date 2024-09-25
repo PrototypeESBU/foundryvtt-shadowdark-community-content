@@ -1,0 +1,17 @@
+{
+	"_id": "fzSi5w8cUSmqVQxd",
+	"_key": "!actors.items!KsE4s6VGZuJbTbL1.fzSi5w8cUSmqVQxd",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Immune",
+	"system": {
+		"description": "<p>Cold, fire, and poison immune. Only harmed by magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

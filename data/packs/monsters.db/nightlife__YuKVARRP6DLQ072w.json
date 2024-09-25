@@ -1,0 +1,17 @@
+{
+	"_id": "YuKVARRP6DLQ072w",
+	"_key": "!actors.items!sao2cTk43PQ81X05.YuKVARRP6DLQ072w",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nightlife",
+	"system": {
+		"description": "<p>Night trolls only exist between sunset and sunrise. At sunrise, they vanish, reappearing at sunset on the spot where they vanished.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

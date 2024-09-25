@@ -1,0 +1,17 @@
+{
+	"_id": "CNUuRjA56KHpPdEF",
+	"_key": "!actors.items!1GTQ2w7uqC2DEj2N.CNUuRjA56KHpPdEF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Shrinking Touch",
+	"system": {
+		"description": "<p>DC 14 CON or target’s body shrinks by [[/r 1d4]] feet. The target returns to its original height after 8 hours of sleep. Targets reduced to 0 feet shrink to nonexistence.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

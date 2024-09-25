@@ -1,0 +1,17 @@
+{
+	"_id": "q7JBKCxkt0dkBEB1",
+	"_key": "!actors.items!z4ecrfRok1l1TMwG.q7JBKCxkt0dkBEB1",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Into The Maw",
+	"system": {
+		"description": "<p>Deals [[/r 2d10]] bite damage if it hits the same target with 2 or more claw attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

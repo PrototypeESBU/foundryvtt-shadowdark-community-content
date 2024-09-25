@@ -1,0 +1,17 @@
+{
+	"_id": "1OkU7R9HVU6RxyHT",
+	"_key": "!actors.items!0msUDn4LIUmUxM4T.1OkU7R9HVU6RxyHT",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sleep Gaze",
+	"system": {
+		"description": "<p>In place of an attack, can cause sleep by gazing deeply into a humanoid's eyes. Near range. DC 13 CHA or sleep for [[/r 1d4]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

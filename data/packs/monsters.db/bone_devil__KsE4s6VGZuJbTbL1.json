@@ -1,0 +1,150 @@
+{
+	"_id": "KsE4s6VGZuJbTbL1",
+	"_key": "!actors!KsE4s6VGZuJbTbL1",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"LJq6vtZoVQ5UJhfw",
+		"BEVPX5MqPOiTf2BR",
+		"fzSi5w8cUSmqVQxd",
+		"DEjLpNeLpdMONpAh",
+		"0YkYhLR5VU1CwAP3"
+	],
+	"name": "Bone Devil",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Bone Devil",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": 1
+			},
+			"con": {
+				"mod": 3
+			},
+			"dex": {
+				"mod": 3
+			},
+			"int": {
+				"mod": 3
+			},
+			"str": {
+				"mod": 3
+			},
+			"wis": {
+				"mod": 2
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": "15"
+			},
+			"hp": {
+				"hd": 0,
+				"max": "48",
+				"value": "48"
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": "10"
+		},
+		"move": "near",
+		"moveNote": "fly",
+		"notes": "\n\t<p><i>This 10-foot-tall skeletal fiend has glowing red eyes, a long scorpion-like tail, and a great two-handed scythe made of humanoid bones. They are the interrogators and inquisitors of devilkind. </i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 15, <strong>HP</strong> 48, <strong>ATK</strong> 3 scythe +8 (2d8) or 1 tail sting +10 (1d10 + poison), <strong>MV</strong> near (fly), <strong>S</strong> +3, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +3, <strong>W</strong> +2, <strong>Ch</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 10</p><p></p>\n\t<p><strong>Immune</strong>. Cold, fire, and poison immune. Only harmed by magical sources.</p><p></p><p><strong>Magic Resistant</strong>. ADV on checks to resist hostile magic.</p><p></p><p><strong>Poison</strong>. DC 16 CON or go to 0 HP with a death timer of 1.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

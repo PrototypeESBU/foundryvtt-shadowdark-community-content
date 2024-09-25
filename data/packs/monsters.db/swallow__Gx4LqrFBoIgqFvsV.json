@@ -1,0 +1,17 @@
+{
+	"_id": "Gx4LqrFBoIgqFvsV",
+	"_key": "!actors.items!ZU00J7AWXpp9Rinh.Gx4LqrFBoIgqFvsV",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a natural attack roll of 19-20, target is swallowed. Target takes [[/r 1d6]] damage per round and must pass a DC 14 CON check each round they remain swallowed to resist tongue-eater infection. Brood mother regurgitates all swallowed if dealt at least 15 damage in 1 round to the inside of its gullet or once a swallowed creature is infected.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

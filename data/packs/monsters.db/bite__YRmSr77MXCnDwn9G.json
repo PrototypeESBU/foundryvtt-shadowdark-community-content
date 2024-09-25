@@ -1,0 +1,24 @@
+{
+	"_id": "YRmSr77MXCnDwn9G",
+	"_key": "!actors.items!4y5vh3Li8CdzuzCl.YRmSr77MXCnDwn9G",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Bite",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

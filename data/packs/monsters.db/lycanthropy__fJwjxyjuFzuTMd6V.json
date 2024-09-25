@@ -1,0 +1,17 @@
+{
+	"_id": "fJwjxyjuFzuTMd6V",
+	"_key": "!actors.items!0msUDn4LIUmUxM4T.fJwjxyjuFzuTMd6V",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same jackalwere, contract lycanthropy.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

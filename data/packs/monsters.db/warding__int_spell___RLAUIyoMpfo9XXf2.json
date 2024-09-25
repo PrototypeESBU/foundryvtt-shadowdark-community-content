@@ -1,0 +1,17 @@
+{
+	"_id": "RLAUIyoMpfo9XXf2",
+	"_key": "!actors.items!gEkJqmsdtDz3na2q.RLAUIyoMpfo9XXf2",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Warding (Int Spell)",
+	"system": {
+		"description": "<p>Self. DC 14. Can only be harmed by magical sources for [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

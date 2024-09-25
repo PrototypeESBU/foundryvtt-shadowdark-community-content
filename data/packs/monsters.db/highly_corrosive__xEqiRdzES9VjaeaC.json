@@ -1,0 +1,17 @@
+{
+	"_id": "xEqiRdzES9VjaeaC",
+	"_key": "!actors.items!wZsYnF7wi1VGlpKz.xEqiRdzES9VjaeaC",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Highly Corrosive",
+	"system": {
+		"description": "<p>Any material, except stone, that touches the jelly dissolves on a die roll of 1-4. Creatures struck by a tentacle or within close of the jelly when it is hit with a melee attack: DC 13 DEX or [[/r 2d6]] damage and armor and clothing exposed to the jelly’s highly corrosive ability.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

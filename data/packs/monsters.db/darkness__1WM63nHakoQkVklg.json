@@ -1,0 +1,23 @@
+{
+	"_id": "1WM63nHakoQkVklg",
+	"_key": "!actors.items!UcQaaucN70HZ9SVA.1WM63nHakoQkVklg",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Darkness",
+	"system": {
+		"dc": "11",
+		"description": "<p>Extinguishes all non-magical light sources within far.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"range": "far",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

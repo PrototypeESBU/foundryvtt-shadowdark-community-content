@@ -1,0 +1,17 @@
+{
+	"_id": "rF35Ij9R9DpfHc1R",
+	"_key": "!actors.items!QWSx8NMb9wj8ahbz.rF35Ij9R9DpfHc1R",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Consume Flesh",
+	"system": {
+		"description": "<p>Once stuck on a victim, can only be removed by fire (½ damage to victim and ½ damage to slime). Once in contact with flesh for 4 rounds, victim turns into green slime in a further [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

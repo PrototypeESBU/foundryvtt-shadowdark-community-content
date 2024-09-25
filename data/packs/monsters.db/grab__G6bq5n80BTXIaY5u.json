@@ -1,0 +1,17 @@
+{
+	"_id": "G6bq5n80BTXIaY5u",
+	"_key": "!actors.items!ft20i1IRyS2gAx3q.G6bq5n80BTXIaY5u",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>DC 12 STR or target immobilized in vines. DC 12 STR on turn to break free.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

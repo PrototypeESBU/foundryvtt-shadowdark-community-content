@@ -1,0 +1,17 @@
+{
+	"_id": "tQauZEXkJbszyJKK",
+	"_key": "!actors.items!XmLKI6s8CrDYcu6P.tQauZEXkJbszyJKK",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Handler",
+	"system": {
+		"description": "<p>A hollow man separated from its creator by more than a mile must succeed at a DC 16 WIS save after 24 hours (repeating this save at the start of each day). On failing this save, the hollow man enters a bestial rage, attacking any living creature it meets. After [[/r 1d4]] hours, the enraged hollow man dies.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "nwwt7QLH1wwSu52K",
+	"_key": "!actors.items!fNwW7uvpE0wyxiGy.nwwt7QLH1wwSu52K",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Restoration",
+	"system": {
+		"description": "<p>If \"killed,\" reforms in [[/r 1d6]] days at full HP. To permanently destroy a ghost, one must set right whatever prevents it from resting in peace. Creatures affected by a ghost's possess ability experience a vision of what needs to be done to put it to rest.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

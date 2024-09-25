@@ -1,0 +1,17 @@
+{
+	"_id": "SRIaoLGp6tf3eOpn",
+	"_key": "!actors.items!4sw6pFglkyrQQjmV.SRIaoLGp6tf3eOpn",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "All-around Sight",
+	"system": {
+		"description": "<p>Can’t be surprised.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

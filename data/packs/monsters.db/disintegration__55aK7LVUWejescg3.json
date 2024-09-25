@@ -1,0 +1,17 @@
+{
+	"_id": "55aK7LVUWejescg3",
+	"_key": "!actors.items!Xt88oIaJXTmYotWO.55aK7LVUWejescg3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Disintegration",
+	"system": {
+		"description": "<p>A creature reduced to 0 hit points from bite attack is turned to ash.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

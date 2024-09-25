@@ -1,0 +1,17 @@
+{
+	"_id": "QrRQlyZ6wvzQpn1i",
+	"_key": "!actors.items!Jq08mbP2OLvmGLYU.QrRQlyZ6wvzQpn1i",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Phasing Strike",
+	"system": {
+		"description": "<p>Once every [[/r 1d4]] rounds: in place of attacks, move up to triple near in a straight line and briefly turn semi-corporeal. All targets in line DC 15 DEX or [[/r 2d8]] damage and paralyzed 1 round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

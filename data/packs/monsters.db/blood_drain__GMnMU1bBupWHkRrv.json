@@ -1,0 +1,17 @@
+{
+	"_id": "GMnMU1bBupWHkRrv",
+	"_key": "!actors.items!vBc7OdKDLNPespC4.GMnMU1bBupWHkRrv",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Vampire bat heals [[/r 1d6]] HP and the target loses [[/r 1d2]] CON. At 0 CON, the target dies.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

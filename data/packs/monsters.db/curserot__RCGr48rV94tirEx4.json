@@ -1,0 +1,17 @@
+{
+	"_id": "RCGr48rV94tirEx4",
+	"_key": "!actors.items!zz3ZVPHDeYRzmzOs.RCGr48rV94tirEx4",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Curserot",
+	"system": {
+		"description": "<p>DC 12 CON or target takes 1 CON damage (can’t heal CON while cursed) and gains a magical curse that causes target’s flesh to rot. Repeat check once per day. Dead at 0 CON, target rises as curserot shambler.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

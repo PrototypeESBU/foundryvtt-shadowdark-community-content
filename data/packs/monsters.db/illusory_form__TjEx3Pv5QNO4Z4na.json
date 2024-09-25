@@ -1,0 +1,17 @@
+{
+	"_id": "TjEx3Pv5QNO4Z4na",
+	"_key": "!actors.items!5zjN4udaXjVrq3rE.TjEx3Pv5QNO4Z4na",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Illusory Form",
+	"system": {
+		"description": "<p>Can appear as they did in life. DC 16 WIS to disbelieve.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

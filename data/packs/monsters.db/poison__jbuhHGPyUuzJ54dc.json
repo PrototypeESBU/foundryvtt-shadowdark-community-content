@@ -1,0 +1,17 @@
+{
+	"_id": "jbuhHGPyUuzJ54dc",
+	"_key": "!actors.items!hk9qC2fd9g6iA924.jbuhHGPyUuzJ54dc",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>DC 20 CON or drop to 0 HP with a death timer of 1.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

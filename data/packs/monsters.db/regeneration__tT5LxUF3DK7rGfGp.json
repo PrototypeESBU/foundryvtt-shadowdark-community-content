@@ -1,0 +1,17 @@
+{
+	"_id": "tT5LxUF3DK7rGfGp",
+	"_key": "!actors.items!YWSn0dQV9hcTPru8.tT5LxUF3DK7rGfGp",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Regeneration",
+	"system": {
+		"description": "<p>Heals 10 HP at the beginning of his turn. Only dies if he starts his turn with 0 HP.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

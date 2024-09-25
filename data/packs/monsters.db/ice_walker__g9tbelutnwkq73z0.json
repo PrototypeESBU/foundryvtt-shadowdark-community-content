@@ -1,0 +1,17 @@
+{
+	"_id": "g9tbelutnwkq73z0",
+	"_key": "!actors.items!LN8yKz6sGZaWPOHx.g9tbelutnwkq73z0",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Ice-walker",
+	"system": {
+		"description": "<p>Movement not hindered by snow or ice. Cold immune.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

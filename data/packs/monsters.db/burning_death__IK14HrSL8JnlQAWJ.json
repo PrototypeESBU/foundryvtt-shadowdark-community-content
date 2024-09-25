@@ -1,0 +1,23 @@
+{
+	"_id": "IK14HrSL8JnlQAWJ",
+	"_key": "!actors.items!y29Fe6ufvBcUP5kg.IK14HrSL8JnlQAWJ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Burning Death",
+	"system": {
+		"dc": "13",
+		"description": "<p>[[/r 1d10]] damage to all within a near-sized cube.</p>",
+		"duration": {
+			"type": "",
+			"value": -1
+		},
+		"lost": false,
+		"range": "near",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

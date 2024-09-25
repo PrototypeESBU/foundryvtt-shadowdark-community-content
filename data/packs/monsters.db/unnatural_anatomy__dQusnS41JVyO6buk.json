@@ -1,0 +1,17 @@
+{
+	"_id": "dQusnS41JVyO6buk",
+	"_key": "!actors.items!Xt88oIaJXTmYotWO.dQusnS41JVyO6buk",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Unnatural Anatomy",
+	"system": {
+		"description": "<p>Half damage from nonmagical weapons.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

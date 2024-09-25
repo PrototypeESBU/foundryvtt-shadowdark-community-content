@@ -1,0 +1,23 @@
+{
+	"_id": "UX80EIGdkNguPku2",
+	"_key": "!actors.items!y29Fe6ufvBcUP5kg.UX80EIGdkNguPku2",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Command",
+	"system": {
+		"dc": "13",
+		"description": "<p>Bugbears and goblins have DISADV. Focus. One humanoid target within near obeys 1-word command. No save unless the command is directly harmful.</p>",
+		"duration": {
+			"type": "focus",
+			"value": -1
+		},
+		"lost": false,
+		"range": "near",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

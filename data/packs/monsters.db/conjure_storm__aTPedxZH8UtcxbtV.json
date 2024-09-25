@@ -1,0 +1,17 @@
+{
+	"_id": "aTPedxZH8UtcxbtV",
+	"_key": "!actors.items!Oe4NADvOlQwHRrEl.aTPedxZH8UtcxbtV",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Conjure Storm",
+	"system": {
+		"description": "<p>1/day. Storm with high winds and rain fills a 1-mile radius around the hag for [[/r 1d4]] hours. Movement halved, missile fire and flight impossible, visibility reduced to double near range. Storm hag immune.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

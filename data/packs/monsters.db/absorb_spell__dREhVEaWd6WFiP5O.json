@@ -1,0 +1,17 @@
+{
+	"_id": "dREhVEaWd6WFiP5O",
+	"_key": "!actors.items!1hPOTXwMlTC46Ipe.dREhVEaWd6WFiP5O",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Absorb Spell",
+	"system": {
+		"description": "<p>Any spell targeting a spellgorger ooze is absorbed, healing the ooze [[/r 1d6]] HP for each of the spell’s Tier levels. Hostile spells that deal HP damage are absorbed and then reflected back at the spellcaster.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

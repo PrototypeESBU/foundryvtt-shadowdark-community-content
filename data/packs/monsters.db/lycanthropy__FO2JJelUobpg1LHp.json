@@ -1,0 +1,17 @@
+{
+	"_id": "FO2JJelUobpg1LHp",
+	"_key": "!actors.items!CZ2Mw6tVpR07tJKj.FO2JJelUobpg1LHp",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Lycanthropy",
+	"system": {
+		"description": "<p>If 12 or more damage from the same wereserpent, contract lycanthropy.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

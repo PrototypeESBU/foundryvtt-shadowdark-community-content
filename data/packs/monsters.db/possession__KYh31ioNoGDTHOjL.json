@@ -1,0 +1,17 @@
+{
+	"_id": "KYh31ioNoGDTHOjL",
+	"_key": "!actors.items!Iyn1gb8OisEFGakd.KYh31ioNoGDTHOjL",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Possession",
+	"system": {
+		"description": "<p>In place of attacks, can crawl into the mouth of a dead humanoid, turning it into a tongue-eater host body.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

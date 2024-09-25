@@ -1,0 +1,17 @@
+{
+	"_id": "01OdbeI1vBI17l5U",
+	"_key": "!actors.items!O2W5j8DrmExXRA0B.01OdbeI1vBI17l5U",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Latch",
+	"system": {
+		"description": "<p>Attach to target; bite auto-hits next round. DC 12 STR on turn to tear off.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "KNPO76RYWpeFE9Un",
+	"_key": "!actors.items!BZNfqcDh5HylESSQ.KNPO76RYWpeFE9Un",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Constrict",
+	"system": {
+		"description": "<p>In place of attacking, the hag serpent makes one +4 ATK against a single target. If the ATK hits, DC 14 STR or DEX or target immobilized. DC 14 STR or DEX on turn to break free. While constricted, target takes [[/r 1d10]] constriction damage on turn and hag serpent’s bite auto hits.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "61Ar4LgfxXooksYT",
+	"_key": "!actors.items!S7IwQEZlDytPYmfS.61Ar4LgfxXooksYT",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tongue-eater Infection",
+	"system": {
+		"description": "<p>DC 14 CON or a tongue-eater attaches to the target's tongue, anesthetizes it, begins to eat and replace it, and slowly spreads to the target's brain and digestive system. Repeat check each day. On fail, target permanently loses 1d4 INT. At 0 INT, target dies and becomes a tongue-eater host body. After another 3d6 days, the tongue-eater transforms into an adult.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "eMBb1aIcudFFIt2D",
+	"_key": "!actors.items!S8F8sdyQT91tBFiN.eMBb1aIcudFFIt2D",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Volcano-born",
+	"system": {
+		"description": "<p>Fire immune. Double damage from cold attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "MsWFHvQuS5n9Pl8A",
+	"_key": "!actors.items!teGyWB0YGVKhZiir.MsWFHvQuS5n9Pl8A",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Cold immune. Only harmed by magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

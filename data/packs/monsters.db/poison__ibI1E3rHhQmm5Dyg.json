@@ -1,0 +1,17 @@
+{
+	"_id": "ibI1E3rHhQmm5Dyg",
+	"_key": "!actors.items!y3U4vduE35dOn4nG.ibI1E3rHhQmm5Dyg",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>DC 14 CON or target paralyzed [[/r 1d8]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

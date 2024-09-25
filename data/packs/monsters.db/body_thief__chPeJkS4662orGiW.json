@@ -1,0 +1,17 @@
+{
+	"_id": "chPeJkS4662orGiW",
+	"_key": "!actors.items!FWO1iHdMaFuStYYY.chPeJkS4662orGiW",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Body Thief",
+	"system": {
+		"description": "<p>In place of attacks, burrows into the head of a sleeping, paralyzed, or recently dead (1 day or less) creature, dealing [[/r 3d6]] damage. If the target is slain or already dead, the body revives at full HP and is under the intellect devourer's control. The intellect devourer gains access to the host body's languages, knowledge, and memories, but not spellcasting or supernatural abilities. The body decays and is uninhabitable after [[/r 3d6]] days.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

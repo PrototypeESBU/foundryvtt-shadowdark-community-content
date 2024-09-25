@@ -1,0 +1,17 @@
+{
+	"_id": "3NQv92CASBOeGFHk",
+	"_key": "!actors.items!2jN6oc1RlLSMlKor.3NQv92CASBOeGFHk",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drain",
+	"system": {
+		"description": "<p>Target takes [[/r 1d4]] CHA damage and flesh becomes gray and colorless. At 0 CHA, target transformed into a chromatic stalker.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "v8DaVFkoOdyoeIws",
+	"_key": "!actors.items!ltWG0lgftobjPYUi.v8DaVFkoOdyoeIws",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"attack": {
+			"num": ""
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A single target within near takes [[/r 1d4]] CON damage. Death at 0 CON.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

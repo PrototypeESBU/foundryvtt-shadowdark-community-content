@@ -1,0 +1,17 @@
+{
+	"_id": "rGetaJJSs6PQLEGp",
+	"_key": "!actors.items!2hcQ8vK61O5EOFWj.rGetaJJSs6PQLEGp",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Devastating Charge",
+	"system": {
+		"description": "<p>In place of attacks, ypotryll moves up to double near in a straight line and makes a single tusk attack at all targets in its path.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

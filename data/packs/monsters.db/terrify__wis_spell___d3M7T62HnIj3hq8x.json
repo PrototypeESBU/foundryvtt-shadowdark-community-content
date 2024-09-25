@@ -1,0 +1,17 @@
+{
+	"_id": "d3M7T62HnIj3hq8x",
+	"_key": "!actors.items!gEkJqmsdtDz3na2q.d3M7T62HnIj3hq8x",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Terrify (Wis Spell)",
+	"system": {
+		"description": "<p>DC 15. On target within double near DC 15 WIS or DISADV on ATK rolls for [[/r 1d6]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "UiR21SpIH3cU0eOV",
+	"_key": "!actors.items!vwKDkA1wPmpn08q8.UiR21SpIH3cU0eOV",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow",
+	"system": {
+		"description": "<p>On a natural attack roll of 19-20, target swallowed and shunted to sandsquid’s primary stomach. Total darkness inside and [[/r 2d10]] damage per round. Target can escape primary stomach with a DC 10 STR or DEX check and move into one of the many cave-like cavities within sandsquid (target no longer takes damage each round). A creature with a cutting weapon can cut its way out of the sandsquid by dealing 30 points of damage to it from within.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

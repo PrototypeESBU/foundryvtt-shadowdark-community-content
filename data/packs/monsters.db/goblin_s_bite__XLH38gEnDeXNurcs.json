@@ -1,0 +1,17 @@
+{
+	"_id": "XLH38gEnDeXNurcs",
+	"_key": "!actors.items!sAXnORFgeVpo9YNU.XLH38gEnDeXNurcs",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Goblin's Bite",
+	"system": {
+		"description": "<p>On a natural attack roll of 20, roll [[/r 1d6]]: bites off a finger (1–4), ear (5), or nose (6) and deals [[/r 1d6]] additional damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

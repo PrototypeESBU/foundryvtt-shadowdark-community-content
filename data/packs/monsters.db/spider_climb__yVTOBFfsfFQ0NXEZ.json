@@ -1,0 +1,17 @@
+{
+	"_id": "yVTOBFfsfFQ0NXEZ",
+	"_key": "!actors.items!G7tXWjuc60tDFyPl.yVTOBFfsfFQ0NXEZ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spider Climb",
+	"system": {
+		"description": "<p>Can climb sheer surfaces and hang upside down from ceilings.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

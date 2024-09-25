@@ -1,0 +1,17 @@
+{
+	"_id": "Ru77aSOQgXJjogmE",
+	"_key": "!actors.items!M03N85PbDfGMr3WF.Ru77aSOQgXJjogmE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Burn",
+	"system": {
+		"description": "<p>DC 11 DEX or [[/r 1d4]] damage per round for [[/r 1d4]] rounds or until flames are extinguished.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

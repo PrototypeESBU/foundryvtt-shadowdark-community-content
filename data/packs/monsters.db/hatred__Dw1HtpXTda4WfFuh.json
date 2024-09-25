@@ -1,0 +1,17 @@
+{
+	"_id": "Dw1HtpXTda4WfFuh",
+	"_key": "!actors.items!5zjN4udaXjVrq3rE.Dw1HtpXTda4WfFuh",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hatred",
+	"system": {
+		"description": "<p>ADV on ATK rolls vs. Lawful-aligned priests.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

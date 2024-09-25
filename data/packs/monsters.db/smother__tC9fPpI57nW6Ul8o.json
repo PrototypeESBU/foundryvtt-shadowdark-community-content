@@ -1,0 +1,17 @@
+{
+	"_id": "tC9fPpI57nW6Ul8o",
+	"_key": "!actors.items!cz6urMzoAk5E0Gz4.tC9fPpI57nW6Ul8o",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Smother",
+	"system": {
+		"description": "<p>A grabbed target takes [[/r 1d6]] damage at the start of their turn.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

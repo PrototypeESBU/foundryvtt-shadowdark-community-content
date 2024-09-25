@@ -1,0 +1,17 @@
+{
+	"_id": "EQ05fswPW2yUsxVt",
+	"_key": "!actors.items!YFlhNVWfTGAMIgmj.EQ05fswPW2yUsxVt",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Weakness",
+	"system": {
+		"description": "<p>A handful of salt deals [[/r 1d8]] damage to a slug folk. Immersion in seawater: [[/r 3d8]] damage per round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

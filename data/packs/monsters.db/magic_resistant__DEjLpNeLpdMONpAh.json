@@ -1,0 +1,17 @@
+{
+	"_id": "DEjLpNeLpdMONpAh",
+	"_key": "!actors.items!KsE4s6VGZuJbTbL1.DEjLpNeLpdMONpAh",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Magic Resistant",
+	"system": {
+		"description": "<p>ADV on checks to resist hostile magic.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "WCNhDTX5hqSqHsVh",
+	"_key": "!actors.items!wZsYnF7wi1VGlpKz.WCNhDTX5hqSqHsVh",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only harmed by fire.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

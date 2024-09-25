@@ -1,0 +1,17 @@
+{
+	"_id": "Ac3HZVj3AaBIeYdl",
+	"_key": "!actors.items!nSHQZIWKUxCX0cD2.Ac3HZVj3AaBIeYdl",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Drink Brain",
+	"system": {
+		"description": "<p>Inserts a proboscis into the head of a helpless creature and drinks its brain. Tassargoi heals [[/r 1d6]] HP and target takes [[/r 1d4]] INT damage. Die at 0 INT.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

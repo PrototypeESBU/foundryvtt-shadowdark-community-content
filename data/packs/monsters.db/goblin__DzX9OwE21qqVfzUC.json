@@ -1,0 +1,151 @@
+{
+	"_id": "DzX9OwE21qqVfzUC",
+	"_key": "!actors!DzX9OwE21qqVfzUC",
+	"effects": [
+	],
+	"folder": "TsrcUzF0AuNinYpd",
+	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"items": [
+		"JHO7mQaVxAtPEVyf",
+		"wG2SvDNBoevsHRdh",
+		"c2t86ZIAHNizz8zY",
+		"tL7MATxs5vOMYiiq",
+		"OsztNOIZPOFFDTKJ",
+		"6t62iAXlFSh1ENkX"
+	],
+	"name": "Goblin",
+	"prototypeToken": {
+		"actorLink": false,
+		"alpha": 1,
+		"appendNumber": false,
+		"bar1": {
+			"attribute": "attributes.hp"
+		},
+		"bar2": {
+			"attribute": null
+		},
+		"detectionModes": [
+		],
+		"displayBars": 0,
+		"displayName": 0,
+		"disposition": -1,
+		"flags": {
+		},
+		"height": 1,
+		"hexagonalShape": 0,
+		"light": {
+			"alpha": 0.5,
+			"angle": 360,
+			"animation": {
+				"intensity": 5,
+				"reverse": false,
+				"speed": 5,
+				"type": null
+			},
+			"attenuation": 0.5,
+			"bright": 0,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"dim": 0,
+			"luminosity": 0.5,
+			"negative": false,
+			"priority": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"lockRotation": false,
+		"name": "Goblin",
+		"occludable": {
+			"radius": 0
+		},
+		"prependAdjective": false,
+		"randomImg": false,
+		"ring": {
+			"colors": {
+				"background": null,
+				"ring": null
+			},
+			"effects": 1,
+			"enabled": false,
+			"subject": {
+				"scale": 1,
+				"texture": null
+			}
+		},
+		"rotation": 0,
+		"sight": {
+			"angle": 360,
+			"attenuation": 0.1,
+			"brightness": 0,
+			"color": null,
+			"contrast": 0,
+			"enabled": false,
+			"range": 0,
+			"saturation": 0,
+			"visionMode": "basic"
+		},
+		"texture": {
+			"alphaThreshold": 0.75,
+			"anchorX": 0.5,
+			"anchorY": 0.5,
+			"fit": "contain",
+			"offsetX": 0,
+			"offsetY": 0,
+			"rotation": 0,
+			"scaleX": 1,
+			"scaleY": 1,
+			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"tint": "#ffffff"
+		},
+		"width": 1
+	},
+	"system": {
+		"abilities": {
+			"cha": {
+				"mod": -3
+			},
+			"con": {
+				"mod": 2
+			},
+			"dex": {
+				"mod": 2
+			},
+			"int": {
+				"mod": 0
+			},
+			"str": {
+				"mod": 1
+			},
+			"wis": {
+				"mod": 0
+			}
+		},
+		"alignment": "chaotic",
+		"attributes": {
+			"ac": {
+				"value": "12"
+			},
+			"hp": {
+				"hd": 0,
+				"max": "6",
+				"value": "6"
+			}
+		},
+		"darkAdapted": true,
+		"level": {
+			"value": "1"
+		},
+		"move": "near",
+		"moveNote": "",
+		"notes": "\n\t<p><i>A short, scarred humanoid with green skin, pointed ears, and a mouth with too many shark-like teeth.</i></p>\n\t<p></p>\n\t<p><strong>AC</strong> 12, <strong>HP</strong> 6, <strong>ATK</strong> 1 claw +1 (1d4) and 1 hook-spear +1 (1d6) or 1 crossbow (far) +1 (1d6), <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> +0, <strong>W</strong> +0, <strong>Ch</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>LV</strong> 1</p><p></p>\n\t<p><strong>Goblin's Bite</strong>. On a natural attack roll of 20, roll 1d6: bites off a finger (1-4), ear (5), or nose (6); deals 1d6 additional damage.</p><p></p><p><strong>Latch</strong>. If goblin deals 4 or more damage with its claw attack, the goblin latches to target with its hook-like little finger. All melee attacks vs. target made with ADV. STR DC 11 on turn to tear off (even if goblin is dead).</p><p></p><p><strong>Stealthy</strong>. ADV on DEX checks to sneak and hide.</p><p></p>",
+		"spellcastingAbility": "",
+		"spellcastingAttackNum": 0,
+		"spellcastingBonus": 0
+	},
+	"type": "NPC"
+}

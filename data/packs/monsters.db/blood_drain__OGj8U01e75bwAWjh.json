@@ -1,0 +1,17 @@
+{
+	"_id": "OGj8U01e75bwAWjh",
+	"_key": "!actors.items!xUHxIxECTzmykQFo.OGj8U01e75bwAWjh",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Vampire grass heals [[/r 1d6]] HP and target takes 1 CON damage. At 0 CON, target dies.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

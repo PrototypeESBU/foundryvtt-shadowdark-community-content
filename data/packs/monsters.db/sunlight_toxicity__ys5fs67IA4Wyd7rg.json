@@ -1,0 +1,17 @@
+{
+	"_id": "ys5fs67IA4Wyd7rg",
+	"_key": "!actors.items!VQcI64svMDvRVUH3.ys5fs67IA4Wyd7rg",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sunlight Toxicity",
+	"system": {
+		"description": "<p>Takes [[/r 3d8]] damage each round while in direct sunlight.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

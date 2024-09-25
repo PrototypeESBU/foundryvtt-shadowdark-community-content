@@ -1,0 +1,17 @@
+{
+	"_id": "gez6Ur9OBvCfru5a",
+	"_key": "!actors.items!bnGBS2FVio5yRy4r.gez6Ur9OBvCfru5a",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Trample",
+	"system": {
+		"description": "<p>In place of attacks, move up to triple near in a straight line, dealing [[/r 3d6]] damage to all in the path. DC 15 DEX to avoid.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

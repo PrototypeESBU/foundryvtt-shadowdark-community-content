@@ -1,0 +1,17 @@
+{
+	"_id": "GjSaPTB5w24gBXZ3",
+	"_key": "!actors.items!zMxngooQ7uLiuUId.GjSaPTB5w24gBXZ3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Rending Teeth",
+	"system": {
+		"description": "<p>Deals an extra die of damage if it hits the same target with 2 or more bites.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

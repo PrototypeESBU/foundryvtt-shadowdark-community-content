@@ -1,0 +1,17 @@
+{
+	"_id": "4hI5caCKxIuzE7Z9",
+	"_key": "!actors.items!qLwoog3qbhvxW7eU.4hI5caCKxIuzE7Z9",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Latch",
+	"system": {
+		"description": "<p>Attaches around target's head; touch attack auto-hits next round. DC 13 STR on turn to tear off.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

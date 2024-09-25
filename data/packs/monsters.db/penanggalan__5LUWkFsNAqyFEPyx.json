@@ -1,0 +1,17 @@
+{
+	"_id": "5LUWkFsNAqyFEPyx",
+	"_key": "!actors.items!gn86jEIdKewrgJaB.5LUWkFsNAqyFEPyx",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Penanggalan",
+	"system": {
+		"description": "<p>During the day, Penanggalan can walk in sunlight and does not detect as undead. Body cannot be destroyed unless reduced to 0 HP and pierced through the heart with a wooden stake. If body is destroyed while head is detached, the head is unharmed but can never again walk in the day in living form.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

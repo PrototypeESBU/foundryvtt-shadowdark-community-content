@@ -1,0 +1,17 @@
+{
+	"_id": "bNGHFtZYDIfjwa1d",
+	"_key": "!actors.items!ehuOzOJI0c7xozRC.bNGHFtZYDIfjwa1d",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Immune",
+	"system": {
+		"description": "<p>Fire immune.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

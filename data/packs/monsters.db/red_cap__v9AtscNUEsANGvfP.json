@@ -1,0 +1,17 @@
+{
+	"_id": "v9AtscNUEsANGvfP",
+	"_key": "!actors.items!Z4ChYIcYqm73Ny5U.v9AtscNUEsANGvfP",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Red Cap",
+	"system": {
+		"description": "<p>A redcap must soak its cap in the blood of a murdered humanoid once each moon cycle or the redcap crumbles to dust.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

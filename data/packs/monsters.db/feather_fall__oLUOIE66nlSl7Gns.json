@@ -1,0 +1,17 @@
+{
+	"_id": "oLUOIE66nlSl7Gns",
+	"_key": "!actors.items!rilIBp4O4ZbK1vEI.oLUOIE66nlSl7Gns",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Feather Fall",
+	"system": {
+		"description": "<p>Ignores damage from falls of 60 feet or less.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

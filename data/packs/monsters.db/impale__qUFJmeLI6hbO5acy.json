@@ -1,0 +1,17 @@
+{
+	"_id": "qUFJmeLI6hbO5acy",
+	"_key": "!actors.items!G7tXWjuc60tDFyPl.qUFJmeLI6hbO5acy",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impale",
+	"system": {
+		"description": "<p>On a natural ATK roll of 19-20 with its drop attack, the piercer deals double damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

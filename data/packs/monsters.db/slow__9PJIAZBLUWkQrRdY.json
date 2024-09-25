@@ -1,0 +1,17 @@
+{
+	"_id": "9PJIAZBLUWkQrRdY",
+	"_key": "!actors.items!ltWG0lgftobjPYUi.9PJIAZBLUWkQrRdY",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Slow",
+	"system": {
+		"description": "<p>Cannot move and use its blood drain attack in the same round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

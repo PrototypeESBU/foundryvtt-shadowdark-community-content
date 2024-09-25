@@ -1,0 +1,17 @@
+{
+	"_id": "4pzJGCteI2CIU8Gz",
+	"_key": "!actors.items!V8ABRE0AlCFqasB4.4pzJGCteI2CIU8Gz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Invisibility",
+	"system": {
+		"description": "<p>Naturally invisible until it moves or attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

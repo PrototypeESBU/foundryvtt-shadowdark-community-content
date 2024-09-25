@@ -1,0 +1,17 @@
+{
+	"_id": "9tunM5aHcoJiPNKe",
+	"_key": "!actors.items!Xt88oIaJXTmYotWO.9tunM5aHcoJiPNKe",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Dimensional Charge",
+	"system": {
+		"description": "<p>In place of attacks, teleport anywhere within sight and make 1 bite attack.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

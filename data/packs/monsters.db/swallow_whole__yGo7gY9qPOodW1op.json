@@ -1,0 +1,17 @@
+{
+	"_id": "yGo7gY9qPOodW1op",
+	"_key": "!actors.items!mz4ypmV7Tgix9JYh.yGo7gY9qPOodW1op",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow Whole",
+	"system": {
+		"description": "<p>On a natural attack roll of 19-20, target is swallowed. Total darkness inside and [[/r 1d10]] dmg per round. 20 hp dmg to escape.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

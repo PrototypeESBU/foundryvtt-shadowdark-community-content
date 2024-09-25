@@ -1,0 +1,17 @@
+{
+	"_id": "eYUFuyxKy9H0xqot",
+	"_key": "!actors.items!gEkJqmsdtDz3na2q.eYUFuyxKy9H0xqot",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Enslave (Int Spell)",
+	"system": {
+		"description": "<p>DC 15. One target within double near DC 15 WIS or Zlann-Yi sorcerer-king controls for [[/r 2d6]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "rCLLPW2QEDZrY9zw",
+	"_key": "!actors.items!FWO1iHdMaFuStYYY.rCLLPW2QEDZrY9zw",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Id Insinuation",
+	"system": {
+		"attack": {
+			"num": ""
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target within double near DC 14 CHA or paralyzed for [[/r 1d4]] rounds.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

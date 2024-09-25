@@ -1,0 +1,17 @@
+{
+	"_id": "8bnMzCbXL2Mlulfp",
+	"_key": "!actors.items!kKUc1P3VKkthMM09.8bnMzCbXL2Mlulfp",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Latch",
+	"system": {
+		"description": "<p>Attach to target’s face; target blind and bite auto-hits next round. DC 12 STR on turn to tear off. If still attached at the end of 4 rounds, target permanently blind.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

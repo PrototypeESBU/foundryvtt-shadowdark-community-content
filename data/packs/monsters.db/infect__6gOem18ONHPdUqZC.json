@@ -1,0 +1,17 @@
+{
+	"_id": "6gOem18ONHPdUqZC",
+	"_key": "!actors.items!KvvEgfyJIglBCvjN.6gOem18ONHPdUqZC",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Infect",
+	"system": {
+		"description": "<p>Contested STR check. If ooze wins, it enters target's body and target takes [[/r 1d4]] CON damage and is paralyzed until ooze removed. Can't heal while infected. DC 14 CON each day or [[/r 1d4]] CON damage. Die at 0 CON. Corpse births [[/r 1d4]]+1 marrow oozes. A heal or restoration spell cures the infection and casts the ooze out of the target's body.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

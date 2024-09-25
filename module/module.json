@@ -2,7 +2,7 @@
     "id": "shadowdark-community-content",
     "title": "Shadowdark RPG: Community Content",
 	"description": "A collection of community provided content for Shadowdark RPG",
-    "version": "0.1",
+    "version": "0.2",
     "compatibility": {
         "minimum": "12",
         "verified": "12"
@@ -24,10 +24,10 @@
     ],
     "packs": [
         {
-            "name": "actors",
-            "label": "Monsters and NPCs",
+            "name": "monsters",
+            "label": "Monsters",
             "system": "shadowdark",
-            "path": "packs/actors",
+            "path": "packs/monsters",
             "type": "Actor"
         },
         {
@@ -58,10 +58,10 @@
 			"sorting": "a",
 			"color": "#3a283e",
 			"packs": [
-                "actors",
                 "adventures",
                 "journals",
 				"macros",
+                "monsters",
 				"scenes"
 			]
 		}

@@ -1,0 +1,17 @@
+{
+	"_id": "jjKycweTjGEFRXKE",
+	"_key": "!actors.items!Z60rj4OyvOqHgoaY.jjKycweTjGEFRXKE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Breath Weapon: Dispel",
+	"system": {
+		"description": "<p>DC 15 DEX or all magical effects end.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "fRcrMhLH89pMLo0c",
+	"_key": "!actors.items!pRYyxHDdycLZ7ueo.fRcrMhLH89pMLo0c",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Soul Drain",
+	"system": {
+		"description": "<p>Target takes [[/r 1d4]] INT, WIS, or CHA damage (determined randomly). When an ability score drops to 0, target is transformed into a gauntling.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

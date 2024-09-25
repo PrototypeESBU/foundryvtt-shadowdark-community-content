@@ -1,0 +1,17 @@
+{
+	"_id": "iTSra8yXaiCqxQLz",
+	"_key": "!actors.items!yNGf1RZmNxovs5U9.iTSra8yXaiCqxQLz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sunblind",
+	"system": {
+		"description": "<p>Blinded in bright light.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

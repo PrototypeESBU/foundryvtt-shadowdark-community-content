@@ -1,0 +1,17 @@
+{
+	"_id": "TtTqcxj14pWYQHKA",
+	"_key": "!actors.items!iprIH8hmruZIxhgY.TtTqcxj14pWYQHKA",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Familiar",
+	"system": {
+		"description": "<p>Can be summoned by a female chaotic-aligned spellcaster or hag after a 24-hour ritual. Communicates telepathically with mistress while on the same plane. If killed, rat-thing crawls from mistress’s womb at midnight [[/r 1d4]] days later, fully healed. Only destroyed if mistress killed first.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "JlBsBgBkwssT18nw",
+	"_key": "!actors.items!EfoTwo7got44MCiO.JlBsBgBkwssT18nw",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Necrosis",
+	"system": {
+		"description": "<p>DC 12 CON or [[/r 1d4]] CON damage (can't heal while ill). Repeat check once per day; ends after 2 successes. Die at 0 CON.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

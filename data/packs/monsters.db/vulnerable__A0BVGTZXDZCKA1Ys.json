@@ -1,0 +1,17 @@
+{
+	"_id": "A0BVGTZXDZCKA1Ys",
+	"_key": "!actors.items!LN8yKz6sGZaWPOHx.A0BVGTZXDZCKA1Ys",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Vulnerable",
+	"system": {
+		"description": "<p>Double damage from fire.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "eheausGlonwsoD3X",
+	"_key": "!actors.items!ll9wmbd2YjX7mA0v.eheausGlonwsoD3X",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Vomit",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>A straight line extending from the troll, hitting all creatures to a near distance. DC 15 DEX or [[/r 3d8]] damage.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

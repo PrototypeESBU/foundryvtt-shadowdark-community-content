@@ -1,0 +1,17 @@
+{
+	"_id": "vqlLuQ5Bedhbxtg3",
+	"_key": "!actors.items!WrxwMfFZ3rcZBjLh.vqlLuQ5Bedhbxtg3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fling",
+	"system": {
+		"description": "<p>In place of attacking, wind weird hurls a man-sized or smaller target it has engulfed [[/r 1d3]] × 10 feet into the air. Target takes [[/r 1d6]] damage per 10 feet thrown and lands prone.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

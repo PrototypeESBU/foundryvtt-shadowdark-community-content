@@ -1,0 +1,17 @@
+{
+	"_id": "5yY3ahL01rhW7Suu",
+	"_key": "!actors.items!a9YU4CX945rjpXAM.5yY3ahL01rhW7Suu",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tree-step",
+	"system": {
+		"description": "<p>In place of attacks, can teleport from one tree to another tree within 1 mile.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

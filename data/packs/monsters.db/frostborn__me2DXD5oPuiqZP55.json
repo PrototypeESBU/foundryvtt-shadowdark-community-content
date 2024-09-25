@@ -1,0 +1,17 @@
+{
+	"_id": "me2DXD5oPuiqZP55",
+	"_key": "!actors.items!n5Viq8qdHlpzvkuR.me2DXD5oPuiqZP55",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Frostborn",
+	"system": {
+		"description": "<p>Cold immune. Double damage from fire.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

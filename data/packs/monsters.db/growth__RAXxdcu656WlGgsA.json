@@ -1,0 +1,17 @@
+{
+	"_id": "RAXxdcu656WlGgsA",
+	"_key": "!actors.items!huueSUBjfGzxUIBd.RAXxdcu656WlGgsA",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Growth",
+	"system": {
+		"description": "<p>When exposed to at least 1 hour of sunlight, a blood vine grows 10 feet per day, to a maximum size of 200 feet. For each 10 feet in size, a blood vine is LV 1 and HP 9. * It can make 1 bite ATK at LV 1 and gains an additional bite ATK at LVs 4, 8, 12, 16, and 20. Its ATK roll is equal to its LV.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

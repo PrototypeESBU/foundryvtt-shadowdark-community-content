@@ -1,0 +1,17 @@
+{
+	"_id": "amjjzNeByGcPy83r",
+	"_key": "!actors.items!pSre2P5ETH5nJMYf.amjjzNeByGcPy83r",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Envelope",
+	"system": {
+		"description": "<p>The ghost eel swarm fills a near-sized cube. Instead of an ATK roll, the eels surround creatures and devour them. At the start of each target’s turn, each target enveloped by a ghost eel swarm takes [[/r 2d6]] damage. All non-magical light sources inside it are extinguished. Creatures inside it are blinded.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

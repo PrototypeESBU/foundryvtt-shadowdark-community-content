@@ -1,0 +1,17 @@
+{
+	"_id": "JsMGacTJL7oHoJYv",
+	"_key": "!actors.items!qLwoog3qbhvxW7eU.JsMGacTJL7oHoJYv",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Suffocation",
+	"system": {
+		"description": "<p>If not removed in [[/r 2d4]] rounds, target suffocates.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

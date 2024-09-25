@@ -1,0 +1,17 @@
+{
+	"_id": "41woXwUYuOUScYyJ",
+	"_key": "!actors.items!Qqh2PLW5tC7X8Hqe.41woXwUYuOUScYyJ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fade",
+	"system": {
+		"description": "<p>Turn invisible 1/day for 3 rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

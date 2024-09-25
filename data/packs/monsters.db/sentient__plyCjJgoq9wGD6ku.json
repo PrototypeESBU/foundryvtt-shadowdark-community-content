@@ -1,0 +1,17 @@
+{
+	"_id": "plyCjJgoq9wGD6ku",
+	"_key": "!actors.items!E5EDJtho4C4rhPz8.plyCjJgoq9wGD6ku",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sentient",
+	"system": {
+		"description": "<p>Understands Diabolic and 1 other language, but cannot speak.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

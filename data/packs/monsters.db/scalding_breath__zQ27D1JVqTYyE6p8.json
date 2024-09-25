@@ -1,0 +1,24 @@
+{
+	"_id": "zQ27D1JVqTYyE6p8",
+	"_key": "!actors.items!4oRigJZCsLLGCyR7.zQ27D1JVqTYyE6p8",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Scalding Breath",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/day, fills near-sized cube extending from the xytar. DC 13 DEX or [[/r 4d6]] damage.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

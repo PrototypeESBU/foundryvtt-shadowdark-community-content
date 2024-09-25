@@ -1,0 +1,24 @@
+{
+	"_id": "SdRL9d5qNmsb2tcU",
+	"_key": "!actors.items!pSre2P5ETH5nJMYf.SdRL9d5qNmsb2tcU",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Envelop",
+	"system": {
+		"attack": {
+			"num": ""
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

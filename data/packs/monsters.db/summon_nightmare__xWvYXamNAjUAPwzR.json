@@ -1,0 +1,17 @@
+{
+	"_id": "xWvYXamNAjUAPwzR",
+	"_key": "!actors.items!YeP0xyE9hqE9PPS8.xWvYXamNAjUAPwzR",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Summon Nightmare",
+	"system": {
+		"description": "<p>1/day. Summon a nightmare steed.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

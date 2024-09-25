@@ -1,0 +1,17 @@
+{
+	"_id": "8pWzw3oTfPYk9Ij4",
+	"_key": "!actors.items!czwZPQxWpePApr0x.8pWzw3oTfPYk9Ij4",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Hidden Step",
+	"system": {
+		"description": "<p>1/hour. Can turn invisible for 2 rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

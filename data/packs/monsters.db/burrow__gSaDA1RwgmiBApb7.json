@@ -1,0 +1,17 @@
+{
+	"_id": "gSaDA1RwgmiBApb7",
+	"_key": "!actors.items!aJzzD1F9JRvGxwQN.gSaDA1RwgmiBApb7",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Burrow",
+	"system": {
+		"description": "<p>Can move through soft earth and sand.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

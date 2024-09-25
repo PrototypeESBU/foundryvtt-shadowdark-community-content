@@ -1,0 +1,17 @@
+{
+	"_id": "9D1p44m1QZKzrGKk",
+	"_key": "!actors.items!rNVHq7wSQVic9kCU.9D1p44m1QZKzrGKk",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Consume Liver",
+	"system": {
+		"description": "<p>On a natural ATK roll of 19-20 against a humanoid target, DC 15 CON or go to 0 HP and pontianak heals [[/r 3d6]] HP.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

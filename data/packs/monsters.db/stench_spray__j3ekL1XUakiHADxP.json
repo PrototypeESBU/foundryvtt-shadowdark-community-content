@@ -1,0 +1,17 @@
+{
+	"_id": "j3ekL1XUakiHADxP",
+	"_key": "!actors.items!rwBROTLvMAs0HivQ.j3ekL1XUakiHADxP",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Stench Spray",
+	"system": {
+		"description": "<p>1/day. A straight line extending from the flumph, hitting all creatures to a near distance. DC 15 DEX or covered with a foul-smelling goo that doubles the chance of hostile monster encounters for [[/r 1d6]] hours or until target bathes in vinegar.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

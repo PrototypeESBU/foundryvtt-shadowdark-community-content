@@ -1,0 +1,25 @@
+{
+	"_id": "RUscOZ6QWwj93JjP",
+	"_key": "!actors.items!DJBmhHHc8TyAC4PO.RUscOZ6QWwj93JjP",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Blood Curse",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>DC 14 CON or target gains a magical curse that causes slashing and stabbing wounds to deal double damage. Only affects living creatures with blood.</p>",
+		"ranges": [
+			"near"
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

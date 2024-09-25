@@ -1,0 +1,17 @@
+{
+	"_id": "H4E6nzDlj7nJV0lr",
+	"_key": "!actors.items!ZmRzJ3DtYls4PtqR.H4E6nzDlj7nJV0lr",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Slime",
+	"system": {
+		"description": "<p>DC 11 CON or target paralyzed [[/r 1d4]] rounds. While paralyzed, target takes [[/r 1d6]] damage at the start of their turn.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

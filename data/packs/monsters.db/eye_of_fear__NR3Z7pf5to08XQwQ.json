@@ -1,0 +1,17 @@
+{
+	"_id": "NR3Z7pf5to08XQwQ",
+	"_key": "!actors.items!qQFaUYKk20JepQKk.NR3Z7pf5to08XQwQ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Eye Of Fear",
+	"system": {
+		"description": "<p>In place of attacks, all enemies within near DC 15 CHA or DISADV on attacks, spellcasting checks, and morale checks for [[/r 1d6]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "PoLBhZgrImaV7tzf",
+	"_key": "!actors.items!VcA8NBZv6YRd6ihE.PoLBhZgrImaV7tzf",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Flay",
+	"system": {
+		"description": "<p>On a natural attack roll of 19-20, target takes an additional [[/r 1d4]] CON damage. Death at 0 CON.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

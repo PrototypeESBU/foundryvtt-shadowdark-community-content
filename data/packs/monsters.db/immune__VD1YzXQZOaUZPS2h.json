@@ -1,0 +1,17 @@
+{
+	"_id": "VD1YzXQZOaUZPS2h",
+	"_key": "!actors.items!4y5vh3Li8CdzuzCl.VD1YzXQZOaUZPS2h",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Immune",
+	"system": {
+		"description": "<p>Poison immune.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

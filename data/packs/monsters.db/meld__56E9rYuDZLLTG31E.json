@@ -1,0 +1,17 @@
+{
+	"_id": "56E9rYuDZLLTG31E",
+	"_key": "!actors.items!m9FGYl6UCuDqhjhS.56E9rYuDZLLTG31E",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Meld",
+	"system": {
+		"description": "<p>Step inside solid stone.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

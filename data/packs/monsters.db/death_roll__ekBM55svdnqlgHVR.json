@@ -1,0 +1,17 @@
+{
+	"_id": "ekBM55svdnqlgHVR",
+	"_key": "!actors.items!875aztZHJpqqo2BG.ekBM55svdnqlgHVR",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Death Roll",
+	"system": {
+		"description": "<p>On a natural attack roll of 20, target thrashed by +[[/r 2d6]] damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

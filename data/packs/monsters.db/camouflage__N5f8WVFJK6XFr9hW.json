@@ -1,0 +1,17 @@
+{
+	"_id": "N5f8WVFJK6XFr9hW",
+	"_key": "!actors.items!uQWhK7k1sw6B7sVO.N5f8WVFJK6XFr9hW",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Camouflage",
+	"system": {
+		"description": "<p>ADV on DEX checks to sneak and hide when submerged in water.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

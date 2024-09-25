@@ -1,0 +1,17 @@
+{
+	"_id": "moxfxxEvDgXcypsc",
+	"_key": "!actors.items!CVATmgSYagi1F8jx.moxfxxEvDgXcypsc",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Munch",
+	"system": {
+		"description": "<p>Deals an extra die of damage if it hits the same target with both bites.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

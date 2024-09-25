@@ -1,0 +1,17 @@
+{
+	"_id": "kxXV7SoaRr5lpswz",
+	"_key": "!actors.items!tH5IPuk9xVBZgpDV.kxXV7SoaRr5lpswz",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sunlight Petrification",
+	"system": {
+		"description": "<p>While exposed to natural sunlight DC 15 CON each round or troll petrified.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

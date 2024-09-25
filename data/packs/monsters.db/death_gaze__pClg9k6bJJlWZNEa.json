@@ -1,0 +1,24 @@
+{
+	"_id": "pClg9k6bJJlWZNEa",
+	"_key": "!actors.items!13RLFAnN4RLVnQ2d.pClg9k6bJJlWZNEa",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Death Gaze",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>One target within double near, DC 15 CON or drop to 0 HP.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "S12ulJ7Lh7mdmAI7",
+	"_key": "!actors.items!dZQApOoZ0qcOqQR9.S12ulJ7Lh7mdmAI7",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Ice Web",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 3
+		},
+		"description": "<p>One target stuck in place and [[/r 1d3]] DEX damage per round. At 0 DEX, target paralyzed for 24 hours. DC 12 STR or DEX on turn to escape.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

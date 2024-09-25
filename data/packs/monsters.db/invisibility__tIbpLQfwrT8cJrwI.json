@@ -1,0 +1,17 @@
+{
+	"_id": "tIbpLQfwrT8cJrwI",
+	"_key": "!actors.items!ra6nAzslCb21qXzj.tIbpLQfwrT8cJrwI",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Invisibility",
+	"system": {
+		"description": "<p>Can become invisible for 6 rounds up to 3 times per day.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

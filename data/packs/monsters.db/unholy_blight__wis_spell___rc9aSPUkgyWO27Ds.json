@@ -1,0 +1,17 @@
+{
+	"_id": "rc9aSPUkgyWO27Ds",
+	"_key": "!actors.items!gEkJqmsdtDz3na2q.rc9aSPUkgyWO27Ds",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Unholy Blight (Wis Spell)",
+	"system": {
+		"description": "<p>DC 15. All enemies in a near-sized cube within far take [[/r 4d6]] damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

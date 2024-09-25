@@ -1,0 +1,17 @@
+{
+	"_id": "kLocamOKDlyWnIWV",
+	"_key": "!actors.items!peltdw9XnV4Qenqu.kLocamOKDlyWnIWV",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Vourdalak",
+	"system": {
+		"description": "<p>Can walk in sunlight. Body cannot be destroyed unless reduced to 0 HP and pierced through the heart with a wooden stake. Without the blood of a family member, a vourdalak withers to dust after 13 days.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

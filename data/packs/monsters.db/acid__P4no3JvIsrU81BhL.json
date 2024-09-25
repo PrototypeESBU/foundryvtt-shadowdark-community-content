@@ -1,0 +1,17 @@
+{
+	"_id": "P4no3JvIsrU81BhL",
+	"_key": "!actors.items!QWSx8NMb9wj8ahbz.P4no3JvIsrU81BhL",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Acid",
+	"system": {
+		"description": "<p>When in contact with a victim, sticks on and exudes acid. The acid destroys wood or metal (including armor) in 4 rounds, but cannot affect stone.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

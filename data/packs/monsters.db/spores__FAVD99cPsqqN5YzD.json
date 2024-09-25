@@ -1,0 +1,17 @@
+{
+	"_id": "FAVD99cPsqqN5YzD",
+	"_key": "!actors.items!4MhnQrSnUJGRwoM4.FAVD99cPsqqN5YzD",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spores",
+	"system": {
+		"description": "<p>When a vegepygmy dies, it explodes into a cloud of toxic spores. All living, non-plant creatures within near, DC 11 CON or 1 CON damage. Repeat check once per day. Dead at 0 CON and [[/r 1d6]] vegepygmies sprout from the body.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

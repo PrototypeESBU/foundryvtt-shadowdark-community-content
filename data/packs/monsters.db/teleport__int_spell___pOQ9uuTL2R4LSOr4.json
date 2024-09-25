@@ -1,0 +1,17 @@
+{
+	"_id": "pOQ9uuTL2R4LSOr4",
+	"_key": "!actors.items!gEkJqmsdtDz3na2q.pOQ9uuTL2R4LSOr4",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Teleport (Int Spell)",
+	"system": {
+		"description": "<p>Self. DC 14. Teleport up to 10 miles.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "ByBBIa3BSt63qP7T",
+	"_key": "!actors.items!DRvl6lkgb3Wo4L2A.ByBBIa3BSt63qP7T",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Suffocation",
+	"system": {
+		"description": "<p>On a natural attack roll of 20, the target is pulled into the dirt wight's body and suffocates in [[/r 2d4]] rounds. DC 10 on turn to escape.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

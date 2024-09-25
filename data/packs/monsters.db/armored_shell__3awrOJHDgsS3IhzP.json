@@ -1,0 +1,17 @@
+{
+	"_id": "3awrOJHDgsS3IhzP",
+	"_key": "!actors.items!ZZsWKfjrQ3jQmHx5.3awrOJHDgsS3IhzP",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Armored Shell",
+	"system": {
+		"description": "<p>Half damage from nonmagical attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

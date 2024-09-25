@@ -1,0 +1,17 @@
+{
+	"_id": "0GfZlDMwmQlC6VNw",
+	"_key": "!actors.items!e0NMmPfUxUF3MdLD.0GfZlDMwmQlC6VNw",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Spellcaster",
+	"system": {
+		"description": "<p>(INT or WIS spells) DC 11. Can cast [[/r 1d3]] random Tier 1 Priest spells and [[/r 1d3]] random Tier 1 Wizard spells.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

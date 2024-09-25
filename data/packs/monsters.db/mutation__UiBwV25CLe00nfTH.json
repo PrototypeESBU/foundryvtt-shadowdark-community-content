@@ -1,0 +1,17 @@
+{
+	"_id": "UiBwV25CLe00nfTH",
+	"_key": "!actors.items!ZJUFoCVYnEnHu5as.UiBwV25CLe00nfTH",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Mutation",
+	"system": {
+		"description": "<p>The giant has 3 mutations from the following list (roll [[/r 2d6]]),</p><p>1. Thick hide: +3 AC,</p><p>2. 2d10 additional eyes (can't be surprised),</p><p>3. Wings: gains MV near (fly) ,</p><p>4. Tentacles: gains extra ATK tentacles +9 (2d10) ,</p><p>5. Scythe-hands: increase claws to +10 (2d12) ,</p><p>6. Mage resistant: immune to tier 1-3 spells ,</p><p>7. Ravenous: gains extra bite ATK, bite +9 (2d10) ,</p><p>8. Bite: DC 15 STR, DEX, CON, or INT ,</p><p>9. Leader: +4 CHA,</p><p>10. Enchanted: only harmed by magical sources,</p><p>11. Unholy: Lawful and Neutral priests within far, DISADV on spellcasting checks,</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

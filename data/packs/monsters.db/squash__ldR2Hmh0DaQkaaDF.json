@@ -1,0 +1,17 @@
+{
+	"_id": "ldR2Hmh0DaQkaaDF",
+	"_key": "!actors.items!YpSimoP3TXWVnfiB.ldR2Hmh0DaQkaaDF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Squash",
+	"system": {
+		"description": "<p>On a natural ATK roll of 19-20 against a human-sized or smaller target, DC 14 DEX or go to 0 HP.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

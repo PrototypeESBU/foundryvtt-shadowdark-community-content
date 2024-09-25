@@ -1,0 +1,24 @@
+{
+	"_id": "SUZyFtj2aaOLeKof",
+	"_key": "!actors.items!lTrhzaF5CpPSapTe.SUZyFtj2aaOLeKof",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Darkness",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>Extinguish a nonmagical light source within far.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

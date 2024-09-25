@@ -1,0 +1,17 @@
+{
+	"_id": "qV4DoYE0w9932SYJ",
+	"_key": "!actors.items!VqCLaL4wKPdSypbS.qV4DoYE0w9932SYJ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sleep Crust Brew",
+	"system": {
+		"description": "<p>Collect sleep crust from a captured eye-fang and boil for 10 minutes. Drinking the brew renders the drinker blind for 1 hour, but grants the ability to mentally command the eye-fang and see through its eye.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

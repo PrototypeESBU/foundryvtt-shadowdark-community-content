@@ -1,0 +1,17 @@
+{
+	"_id": "20CDILKtfDn4FKq6",
+	"_key": "!actors.items!cDLSsmkV6NGsmPUD.20CDILKtfDn4FKq6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>DC 14 STR or target immobilized. DC 14 STR on turn to break free. While target held, bite attacks auto hit.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

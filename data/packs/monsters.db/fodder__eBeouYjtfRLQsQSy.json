@@ -1,0 +1,17 @@
+{
+	"_id": "eBeouYjtfRLQsQSy",
+	"_key": "!actors.items!hiGleIhi61IEpkaj.eBeouYjtfRLQsQSy",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Fodder",
+	"system": {
+		"description": "<p>Immune to morale checks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

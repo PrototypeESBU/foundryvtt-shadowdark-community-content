@@ -1,0 +1,23 @@
+{
+	"_id": "x5rr4zb7pdRYDYcR",
+	"_key": "!actors.items!3EtHhr5RunRpa3Uf.x5rr4zb7pdRYDYcR",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Hold",
+	"system": {
+		"dc": "12",
+		"description": "<p>Focus. One target within double near paralyzed for duration.</p>",
+		"duration": {
+			"type": "focus",
+			"value": -1
+		},
+		"lost": false,
+		"range": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

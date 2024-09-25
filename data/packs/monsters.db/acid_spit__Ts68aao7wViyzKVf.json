@@ -1,0 +1,17 @@
+{
+	"_id": "Ts68aao7wViyzKVf",
+	"_key": "!actors.items!CIkSTN88ivbxcSvQ.Ts68aao7wViyzKVf",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Acid Spit",
+	"system": {
+		"description": "<p>Target takes an additional [[/r 1d6]] damage per round for [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "HyKwJfr2iXZbUnmy",
+	"_key": "!actors.items!SxSbGxS01Kqgwvh8.HyKwJfr2iXZbUnmy",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>DC 15 STR or target held. DC 15 STR on turn to break free. While target held, 1 vine attack auto hits.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

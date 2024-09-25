@@ -1,0 +1,17 @@
+{
+	"_id": "AeMY87npTi8VzXTB",
+	"_key": "!actors.items!wTnf8KldZaMIHy7x.AeMY87npTi8VzXTB",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Bloodlust",
+	"system": {
+		"description": "<p>Enters a killing frenzy after a successful bite attack. Immune to morale checks and +[[/r 1d6]] damage. Ends when wereshark or opponents slain.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

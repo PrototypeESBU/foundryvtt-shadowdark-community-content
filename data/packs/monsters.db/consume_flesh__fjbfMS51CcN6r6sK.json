@@ -1,0 +1,17 @@
+{
+	"_id": "fjbfMS51CcN6r6sK",
+	"_key": "!actors.items!VQcI64svMDvRVUH3.fjbfMS51CcN6r6sK",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Consume Flesh",
+	"system": {
+		"description": "<p>Vrykolakas heals [[/r 2d6]] HP and the target permanently loses [[/r 1d4]] CON. At 0 CON, the target dies and rises as a vrykolakas.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "nUlwxknudd5AIuZY",
+	"_key": "!actors.items!p1KchDMYk23UJ0Ri.nUlwxknudd5AIuZY",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Invisibility",
+	"system": {
+		"description": "<p>3/day, turn invisible for 3 rounds. Ends if the tooth fairy attacks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

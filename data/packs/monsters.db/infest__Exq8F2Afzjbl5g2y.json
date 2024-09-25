@@ -1,0 +1,17 @@
+{
+	"_id": "Exq8F2Afzjbl5g2y",
+	"_key": "!actors.items!kon6DQo1rfWS3HmR.Exq8F2Afzjbl5g2y",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Infest",
+	"system": {
+		"description": "<p>DC 14 DEX or [[/r 1d6]] maggots bore into flesh. Target killed in 6 rounds and rises as a worm-walker unless maggots burned or cut out ([[/r 1d6]] damage per maggot). A heal, restoration, or wish spell, or drinking a potion of healing removes all maggots.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,24 @@
+{
+	"_id": "MEtleZLiMQ9axYH3",
+	"_key": "!actors.items!gEkJqmsdtDz3na2q.MEtleZLiMQ9axYH3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Croaking Doom",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>1/hour. All non-Zlann-Yi within double near DC 16 CON or paralyzed [[/r 1d4]] rounds. If target is LV 7 or less and fails check, go to 0 HP.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

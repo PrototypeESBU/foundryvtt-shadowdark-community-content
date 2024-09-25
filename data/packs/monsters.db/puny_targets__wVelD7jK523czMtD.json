@@ -1,0 +1,17 @@
+{
+	"_id": "wVelD7jK523czMtD",
+	"_key": "!actors.items!YpSimoP3TXWVnfiB.wVelD7jK523czMtD",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Puny Targets",
+	"system": {
+		"description": "<p>DISADV on ATK rolls against human-sized or smaller targets.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

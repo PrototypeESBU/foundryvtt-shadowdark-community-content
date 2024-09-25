@@ -1,0 +1,24 @@
+{
+	"_id": "hKQyEL1Sm6NJxQS2",
+	"_key": "!actors.items!gn86jEIdKewrgJaB.hKQyEL1Sm6NJxQS2",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Charm",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>On humanoid target who can see the penanggalan within near, DC 13 CHA or under the penanggalan's control for 24 hours. Penanggalan can choose to erase target's memories while charmed.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

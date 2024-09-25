@@ -1,0 +1,17 @@
+{
+	"_id": "UIPjT1PwD6LRm2qF",
+	"_key": "!actors.items!NLvR9hfs2U1ZSP11.UIPjT1PwD6LRm2qF",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tenacity",
+	"system": {
+		"description": "<p>Immune to morale checks.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

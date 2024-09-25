@@ -1,0 +1,24 @@
+{
+	"_id": "0L8DWR5Bjz2gAIeK",
+	"_key": "!actors.items!mz4ypmV7Tgix9JYh.0L8DWR5Bjz2gAIeK",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/death/weapon-sword-skull-purple.webp",
+	"name": "Breaching Strike",
+	"system": {
+		"attack": {
+			"num": "1"
+		},
+		"bonuses": {
+			"attackBonus": 0
+		},
+		"description": "<p>When submerged, can jump up to near in height and double near in distance, then make 2 bite attacks.</p>",
+		"ranges": [
+		],
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Special Attack"
+}

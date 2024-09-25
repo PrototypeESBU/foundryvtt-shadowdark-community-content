@@ -1,0 +1,17 @@
+{
+	"_id": "ECTXICdgpmDxrF4F",
+	"_key": "!actors.items!FChGG4x83gxC6v5c.ECTXICdgpmDxrF4F",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tremorsense",
+	"system": {
+		"description": "<p>Cannot be surprised by enemies in contact with the ground.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "dHJsfWitUC85meGl",
+	"_key": "!actors.items!LWpQAE6e3ewS3vRL.dHJsfWitUC85meGl",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Poison",
+	"system": {
+		"description": "<p>DC 12 CON or target takes a -2 penalty to AC and DISADV on ATK rolls for [[/r 1d4]] hours.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

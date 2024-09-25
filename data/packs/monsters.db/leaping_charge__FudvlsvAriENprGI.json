@@ -1,0 +1,17 @@
+{
+	"_id": "FudvlsvAriENprGI",
+	"_key": "!actors.items!h6664LUiKz55fHRw.FudvlsvAriENprGI",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Leaping Charge",
+	"system": {
+		"description": "<p>In place of attacks, leap up to double near in a straight line and make 1 bite attack. If hit, x2 damage and target knocked prone.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

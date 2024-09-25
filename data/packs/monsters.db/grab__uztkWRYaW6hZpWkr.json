@@ -1,0 +1,17 @@
+{
+	"_id": "uztkWRYaW6hZpWkr",
+	"_key": "!actors.items!vwKDkA1wPmpn08q8.uztkWRYaW6hZpWkr",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Grab",
+	"system": {
+		"description": "<p>DC 16 STR or target immobilized. DC 16 STR on turn to break free. While target grabbed, 1 tentacle-mouth attack auto hits. Grabbed targets automatically swallowed after [[/r 1d6]] + 1 rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "SVLTP2JQF2goyoWH",
+	"_key": "!actors.items!2qTyiNcE99f2Vn8F.SVLTP2JQF2goyoWH",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Gobble",
+	"system": {
+		"description": "<p>If hag reduces man-sized or smaller target to 0 HP, DC 15 CON or immediately consumed (dead).</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

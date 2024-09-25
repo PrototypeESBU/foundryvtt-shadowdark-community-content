@@ -1,0 +1,17 @@
+{
+	"_id": "FdYqw77iSoeJxRv3",
+	"_key": "!actors.items!13RLFAnN4RLVnQ2d.FdYqw77iSoeJxRv3",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Nauseous Stench",
+	"system": {
+		"description": "<p>Living creatures that begin their turn within near of the catoblepas, DC 13 CON or incapacitated 1 round.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

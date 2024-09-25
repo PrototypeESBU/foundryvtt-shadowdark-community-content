@@ -1,0 +1,17 @@
+{
+	"_id": "3IEQ0TgVdEQMNPI6",
+	"_key": "!actors.items!Gfrpf0whPaJoTAi0.3IEQ0TgVdEQMNPI6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Pack Tactics",
+	"system": {
+		"description": "<p>ADV on ATK rolls when an allied carnivorous frog is close.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

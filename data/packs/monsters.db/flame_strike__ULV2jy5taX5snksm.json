@@ -1,0 +1,23 @@
+{
+	"_id": "ULV2jy5taX5snksm",
+	"_key": "!actors.items!Lbx7hKaDx7BzeGDI.ULV2jy5taX5snksm",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/magic/symbols/runes-star-magenta.webp",
+	"name": "Flame Strike",
+	"system": {
+		"dc": 14,
+		"description": "<p>You call down a holy pillar of fire, immolating one creature you can see within range. The target takes 2d6 damage.</p>",
+		"duration": {
+			"type": "instant",
+			"value": -1
+		},
+		"lost": false,
+		"range": "far",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Spell"
+}

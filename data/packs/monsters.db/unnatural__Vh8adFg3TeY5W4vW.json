@@ -1,0 +1,17 @@
+{
+	"_id": "Vh8adFg3TeY5W4vW",
+	"_key": "!actors.items!NkIFbWEBO8TLWlcW.Vh8adFg3TeY5W4vW",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Unnatural",
+	"system": {
+		"description": "<p>Only harmed by magical sources.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

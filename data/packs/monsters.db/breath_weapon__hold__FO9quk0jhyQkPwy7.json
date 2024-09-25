@@ -1,0 +1,17 @@
+{
+	"_id": "FO9quk0jhyQkPwy7",
+	"_key": "!actors.items!Z60rj4OyvOqHgoaY.FO9quk0jhyQkPwy7",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Breath Weapon: Hold",
+	"system": {
+		"description": "<p>DC 15 DEX or target immobilized [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

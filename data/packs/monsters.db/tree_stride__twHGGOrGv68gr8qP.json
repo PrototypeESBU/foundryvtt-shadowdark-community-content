@@ -1,0 +1,17 @@
+{
+	"_id": "twHGGOrGv68gr8qP",
+	"_key": "!actors.items!oHuOtqbM5TZ1RhEf.twHGGOrGv68gr8qP",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Tree Stride",
+	"system": {
+		"description": "<p>In place of attacks, can teleport from one tree to another tree within 1 mile.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

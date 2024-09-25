@@ -1,0 +1,17 @@
+{
+	"_id": "Wo36WlbA8KZrfo6x",
+	"_key": "!actors.items!dZQApOoZ0qcOqQR9.Wo36WlbA8KZrfo6x",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Cold-born",
+	"system": {
+		"description": "<p>Cold immune. Double damage from fire.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

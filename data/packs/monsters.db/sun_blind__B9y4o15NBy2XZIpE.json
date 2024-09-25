@@ -1,0 +1,17 @@
+{
+	"_id": "B9y4o15NBy2XZIpE",
+	"_key": "!actors.items!JZY9wU8VJ6FqBUwm.B9y4o15NBy2XZIpE",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Sun-blind",
+	"system": {
+		"description": "<p>Blind in direct sunlight.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "LqGUKtOWPWyFdcUk",
+	"_key": "!actors.items!M03N85PbDfGMr3WF.LqGUKtOWPWyFdcUk",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Impervious",
+	"system": {
+		"description": "<p>Only damaged by magical sources. Fire immune.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

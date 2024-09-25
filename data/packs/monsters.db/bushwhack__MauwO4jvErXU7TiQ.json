@@ -1,0 +1,17 @@
+{
+	"_id": "MauwO4jvErXU7TiQ",
+	"_key": "!actors.items!74fxHkFmgv1p4ZQI.MauwO4jvErXU7TiQ",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Bushwhack",
+	"system": {
+		"description": "<p>If the bugbear hits a surprised opponent, the target is also stunned for 1 round and cannot act.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "Qdqgttwukp3OALG6",
+	"_key": "!actors.items!DJBmhHHc8TyAC4PO.Qdqgttwukp3OALG6",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Blood Drain",
+	"system": {
+		"description": "<p>Hag heals [[/r 2d6]] HP and target takes [[/r 1d4]] CON damage. At 0 CON, target dies.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

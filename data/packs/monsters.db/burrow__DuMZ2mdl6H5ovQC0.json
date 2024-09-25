@@ -1,0 +1,17 @@
+{
+	"_id": "DuMZ2mdl6H5ovQC0",
+	"_key": "!actors.items!yyAYbKYJQcshhEXR.DuMZ2mdl6H5ovQC0",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Burrow",
+	"system": {
+		"description": "<p>DC 12 STR or DEX or slime forces its way into a target’s open orifice and begins to eat the target from the inside out. Target takes [[/r 2d10]] damage per round until slime removed. Any spell or magical effect that heals HP drives out the slime. The slime is also driven out if the target takes 10 or more points of fire damage.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

@@ -1,0 +1,17 @@
+{
+	"_id": "AJhLqwMcPhFAhlOf",
+	"_key": "!actors.items!CIkSTN88ivbxcSvQ.AJhLqwMcPhFAhlOf",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Swallow And Spew",
+	"system": {
+		"description": "<p>On a natural attack roll of 19-20, target is swallowed, coated with acid, and immediately regurgitated. Target lands next to Sloorgrek and takes [[/r 1d6]] damage per round for [[/r 1d4]] rounds.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

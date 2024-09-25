@@ -1,0 +1,17 @@
+{
+	"_id": "y09y8ggWAKWJbsbL",
+	"_key": "!actors.items!1lEf0DXJJQF1CNU0.y09y8ggWAKWJbsbL",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Camouflage",
+	"system": {
+		"description": "<p>ADV on DEX checks to sneak and hide in marsh and woodland environments.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

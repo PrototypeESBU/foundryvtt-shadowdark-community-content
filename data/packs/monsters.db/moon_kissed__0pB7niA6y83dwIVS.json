@@ -1,0 +1,17 @@
+{
+	"_id": "0pB7niA6y83dwIVS",
+	"_key": "!actors.items!H0H0cRw9Y2Bf0Sxt.0pB7niA6y83dwIVS",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Moon-kissed",
+	"system": {
+		"description": "<p>Moon hags gain a +2 to AC (not included) and ADV on attack rolls and ability checks on nights of the full moon.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}

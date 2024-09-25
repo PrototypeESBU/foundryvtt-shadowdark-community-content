@@ -1,0 +1,17 @@
+{
+	"_id": "YH8itHWwqS1OW09e",
+	"_key": "!actors.items!RufYAMFEqw9Q8GZ8.YH8itHWwqS1OW09e",
+	"effects": [
+	],
+	"folder": null,
+	"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+	"name": "Create Spawn",
+	"system": {
+		"description": "<p>Humanoids killed and not completely consumed by a ghoulspawn hydra rise as ghouls [[/r 2d6]] rounds after death.</p>",
+		"predefinedEffects": "",
+		"source": {
+			"title": ""
+		}
+	},
+	"type": "NPC Feature"
+}
