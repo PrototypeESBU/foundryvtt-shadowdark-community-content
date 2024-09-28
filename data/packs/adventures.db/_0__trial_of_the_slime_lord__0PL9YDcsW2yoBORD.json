@@ -2165,7 +2165,7 @@
 	],
 	"combats": [
 	],
-	"description": "",
+	"description": "<p>This cursed place serves as a sort of crucible for an ooze-worshiping cult. Those who survive are granted a boon from the Slime Lord. Those who do not, wander the halls as the unquiet dead, doomed to serve the ooze for eternity.</p><p></p><p>Design, writing, map and layout by Jordan Rudd.</p><p><a href=\"https://jordanrudd.itch.io/\">https://jordanrudd.itch.io/</a></p><p></p><p>Art by Jeri Honeywell</p><p>jerihoneywell@gmail.com</p>",
 	"folder": null,
 	"folders": [
 		{
@@ -2752,14 +2752,14 @@
 				"createdTime": 1726551824464,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727238816456,
+				"modifiedTime": 1727454272767,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
 			"flags": {
 			},
 			"folder": "sfJJ2Vslc0StNNtH",
-			"name": "Dungeon Guide",
+			"name": "Adventure Guide",
 			"ownership": {
 				"9x0Fx3xohMgaCVFR": 3,
 				"default": 0
@@ -3631,7 +3631,7 @@
 						"createdTime": 1726556748383,
 						"duplicateSource": null,
 						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-						"modifiedTime": 1726615993369,
+						"modifiedTime": 1727482905796,
 						"systemId": "shadowdark",
 						"systemVersion": "3.1.2"
 					},
@@ -3649,7 +3649,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Trial of the Slime Lord, © 2023, 2024 Jordan Rudd</p><p>Design, writing, map and layout by Jordan Rudd.</p><p>https://jordanrudd.itch.io/</p><p>Art by Jeri Honeywell</p><p>jerihoneywell@gmail.com</p><p></p><p>Big thanks to the playtesters from the Shadowdark Discord: DefiantDrew, Glorwin,</p><p>Greywolf, RuRi and Śraddhāpa.</p><p></p><p>Trial of the Slime Lord is an independent product published under the Shadowdark RPG</p><p>Third-Party License and is not affiliated with The Arcane Library, LLC.</p><p>Shadowdark RPG © 2023 The Arcane Library, LLC.</p>",
+						"content": "<p>Trial of the Slime Lord, © 2023, 2024 Jordan Rudd</p><p></p><p>Design, writing, map and layout by Jordan Rudd.</p><p><a href=\"https://jordanrudd.itch.io/\">https://jordanrudd.itch.io/</a></p><p></p><p>Art by Jeri Honeywell</p><p>jerihoneywell@gmail.com</p><p></p><p>Big thanks to the playtesters from the Shadowdark Discord: DefiantDrew, Glorwin, Greywolf, RuRi and Śraddhāpa.</p><p></p><p>Trial of the Slime Lord is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with The Arcane Library, LLC. Shadowdark RPG © 2023 The Arcane Library, LLC.</p>",
 						"format": 1
 					},
 					"title": {
@@ -3896,7 +3896,7 @@
 				"createdTime": 1726588801134,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1726589077993,
+				"modifiedTime": 1727278821477,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -4024,7 +4024,7 @@
 			"name": "Trail of the Slime Lord",
 			"navName": "",
 			"navOrder": 0,
-			"navigation": true,
+			"navigation": false,
 			"notes": [
 				{
 					"_id": "Fy4zXDYhgQbRHDws",

@@ -4281,7 +4281,7 @@
 	],
 	"combats": [
 	],
-	"description": "",
+	"description": "<p><span style=\"font-family:Montserrat-Medium\">Years ago, an eccentric nobleman grew bored of his frivolous, hedonistic lifestyle. To satiate his nefarious thoughts, he used his immense wealth to purchase the Diabolical Lair from a gold dragon. The nobleman retrofitted the lair to conduct dastardly experiments, which led him to discover a new purpose: to create as much chaos as possible. Combining his love of science while honoring the first manifestation of chaos, he took on a new moniker, Professor Memnon.</span></p><p></p><p><span style=\"font-family:Montserrat-Medium\">Writing and Graphic Design by: Richard Jackson<br /></span></p><p><span style=\"font-family:Montserrat-Medium\"><a href=\"https://ersk.itch.io/the-diabolical-lair-of-professor-memnon\">https://ersk.itch.io/the-diabolical-lair-of-professor-memnon</a></span></p><p></p>",
 	"folder": null,
 	"folders": [
 		{
@@ -4789,14 +4789,14 @@
 				"createdTime": 1727200855617,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727238839030,
+				"modifiedTime": 1727454275126,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
 			"flags": {
 			},
 			"folder": "Xu9xp6yBtHfgaIGd",
-			"name": "Dungeon Guide",
+			"name": "Adventure Guide",
 			"ownership": {
 				"9x0Fx3xohMgaCVFR": 3,
 				"default": 0
@@ -5766,7 +5766,7 @@
 		{
 			"_id": "cklM8ojZqzoiHr5b",
 			"_stats": {
-				"compendiumSource": "Scene.cklM8ojZqzoiHr5b",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1727200879031,
 				"duplicateSource": null,
@@ -5775,7 +5775,7 @@
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
-			"active": true,
+			"active": false,
 			"background": {
 				"alphaThreshold": 0,
 				"anchorX": 0,
