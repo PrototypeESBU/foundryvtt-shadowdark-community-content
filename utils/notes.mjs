@@ -5,7 +5,7 @@ import stringify from "json-stable-stringify-pretty";
 
 const NOTES_SRC_PATH = "./RELEASE_NOTES.md";
 const JOURNAL_JSON =
-	"./data/packs/documents.db/release_notes__prucm5GhlDw52gRT.json";
+	"./data/packs/journals.db/release_notes__0hRI4ofgCntXMWAg.json";
 
 function compileReleaseNotes(cb) {
 	const source = fs.readFileSync(NOTES_SRC_PATH, "utf8");

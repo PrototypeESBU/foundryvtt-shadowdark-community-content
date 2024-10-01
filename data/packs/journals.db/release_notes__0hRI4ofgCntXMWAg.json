@@ -1,0 +1,23 @@
+{
+	"_id": "0hRI4ofgCntXMWAg",
+	"_key": "!journal.pages!jyxBG9jxQulZd33k.0hRI4ofgCntXMWAg",
+	"image": {
+	},
+	"name": "Release Notes",
+	"src": null,
+	"system": {
+	},
+	"text": {
+		"content": "<h1>v1.1.0</h1>\n<h2>Fixes</h2>\n<ul>\n<li>Updated monster token art</li>\n<li>Added release notes</li>\n</ul>\n<h1>v1.0.0</h1>\n<h2>Added</h2>\n<h3>Adventures</h3>\n<ul>\n<li>Trial of the Slim Lord by Jordan Rudd</li>\n<li>The Awful Amber Doom by Reverse Ettin Games</li>\n<li>The Diabolical Lair of Professor Memnon by Richard Jackson</li>\n<li>Tomb of the dusk queen by Sersa Victory</li>\n<li>The Tragic Curse of Grimhill Fort by Reverse Ettin Games</li>\n</ul>\n<h3>Classes</h3>\n<ul>\n<li>Explorer Class by Reverse Ettin Games</li>\n</ul>\n<h3>Monsters</h3>\n<ul>\n<li>Monster 24, a collection of 250 monsters by Tom Phillips</li>\n<li>Indexed lists of core rules monsters by level and name</li>\n</ul>\n<h3>Macros</h3>\n<ul>\n<li>GM and player utility macros by Prototype</li>\n</ul>\n",
+		"format": 1
+	},
+	"title": {
+		"level": 1,
+		"show": true
+	},
+	"type": "text",
+	"video": {
+		"controls": true,
+		"volume": 0.5
+	}
+}

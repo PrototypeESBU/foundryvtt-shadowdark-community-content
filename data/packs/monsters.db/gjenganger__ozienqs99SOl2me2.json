@@ -4,7 +4,7 @@
 	"effects": [
 	],
 	"folder": "TsrcUzF0AuNinYpd",
-	"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+	"img": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 	"items": [
 		"ifkKN1VSj6b1j0L1",
 		"1qBqUwcHUzjjurxh"
@@ -95,7 +95,7 @@
 			"rotation": 0,
 			"scaleX": 1,
 			"scaleY": 1,
-			"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"tint": "#ffffff"
 		},
 		"width": 1
