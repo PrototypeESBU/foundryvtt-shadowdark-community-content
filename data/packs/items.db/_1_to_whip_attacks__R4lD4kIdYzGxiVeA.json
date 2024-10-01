@@ -1,0 +1,19 @@
+{
+	"_id": "R4lD4kIdYzGxiVeA",
+	"_key": "!items!R4lD4kIdYzGxiVeA",
+	"effects": [
+	],
+	"folder": "jpSVKSvqgqH8P3Tn",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "+1 to whip attacks",
+	"system": {
+		"description": "<p>+1 to attacks with a whip</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": "community_content"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

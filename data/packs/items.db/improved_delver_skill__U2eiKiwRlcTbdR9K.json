@@ -1,0 +1,19 @@
+{
+	"_id": "U2eiKiwRlcTbdR9K",
+	"_key": "!items!U2eiKiwRlcTbdR9K",
+	"effects": [
+	],
+	"folder": "jpSVKSvqgqH8P3Tn",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Improved Delver Skill",
+	"system": {
+		"description": "<p>Gain advantage on one of your delver skills</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": "community_content"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

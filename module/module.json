@@ -38,6 +38,13 @@
             "type": "Adventure"
         },
         {
+            "name": "items",
+            "label": "Items",
+            "system": "shadowdark",
+            "path": "packs/items",
+            "type": "Item"
+        },
+        {
             "name": "journals",
             "label": "Documents",
             "system": "shadowdark",
@@ -50,7 +57,18 @@
             "system": "shadowdark",
             "path": "packs/macros",
             "type": "Macro"
-        }
+        },
+        {
+            "name": "roll-tables",
+            "label": "Roll Tables",
+            "path": "packs/roll-tables",
+            "type": "RollTable",
+            "system": "shadowdark",
+            "ownership": {
+              "ASSISTANT": "OWNER",
+              "PLAYER": "OBSERVER"
+            }
+          }
     ],
     "packFolders": [
 		{
@@ -59,9 +77,11 @@
 			"color": "#3a283e",
 			"packs": [
                 "adventures",
+                "items",
                 "journals",
 				"macros",
                 "monsters",
+                "roll-tables",
 				"scenes"
 			]
 		}

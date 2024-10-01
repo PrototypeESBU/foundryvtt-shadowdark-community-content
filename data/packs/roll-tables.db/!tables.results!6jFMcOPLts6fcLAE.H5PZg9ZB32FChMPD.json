@@ -1,0 +1,15 @@
+{
+	"_id": "H5PZg9ZB32FChMPD",
+	"_key": "!tables.results!6jFMcOPLts6fcLAE.H5PZg9ZB32FChMPD",
+	"documentCollection": "shadowdark-community-content.items",
+	"documentId": "U2eiKiwRlcTbdR9K",
+	"drawn": false,
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Improved Delver Skill",
+	"type": "pack",
+	"weight": 1
+}

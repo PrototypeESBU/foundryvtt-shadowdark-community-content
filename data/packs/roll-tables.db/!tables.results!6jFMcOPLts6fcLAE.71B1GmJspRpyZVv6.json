@@ -1,0 +1,15 @@
+{
+	"_id": "71B1GmJspRpyZVv6",
+	"_key": "!tables.results!6jFMcOPLts6fcLAE.71B1GmJspRpyZVv6",
+	"documentCollection": "shadowdark-community-content.items",
+	"documentId": null,
+	"drawn": false,
+	"img": "icons/svg/d20-black.svg",
+	"range": [
+		12,
+		12
+	],
+	"text": "Choose 1",
+	"type": "text",
+	"weight": 1
+}

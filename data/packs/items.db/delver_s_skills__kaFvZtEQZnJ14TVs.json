@@ -1,0 +1,19 @@
+{
+	"_id": "kaFvZtEQZnJ14TVs",
+	"_key": "!items!kaFvZtEQZnJ14TVs",
+	"effects": [
+	],
+	"folder": "njlDzrXMEUW2F7Cj",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Delver's Skills",
+	"system": {
+		"description": "<p>You have perfected your crawling trade over the years through study and practice.</p><p>Add a bonus equal to half your level (round down) to any of the associated checks:</p><ul><li><p>Climbing</p></li><li><p>Finding and disabling traps</p></li><li><p>Deciphering ancient languages</p></li><li><p>Knowledge of history</p></li><li><p>Artifact lore</p></li></ul>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": "community_content"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

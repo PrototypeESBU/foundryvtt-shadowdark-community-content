@@ -1,0 +1,23 @@
+{
+	"_id": "B6T1BqHLqVeGpwE8",
+	"_key": "!items!B6T1BqHLqVeGpwE8",
+	"effects": [
+		"6TuygVLPHsfSpfBb"
+	],
+	"folder": "njlDzrXMEUW2F7Cj",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Whip Mastery",
+	"system": {
+		"bonuses": {
+			"weaponMastery": "whip"
+		},
+		"description": "<p>You gain +1 to attack and damage with a whip. In addition, increase your whip attack range to near. You can also use your whip as a grappling hook, and to trip or disarm creatures no bigger than yourself.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": "community_content"
+		},
+		"talentClass": "class"
+	},
+	"type": "Talent"
+}

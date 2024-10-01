@@ -4287,7 +4287,7 @@
 		{
 			"_id": "JjVRkK0kVTOz4VTE",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.JjVRkK0kVTOz4VTE",
 				"coreVersion": "12.331",
 				"createdTime": 1727200685494,
 				"duplicateSource": null,
@@ -4331,12 +4331,12 @@
 		{
 			"_id": "Er4aB2V2oFUQ0ip2",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.Er4aB2V2oFUQ0ip2",
 				"coreVersion": "12.331",
 				"createdTime": 1727200876001,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727200876001,
+				"modifiedTime": 1727760819895,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -4346,7 +4346,7 @@
 			},
 			"folder": "hFVYuBHY8cdSSJL4",
 			"name": "The Diabolical Lair of Professor Memnon",
-			"sort": 0,
+			"sort": 300000,
 			"sorting": "a",
 			"type": "Scene"
 		},
@@ -4375,7 +4375,7 @@
 		{
 			"_id": "nbmtixX2o3fTpoj0",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.nbmtixX2o3fTpoj0",
 				"coreVersion": "12.331",
 				"createdTime": 1727214478747,
 				"duplicateSource": null,
@@ -4419,7 +4419,7 @@
 		{
 			"_id": "Xu9xp6yBtHfgaIGd",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.Xu9xp6yBtHfgaIGd",
 				"coreVersion": "12.331",
 				"createdTime": 1727200744876,
 				"duplicateSource": null,
@@ -4463,7 +4463,7 @@
 		{
 			"_id": "gSMASp5I1ZPYh5fP",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.gSMASp5I1ZPYh5fP",
 				"coreVersion": "12.331",
 				"createdTime": 1727240251801,
 				"duplicateSource": null,
@@ -4507,7 +4507,7 @@
 		{
 			"_id": "Xqm4Ej71Fq8iJ5Hr",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.Xqm4Ej71Fq8iJ5Hr",
 				"coreVersion": "12.331",
 				"createdTime": 1727212311834,
 				"duplicateSource": null,

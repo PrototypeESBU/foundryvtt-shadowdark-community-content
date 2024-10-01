@@ -1,0 +1,138 @@
+{
+	"_id": "4Ww6WPdyAVlL9OuI",
+	"_key": "!items!4Ww6WPdyAVlL9OuI",
+	"effects": [
+	],
+	"folder": "7fTvqipTMUKqM2H0",
+	"img": "icons/sundries/documents/document-sealed-brown-red.webp",
+	"name": "Explorer",
+	"system": {
+		"allArmor": false,
+		"allMeleeWeapons": false,
+		"allRangedWeapons": false,
+		"allWeapons": false,
+		"armor": [
+			"Compendium.shadowdark.gear.Item.EoTEHXApVDS7rHfw"
+		],
+		"classTalentTable": "Compendium.shadowdark-community-content.roll-tables.RollTable.6jFMcOPLts6fcLAE",
+		"description": "<p>Scholars and adventurers by trade, loremasters itching for action, or trailblazing bookworms who exploit their vast knowledge and combine it with delving expertise and a trusty whip.</p>",
+		"hitPoints": "1d4",
+		"languages": {
+			"common": 0,
+			"fixed": [
+			],
+			"rare": 0,
+			"select": 1,
+			"selectOptions": [
+				"Compendium.shadowdark.languages.Item.GVbmj6D47b9lbOHz",
+				"Compendium.shadowdark.languages.Item.ufwua5RXnJXlA0St"
+			]
+		},
+		"predefinedEffects": "",
+		"source": {
+			"title": "community_content"
+		},
+		"spellcasting": {
+			"ability": "",
+			"baseDifficulty": 10,
+			"class": "__not_spellcaster__",
+			"spellsknown": {
+				"1": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"10": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"2": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"3": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"4": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"5": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"6": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"7": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"8": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				},
+				"9": {
+					"1": null,
+					"2": null,
+					"3": null,
+					"4": null,
+					"5": null
+				}
+			}
+		},
+		"talentChoiceCount": 0,
+		"talentChoices": [
+		],
+		"talents": [
+			"Compendium.shadowdark-community-content.items.Item.B6T1BqHLqVeGpwE8",
+			"Compendium.shadowdark-community-content.items.Item.kaFvZtEQZnJ14TVs"
+		],
+		"titles": [
+			{
+				"chaotic": "",
+				"from": null,
+				"lawful": "",
+				"neutral": "",
+				"to": null
+			}
+		],
+		"weapons": [
+			"Compendium.shadowdark.gear.Item.C3mc5OlKPSJNMrng",
+			"Compendium.shadowdark.gear.Item.eeVEJexfirwWzOVu",
+			"Compendium.shadowdark.gear.Item.GgSheZNm2cOQYpZP",
+			"Compendium.shadowdark.gear.Item.JM2XN855QYNhgtre",
+			"Compendium.shadowdark.gear.Item.KQTWQwznjK80gVEU",
+			"Compendium.shadowdark.gear.Item.UfHAWj5weH111Bea"
+		]
+	},
+	"type": "Class"
+}

@@ -1,0 +1,15 @@
+{
+	"_id": "xQcya2FQnMvzWSEb",
+	"_key": "!tables.results!6jFMcOPLts6fcLAE.xQcya2FQnMvzWSEb",
+	"documentCollection": "shadowdark-community-content.items",
+	"documentId": "R4lD4kIdYzGxiVeA",
+	"drawn": false,
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"range": [
+		3,
+		6
+	],
+	"text": "+1 to whip attacks",
+	"type": "pack",
+	"weight": 1
+}

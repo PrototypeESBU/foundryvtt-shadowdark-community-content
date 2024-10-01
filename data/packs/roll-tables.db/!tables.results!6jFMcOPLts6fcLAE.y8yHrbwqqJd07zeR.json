@@ -1,0 +1,15 @@
+{
+	"_id": "y8yHrbwqqJd07zeR",
+	"_key": "!tables.results!6jFMcOPLts6fcLAE.y8yHrbwqqJd07zeR",
+	"documentCollection": "shadowdark-community-content.items",
+	"documentId": "eYNSm4Fi6SGTZa5J",
+	"drawn": false,
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"range": [
+		12,
+		12
+	],
+	"text": "Learn Extra Languages",
+	"type": "pack",
+	"weight": 1
+}

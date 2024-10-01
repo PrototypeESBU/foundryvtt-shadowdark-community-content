@@ -1,0 +1,19 @@
+{
+	"_id": "eYNSm4Fi6SGTZa5J",
+	"_key": "!items!eYNSm4Fi6SGTZa5J",
+	"effects": [
+	],
+	"folder": "jpSVKSvqgqH8P3Tn",
+	"img": "icons/sundries/books/book-worn-brown-grey.webp",
+	"name": "Learn Extra Languages",
+	"system": {
+		"description": "<p>Learn two additional common languages or one rare language.</p>",
+		"level": 0,
+		"predefinedEffects": "",
+		"source": {
+			"title": "community_content"
+		},
+		"talentClass": "level"
+	},
+	"type": "Talent"
+}

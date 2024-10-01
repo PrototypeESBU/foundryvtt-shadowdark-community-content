@@ -1,0 +1,33 @@
+{
+	"_id": "6TuygVLPHsfSpfBb",
+	"_key": "!items.effects!B6T1BqHLqVeGpwE8.6TuygVLPHsfSpfBb",
+	"changes": [
+		{
+			"key": "system.bonuses.weaponMastery",
+			"mode": 2,
+			"priority": null,
+			"value": "whip"
+		}
+	],
+	"description": "",
+	"disabled": false,
+	"duration": {
+		"combat": null,
+		"rounds": null,
+		"seconds": null,
+		"startRound": null,
+		"startTime": null,
+		"startTurn": null,
+		"turns": null
+	},
+	"img": "icons/weapons/misc/whip-red-yellow.webp",
+	"name": "Whip Mastery",
+	"origin": "Compendium.shadowdark-community-content.items.Item.B6T1BqHLqVeGpwE8",
+	"statuses": [
+	],
+	"system": {
+	},
+	"tint": "#ffffff",
+	"transfer": true,
+	"type": "base"
+}

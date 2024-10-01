@@ -10,7 +10,7 @@
 				"createdTime": 1727298709058,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727298718640,
+				"modifiedTime": 1727720959271,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -19,7 +19,7 @@
 			"flags": {
 			},
 			"folder": "HGxbWm7IFrwR8jXy",
-			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"img": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"items": [
 				{
 					"_id": "orLVPKpMPpPLzrcJ",
@@ -198,7 +198,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+					"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -257,7 +257,7 @@
 				"createdTime": 1727298665486,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727298694291,
+				"modifiedTime": 1727720959301,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -266,7 +266,7 @@
 			"flags": {
 			},
 			"folder": "HGxbWm7IFrwR8jXy",
-			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"img": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"items": [
 				{
 					"_id": "rxegOKCMl85ICAq4",
@@ -486,7 +486,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+					"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -545,7 +545,7 @@
 				"createdTime": 1727279082645,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727279091628,
+				"modifiedTime": 1727720959396,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -554,7 +554,7 @@
 			"flags": {
 			},
 			"folder": "HGxbWm7IFrwR8jXy",
-			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"img": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"items": [
 				{
 					"_id": "rlU2agifQd6yqh2f",
@@ -783,7 +783,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+					"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 					"tint": "#ffffff"
 				},
 				"width": 2
@@ -842,7 +842,7 @@
 				"createdTime": 1727298862649,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727298979489,
+				"modifiedTime": 1727720959501,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -851,7 +851,7 @@
 			"flags": {
 			},
 			"folder": "HGxbWm7IFrwR8jXy",
-			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"img": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"items": [
 				{
 					"_id": "k0uszHHAsG19u2tA",
@@ -1215,7 +1215,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+					"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -1274,7 +1274,7 @@
 				"createdTime": 1727297883045,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727298314424,
+				"modifiedTime": 1727720959588,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -1283,7 +1283,7 @@
 			"flags": {
 			},
 			"folder": "HGxbWm7IFrwR8jXy",
-			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"img": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"items": [
 				{
 					"_id": "fKQoLPkp3lPIlrz5",
@@ -1493,7 +1493,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+					"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 					"tint": "#ffffff"
 				},
 				"width": 2
@@ -1552,7 +1552,7 @@
 				"createdTime": 1727298009226,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727298277308,
+				"modifiedTime": 1727720959904,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -1561,7 +1561,7 @@
 			"flags": {
 			},
 			"folder": "HGxbWm7IFrwR8jXy",
-			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"img": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"items": [
 				{
 					"_id": "fPDHgJIOaNWO2uuK",
@@ -1805,7 +1805,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+					"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 					"tint": "#ffffff"
 				},
 				"width": 2
@@ -1864,7 +1864,7 @@
 				"createdTime": 1727298973782,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727299166311,
+				"modifiedTime": 1727720960046,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -1873,7 +1873,7 @@
 			"flags": {
 			},
 			"folder": "HGxbWm7IFrwR8jXy",
-			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"img": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"items": [
 				{
 					"_id": "vh61DRl5dNzc9bjT",
@@ -2008,7 +2008,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+					"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -2067,7 +2067,7 @@
 				"createdTime": 1727279410438,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727279421812,
+				"modifiedTime": 1727720960248,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -2076,7 +2076,7 @@
 			"flags": {
 			},
 			"folder": "HGxbWm7IFrwR8jXy",
-			"img": "systems/shadowdark/assets/tokens/cowled_token.webp",
+			"img": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"items": [
 				{
 					"_id": "pf9sbRXijhCkXux2",
@@ -2288,7 +2288,7 @@
 					"rotation": 0,
 					"scaleX": 1,
 					"scaleY": 1,
-					"src": "systems/shadowdark/assets/tokens/cowled_token.webp",
+					"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 					"tint": "#ffffff"
 				},
 				"width": 1
@@ -2351,12 +2351,12 @@
 		{
 			"_id": "h4o0DQX0Wk2F2Mjb",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.h4o0DQX0Wk2F2Mjb",
 				"coreVersion": "12.331",
 				"createdTime": 1727301916104,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1727301916104,
+				"modifiedTime": 1727760819895,
 				"systemId": "shadowdark",
 				"systemVersion": "3.1.2"
 			},
@@ -2366,7 +2366,7 @@
 			},
 			"folder": "hFVYuBHY8cdSSJL4",
 			"name": "Tomb of the Dusk Queen",
-			"sort": 0,
+			"sort": 400000,
 			"sorting": "a",
 			"type": "Scene"
 		},
@@ -2395,7 +2395,7 @@
 		{
 			"_id": "HGxbWm7IFrwR8jXy",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.HGxbWm7IFrwR8jXy",
 				"coreVersion": "12.331",
 				"createdTime": 1727278914321,
 				"duplicateSource": null,
@@ -2439,7 +2439,7 @@
 		{
 			"_id": "A6HhfugipPgyZQ4M",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.A6HhfugipPgyZQ4M",
 				"coreVersion": "12.331",
 				"createdTime": 1727279614950,
 				"duplicateSource": null,
@@ -2483,7 +2483,7 @@
 		{
 			"_id": "xvXDlBPOD3fvOdpO",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.xvXDlBPOD3fvOdpO",
 				"coreVersion": "12.331",
 				"createdTime": 1727278933690,
 				"duplicateSource": null,
@@ -2527,7 +2527,7 @@
 		{
 			"_id": "yrajl2n82RsdeAD1",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.yrajl2n82RsdeAD1",
 				"coreVersion": "12.331",
 				"createdTime": 1727279295915,
 				"duplicateSource": null,
@@ -2571,7 +2571,7 @@
 		{
 			"_id": "Cto1yR7ysbIvWrsE",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Folder.Cto1yR7ysbIvWrsE",
 				"coreVersion": "12.331",
 				"createdTime": 1727299225178,
 				"duplicateSource": null,
@@ -4303,7 +4303,7 @@
 						"createdTime": 1727302009154,
 						"duplicateSource": null,
 						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-						"modifiedTime": 1727302069197,
+						"modifiedTime": 1727482750558,
 						"systemId": "shadowdark",
 						"systemVersion": "3.1.2"
 					},
@@ -4321,7 +4321,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<h2>CREDITS</h2><p><strong>Design</strong></p><p>Sersa Victory (<a href=\"https://sersavictory.itch.io\">sersavictory.itch.io</a>)</p><p><strong>Illustrations</strong></p><p>Front Cover by Jenn Mansell</p><p>Dusk Queen Illustration © Cattallina / Adobe Stock</p><p>Card Borders © Tartila / Adobe Stock</p><p>Other illustrations from Pixabay and game-icons.net</p><p></p><h2>LICENSE</h2><p><strong>Tomb of the Dusk Queen</strong> is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with The Arcane Library, LLC. Shadowdark RPG © 2023 The Arcane Library, LLC. Module text © 2023 Trident Gamebooks, LLC.</p>",
+						"content": "<h2>CREDITS</h2><p><strong>Design</strong></p><p>Sersa Victory (<a href=\"https://sersavictory.itch.io/\">sersavictory.itch.io</a>)</p><p><strong>Illustrations</strong></p><p>Front Cover by Jenn Mansell</p><p>Dusk Queen Illustration © Cattallina / Adobe Stock</p><p>Card Borders © Tartila / Adobe Stock</p><p>Other illustrations from Pixabay and game-icons.net</p><p></p><h2>LICENSE</h2><p><strong>Tomb of the Dusk Queen</strong> is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with The Arcane Library, LLC. Shadowdark RPG © 2023 The Arcane Library, LLC. Module text © 2023 Trident Gamebooks, LLC.</p>",
 						"format": 1
 					},
 					"title": {
