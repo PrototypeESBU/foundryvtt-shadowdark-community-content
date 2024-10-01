@@ -1,0 +1,23 @@
+{
+	"_id": "UW78BTjhN49BuYnO",
+	"_key": "!journal.pages!bhFUkZR5mcZSBeTL.UW78BTjhN49BuYnO",
+	"image": {
+	},
+	"name": "Credits",
+	"src": null,
+	"system": {
+	},
+	"text": {
+		"content": "<p></p><h2>Adventures</h2><p><strong>Trial of the Slim Lord</strong></p><ul><li><p>Design, writing, map and layout: Jordan Rudd (<a href=\"https://jordanrudd.itch.io/\">https://jordanrudd.itch.io/</a>)</p></li><li><p>Art: Jeri Honeywell (jerihoneywell@gmail.com)</p></li></ul><p></p><p><strong>The Tragic Curse of Grimhill Fort</strong></p><p>Reverse Ettin Games (<a href=\"https://reverse-ettin-games.itch.io/\">reverse-ettin-games.itch.io</a>)</p><ul><li><p>Written and designed: Aleksandar Kostić aka Art of Caustic</p></li><li><p>Editing and proofreading: Alex Bates</p></li></ul><p></p><p><strong>Tomb of the dusk queen</strong></p><ul><li><p>Design:<strong> </strong>Sersa Victory (<a href=\"https://sersavictory.itch.io/\">sersavictory.itch.io</a>)</p></li><li><p>Front Cover Illustration: Jenn Mansell</p></li></ul><p></p><p><strong>The Diabolical Lair of Professor Memnon</strong></p><ul><li><p>Writing and Graphic Design: Richard Jackson (<a href=\"https://ersk.itch.io/\">https://ersk.itch.io/</a>)</p></li></ul><p></p><p><strong>The Awful Amber Doom</strong></p><p>Reverse Ettin Games (<a href=\"https://reverse-ettin-games.itch.io/\">reverse-ettin-games.itch.io</a>)</p><ul><li><p>Writing, Art, and Design: Aleksandar Kostic aka Caustic</p></li><li><p>Writing, Editing, and Proofreading: Alex Bates</p></li></ul><p></p><h2>Classes</h2><p><strong>Explorer</strong></p><p>Reverse Ettin Games (<a href=\"https://reverse-ettin-games.itch.io/\">reverse-ettin-games.itch.io</a>)</p><p></p><h2>Monsters</h2><p><strong>Monster 24 Collection</strong></p><ul><li><p>Created by Tom Phillips</p></li></ul><p></p><h2>Macros</h2><p><strong>GM and player utility macros</strong></p><ul><li><p>Created by Prototype (discord: prototypeESBU)</p></li></ul><p style=\"text-align:center\"></p>",
+		"format": 1
+	},
+	"title": {
+		"level": 1,
+		"show": true
+	},
+	"type": "text",
+	"video": {
+		"controls": true,
+		"volume": 0.5
+	}
+}

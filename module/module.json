@@ -2,7 +2,7 @@
     "id": "shadowdark-community-content",
     "title": "Shadowdark RPG: Community Content",
 	"description": "A collection of community provided content for Shadowdark RPG",
-    "version": "0.2",
+    "version": "1.0",
     "compatibility": {
         "minimum": "12",
         "verified": "12"

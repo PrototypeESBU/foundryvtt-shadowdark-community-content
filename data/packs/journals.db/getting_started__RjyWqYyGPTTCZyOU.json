@@ -1,0 +1,23 @@
+{
+	"_id": "RjyWqYyGPTTCZyOU",
+	"_key": "!journal.pages!bhFUkZR5mcZSBeTL.RjyWqYyGPTTCZyOU",
+	"image": {
+	},
+	"name": "Getting Started",
+	"src": null,
+	"system": {
+	},
+	"text": {
+		"content": "<h2>Adventure Tips and Tricks</h2><ul><li><p><strong>Map Notes</strong>. View maps notes by selecting Journal Notes on the left side UI button overlays. Enable <strong>Toggle Notes Display</strong> to always show the map notes.</p></li><li><p><strong>Displaying Images.</strong> Clicking on an image in a journal will create a pop up windows that can be shown to players.</p></li></ul><p></p><h2>Support Content Authors</h2><p>Considering supporting content author by purchasing their adventures PDFs on itch.io or . See @UUID[.UW78BTjhN49BuYnO]{Credits} for details.</p><p></p><h2>Contribute or Report Issues</h2><p>Submit content or report issues on the <a href=\"https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content/issues/new/choose\">Github page</a></p><p>Join the discussion on <a href=\"https://discord.com/invite/thearcanelibrary\">The Arcane Library Discord</a><br /></p><p></p><hr /><p style=\"text-align:center\">All content  in this module is included with direct permission granted from the original creators.</p><p style=\"text-align:center\">Shadowdark Community Content is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with The Arcane Library, LLC. Shadowdark RPG © 2023 The Arcane Library, LLC.</p>",
+		"format": 1
+	},
+	"title": {
+		"level": 1,
+		"show": true
+	},
+	"type": "text",
+	"video": {
+		"controls": true,
+		"volume": 0.5
+	}
+}
