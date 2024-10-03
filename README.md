@@ -3,10 +3,10 @@ This is a module for use with Shadowdark RPG on Foundry VTT. The module provides
 
 ## Content
 ### Adventures
-- **Trial of the Slim Lord** by Jordan Rudd
+- **Trial of the Slime Lord** by Jordan Rudd
 - **The Awful Amber Doom** by Reverse Ettin Games
 - **The Diabolical Lair of Professor Memnon** by Richard Jackson
-- **Tomb of the dusk queen** by Sersa Victory
+- **Tomb of the Dusk Queen** by Sersa Victory
 - **The Tragic Curse of Grimhill Fort** by Reverse Ettin Games
 
 ### Classes
