@@ -2,9 +2,10 @@
 	"type": "module",
 	"scripts": {
 		"build": "gulp compile",
+        "export": "gulp decompile",
 		"clean": "gulp clean",
-		"export": "gulp decompile",
-		"notes": "gulp compileNotes"
+        "link": "gulp link",
+		"notes": "gulp compileReleaseNotes"
 	},
 	"devDependencies": {
 		"chalk": "^5.2.0",
