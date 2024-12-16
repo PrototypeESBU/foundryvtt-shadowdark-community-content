@@ -1,6 +1,6 @@
 {
     "id": "shadowdark-community-content",
-    "title": "Shadowdark RPG: Community Content",
+    "title": "Shadowdark Community Content",
 	"description": "A collection of community provided content for Shadowdark RPG",
     "version": "1.2",
     "compatibility": {
@@ -10,9 +10,12 @@
     "relationships": {
         "systems": [
             {
-                "compatibility": {},
                 "id": "shadowdark",
-                "type": "system"
+                "type": "system",
+                "compatibility": {
+                    "minimum": "3.2.1",
+                    "verified": "3.2.2"
+                }
             }
         ]
     },
