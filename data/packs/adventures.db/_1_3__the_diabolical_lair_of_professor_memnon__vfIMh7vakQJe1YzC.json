@@ -4639,6 +4639,7 @@
 				},
 				"description": "<p>This shield is carved as a roaring lion's face with a flowing mane.</p><p><strong>Bonus.</strong> +1 shield.</p><p><strong>Benefit.</strong> Once per day, you can command the lion to animate and bellow a ferocious roar. All hostile creatures within near range must immediately make a morale check.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -4693,6 +4694,7 @@
 				},
 				"description": "<p><span style=\"font-family: Montserrat-Medium\">When worn, people magically forget your true identity.</span></p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -4759,6 +4761,7 @@
 					"value": -1
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"lost": false,
 				"magicItem": true,

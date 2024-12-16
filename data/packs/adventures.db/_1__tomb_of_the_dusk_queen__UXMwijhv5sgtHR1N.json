@@ -2649,6 +2649,7 @@
 				},
 				"description": "",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -2790,6 +2791,7 @@
 			},
 			"sort": 200000,
 			"system": {
+				"ammoClass": "",
 				"attackBonus": 0,
 				"baseWeapon": "",
 				"bonuses": {
@@ -2817,6 +2819,7 @@
 				},
 				"description": "<p>A rune-etched mithril longsword with an amethyst pommel.</p><p><strong>Bonus.</strong> Grants +1 to attack and damage rolls.</p><p><strong>Benefit.</strong> Amethyst glows when secret doors/hidden crawls are near.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -2863,6 +2866,7 @@
 			},
 			"sort": 400000,
 			"system": {
+				"ammoClass": "",
 				"attackBonus": 0,
 				"baseWeapon": "",
 				"bonuses": {
@@ -2890,6 +2894,7 @@
 				},
 				"description": "<p>This once-lustrous silver shortspear is on the verge of shattering.</p><p></p><p><strong>Benefit.</strong> Functions as silver weapon. Breaks after two successful hits.</p><p></p><p><strong>Repair (DC 18 INT).</strong> Add two more hits before shattering. Time taken</p><p>to repair triggers random encounter check. Max one attempt.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": false,
 				"predefinedEffects": "",
@@ -2946,6 +2951,7 @@
 				},
 				"description": "<p><em>This glowing moonstone cut into the shape of a stylus is wrapped with</em></p><p><em>silver ribbon and engraved with Elvish writing.</em></p><p></p><p><strong>Benefit.</strong> Once before end of delve, use stone to scribe helpful (or misleading) <strong>two-word message</strong> at any spot in dungeon. This message will appear in glowing moonlight runes at same spot in dungeon next time GM runs this delve for another group of players.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3006,6 +3012,7 @@
 				},
 				"description": "<p><span style=\"font-family: Montserrat-Medium\"><em>A mud-caked hold symbol bearing image of golden tree.</em></span></p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3066,6 +3073,7 @@
 				},
 				"description": "<p><em>Contains painted portrait of young human male and Elvish woman</em></p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3132,6 +3140,7 @@
 					"value": ""
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -3185,6 +3194,7 @@
 				},
 				"description": "<p><em>A polished wedding ring decorated with a shield crest and gold tree.</em></p><p></p><p><strong>Benefit.</strong> Shatter ring to cancel one attack made against you.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3245,6 +3255,7 @@
 				},
 				"description": "<p>A polished jade scarab on a brass chain. Gifted to an Elvish knight from a far-away desert princess.</p><p></p><p><strong>Benefit.</strong> Absorbs 10 points of life drain before turning to sand.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3305,6 +3316,7 @@
 				},
 				"description": "",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3372,6 +3384,7 @@
 					"value": -1
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -3432,6 +3445,7 @@
 					"value": "10"
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -3491,6 +3505,7 @@
 					"value": -1
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -3544,6 +3559,7 @@
 				},
 				"description": "",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,

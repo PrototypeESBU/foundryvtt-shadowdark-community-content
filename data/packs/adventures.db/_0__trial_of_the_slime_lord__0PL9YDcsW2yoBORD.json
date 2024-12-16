@@ -55,6 +55,7 @@
 						},
 						"description": "<p>Sheds light to a near distance (see Light Sources, pg. 46). Burns for one hour of real time.</p>",
 						"equipped": false,
+						"isAmmunition": false,
 						"isPhysical": true,
 						"light": {
 							"active": false,
@@ -322,6 +323,7 @@
 					},
 					"sort": 0,
 					"system": {
+						"ammoClass": "",
 						"attackBonus": 0,
 						"baseWeapon": "",
 						"bonuses": {
@@ -350,6 +352,7 @@
 						},
 						"description": "",
 						"equipped": false,
+						"isAmmunition": false,
 						"isPhysical": true,
 						"magicItem": false,
 						"properties": [
@@ -2462,6 +2465,7 @@
 			"system": {
 				"boonType": "blessing",
 				"description": "<p>When anyone with this boon encounters an ooze or slime-related creature, they may make a reaction roll and add 4 to the result in addition to any other bonuses. On a modified result of 12 or greater, the creature is charmed for [[/r 1d4]] rounds.</p>",
+				"level": 0,
 				"predefinedEffects": "",
 				"source": {
 					"title": ""
@@ -2500,6 +2504,7 @@
 			},
 			"sort": 100000,
 			"system": {
+				"ammoClass": "",
 				"attackBonus": 0,
 				"baseWeapon": "warhammer",
 				"bonuses": {
@@ -2528,6 +2533,7 @@
 				},
 				"description": "<p>This indestructible magic warhammer has a broad head carved with intricate geometric patterns and an ironwood haft. It does triple damage against oozes and slimes.</p><p>It was wielded by the ooze-fighting hero Domhnall O’Dunn. He was eventually murdered by the cult, who then stole the hammer and hid it away.</p><p><br class=\"Apple-interchange-newline\"></p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -2591,6 +2597,7 @@
 					"value": -1
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -2650,6 +2657,7 @@
 				},
 				"description": "<p>This holy symbol is made of brightly polished brass that will never tarnish. It has been specially blessed to repel oozes and slimes in near range. Any lawful character may make a DC 11 WIS spellcasting check to rebuke such creatures, forcing them to flee. Targets must make a CHA check opposed by the spellcasting check or flee from for 5 rounds. On a failed spellcasting check, the symbol cannot be used again until the next day.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -2716,6 +2724,7 @@
 				},
 				"description": "<p>A dented but sound steel spangenhelm with two great, black-tipped aurochs horns. </p><p>Whenever anyone wearing this helmet is hit with a critical hit, the damage will never take them below 1 hp.</p><p><br class=\"Apple-interchange-newline\"></p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
