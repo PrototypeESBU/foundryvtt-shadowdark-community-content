@@ -1,10 +1,21 @@
-# v1.1.0
+# v1.2
+
+## Added
+### Adventures
+- The Lord of Mad Mansion by Sticky
+- Against the Cult of the Crimson Hand by Runeforged Tabletop Gaming
+
+### Macros
+- Party Resource Report by Evounnamed
+- Apply Community Token Art by Prototype
+
+# v1.1
 
 ## Fixes
 - Updated monster token art
 - Added release notes
 
-# v1.0.0
+# v1.0
 
 ## Added
 ### Adventures
