@@ -10,9 +10,9 @@
 				"createdTime": 1733791473808,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1733791473808,
+				"modifiedTime": 1734477712648,
 				"systemId": "shadowdark",
-				"systemVersion": "3.2.1"
+				"systemVersion": "3.2.2"
 			},
 			"effects": [
 			],
@@ -81,10 +81,10 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734477777777,
 						"systemId": "shadowdark",
-						"systemVersion": "3.2.1"
+						"systemVersion": "3.2.2"
 					},
 					"effects": [
 					],
@@ -105,7 +105,7 @@
 						"bonuses": {
 							"attackBonus": 0
 						},
-						"description": "<p>One creature in near, DC 13 STR or pushed/pulled up to near and prone (ADV on attacks vs prone, use move to stand)</p>",
+						"description": "<p>One creature in near, [[check 13 STR]] or pushed/pulled up to near and prone (ADV on attacks vs prone, use move to stand)</p>",
 						"ranges": [
 						],
 						"source": {
@@ -121,10 +121,10 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734477753384,
 						"systemId": "shadowdark",
-						"systemVersion": "3.2.1"
+						"systemVersion": "3.2.2"
 					},
 					"effects": [
 					],
@@ -145,7 +145,7 @@
 						"bonuses": {
 							"attackBonus": 0
 						},
-						"description": "<p>One humanoid in close, DC 13 CHA or under Moloch control. Once broken, immune to effect.</p><p></p><p>Ally can DC 13 CHA on turn (action) to break conversion. ADV if strong bond (love etc.)</p>",
+						"description": "<p>One humanoid in close, [[check 13 CHA]] or under Moloch control. Once broken, immune to effect.</p><p></p><p>Ally can [[check 13 CHA]] on turn (action) to break conversion. ADV if strong bond (love etc.)</p>",
 						"ranges": [
 						],
 						"source": {
@@ -395,7 +395,7 @@
 				},
 				"move": "near",
 				"moveNote": "",
-				"notes": "<p>Moloch Tactics</p><ul><li><p>Until attacked, uses Convert Unbeliever on bound villagers (Tyrus first) and frees them.</p></li><li><p>Once attacked, will use Convert Unbeliever on highest HP enemy not yet attempted. Only 1 PC can be converted at a time (strong wills are taxing to control)</p></li><li><p>Prioritizes killing low HP targets (including allies) to benefit from Bloodthirster</p></li><li><p>Uses Sanguine Grip to push/pull enemies into River of Blood or prone them before attacking</p></li><li><p>At dramatic moment, or when reduced to half HP, uses Darkness Falls</p></li></ul>",
+				"notes": "<p><strong>Loot</strong>: Black robe, chainmail, Bloodthirster (Longsword +1).</p><p></p><p><strong>AC</strong> 14 (chainmail), <strong>HP</strong> 20, <strong>ATK</strong> 1 Bloodthirster +4 (1d8+1) and either Sanguine Grip or Convert <strong>MV</strong> near, <strong>S</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +1, <strong>W</strong> +1, <strong>Ch</strong> +3, <strong>AL</strong> C, <strong>LV</strong> 4</p><p></p><p><strong>Bloodthirster</strong> (Longsword +1). Victim’s Death Timer = 1 (max). On victim’s death, wielder healed for victim’s max HP.</p><p><strong>Cursed</strong>. Slowly corrupts wielder with each kill. Can be cleansed (then “normal” Longsword +1).</p><p><strong>Convert Unbeliever</strong>. One humanoid in close, DC 13 CHA or under Moloch control. Once broken, immune to effect. Ally can DC 13 CHA on turn (action) to break conversion. ADV If strong bond (love etc.)</p><p><strong>Sanguine Grip</strong>. One creature in near, DC 13 STR or pushed/ pulled up to near and prone (ADV on attacks vs prone, use move to stand).</p><p><strong>Darkness Falls</strong> (Free Action). 1/day, extinguish lights in near.<br></p><p></p><p>Tactics:</p><ul><li><p>Until attacked, uses Convert Unbeliever on bound villagers (Tyrus first) and frees them.</p></li><li><p>Once attacked, will use Convert Unbeliever on highest HP enemy not yet attempted. Only 1 PC can be converted at a time (strong wills are taxing to control)</p></li><li><p>Prioritizes killing low HP targets (including allies) to benefit from Bloodthirster</p></li><li><p>Uses Sanguine Grip to push/pull enemies into River of Blood or prone them before attacking</p></li><li><p>At dramatic moment, or when reduced to half HP, uses Darkness Falls</p></li></ul>",
 				"spellcastingAbility": "",
 				"spellcastingAttackNum": 0,
 				"spellcastingBonus": 0
@@ -2006,9 +2006,9 @@
 				"createdTime": 1733791473808,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1733791473808,
+				"modifiedTime": 1734476372637,
 				"systemId": "shadowdark",
-				"systemVersion": "3.2.1"
+				"systemVersion": "3.2.2"
 			},
 			"effects": [
 			],
@@ -2299,7 +2299,7 @@
 				},
 				"move": "near",
 				"moveNote": "",
-				"notes": "<p>Father Marcus is an older priest of St. Terragnis and a pilar of the local community.</p>",
+				"notes": "<p><em>Father Marcus is an older priest of St. Terragnis and a pilar of the local community.</em><br><br><strong>AC</strong> 10 (13 with chain), <strong>HP</strong> 5, <strong>ATK</strong> 1 mace +1 (1d6) or spell +2 <strong>MV</strong> near, <strong>S</strong> +1, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> +0, <strong>W</strong> +2, <strong>Ch</strong> +1, <strong>AL</strong> L, <strong>LV</strong> 1</p><p></p><p><strong>Healing Touch</strong> (WIS Spell). DC 11 (ADV to cast). Heal creature within close 1d4 HP.<br><br>*<span style=\"font-family: Montserrat-Medium\">save heals for 0 HP allies.</span></p>",
 				"spellcastingAbility": "wis",
 				"spellcastingAttackNum": 1,
 				"spellcastingBonus": 2
@@ -3057,9 +3057,9 @@
 				"createdTime": 1733791473808,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1733791473808,
+				"modifiedTime": 1734477590770,
 				"systemId": "shadowdark",
-				"systemVersion": "3.2.1"
+				"systemVersion": "3.2.2"
 			},
 			"effects": [
 			],
@@ -3075,10 +3075,10 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734477439145,
 						"systemId": "shadowdark",
-						"systemVersion": "3.2.1"
+						"systemVersion": "3.2.2"
 					},
 					"effects": [
 					],
@@ -3108,7 +3108,7 @@
 						},
 						"damage": {
 							"numDice": 1,
-							"special": "",
+							"special": "Venom",
 							"value": "1d4"
 						},
 						"description": "",
@@ -3120,46 +3120,6 @@
 						}
 					},
 					"type": "NPC Attack"
-				},
-				{
-					"_id": "QxSDqgT0RCyGRWKB",
-					"_stats": {
-						"compendiumSource": null,
-						"coreVersion": "12.331",
-						"createdTime": null,
-						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
-						"systemId": "shadowdark",
-						"systemVersion": "3.2.1"
-					},
-					"effects": [
-					],
-					"flags": {
-					},
-					"folder": null,
-					"img": "icons/magic/death/weapon-sword-skull-purple.webp",
-					"name": "Venom",
-					"ownership": {
-						"S9R8EU8WuAcH9ost": 3,
-						"default": 0
-					},
-					"sort": 0,
-					"system": {
-						"attack": {
-							"num": "1"
-						},
-						"bonuses": {
-							"attackBonus": 0
-						},
-						"description": "<p>(3 charges) DC 12 CON or paralyzed 1 round (no move or actions, attacks vs paralysed hit automatically)</p>",
-						"ranges": [
-						],
-						"source": {
-							"title": ""
-						}
-					},
-					"type": "NPC Special Attack"
 				},
 				{
 					"_id": "zM7i8foxLHanD3bz",
@@ -3187,6 +3147,38 @@
 					"sort": 0,
 					"system": {
 						"description": "<p>Black robe, <strong>Skull Key</strong>, leather armor, snake whip (3 hits before reverts to normal).</p>",
+						"source": {
+							"title": ""
+						}
+					},
+					"type": "NPC Feature"
+				},
+				{
+					"_id": "0KcfpQJSaaATNDUh",
+					"_stats": {
+						"compendiumSource": null,
+						"coreVersion": "12.331",
+						"createdTime": 1734477382026,
+						"duplicateSource": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734477430486,
+						"systemId": "shadowdark",
+						"systemVersion": "3.2.2"
+					},
+					"effects": [
+					],
+					"flags": {
+					},
+					"folder": null,
+					"img": "icons/creatures/abilities/dragon-breath-purple.webp",
+					"name": "Venom",
+					"ownership": {
+						"9x0Fx3xohMgaCVFR": 3,
+						"default": 0
+					},
+					"sort": 0,
+					"system": {
+						"description": "<p>(3 charges) [[check 12 CON]] or paralyzed 1 round (no move or actions, attacks vs paralysed hit automatically)</p>",
 						"source": {
 							"title": ""
 						}
@@ -3330,7 +3322,7 @@
 				},
 				"move": "near",
 				"moveNote": "",
-				"notes": "",
+				"notes": "<p><strong>Loot:</strong> Black robe, Skull Key, leather armor, snake whip (3 hits before reverts to normal).</p><p></p><p><strong>AC</strong> 13 (Leather), <strong>HP</strong> 9, <strong>ATK</strong> 1 snake whip (near) +3 (1d4 + venom) <strong>MV</strong> near, <strong>S</strong> +0, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +2, <strong>W</strong> +1, <strong>Ch</strong> +2, <strong>AL</strong> C, <strong>LV</strong> 2</p><p></p><p><strong>Venom</strong> (3 charges). DC 12 CON or paralyzed 1 round (no move or actions, attacks vs paralyzed hit automatically).</p>",
 				"spellcastingAbility": "",
 				"spellcastingAttackNum": 0,
 				"spellcastingBonus": 0
@@ -3775,7 +3767,7 @@
 	],
 	"combats": [
 	],
-	"description": "<p>Early this morning, cultists<strong> </strong>of the<span class=\"s1\"><strong> </strong></span><strong>Crimson Hand </strong>raided the nearby village of Hillshire, capturing several villagers before disappearing into the night.</p><p></p><h2>Credits</h2><p><strong>Writing, Design, Dungeon Cartography, Layout.</strong> <br />William Harshman (Runeforged).</p><p></p><p><strong>Art.</strong> <br />Some artwork © 2015 Dean Spencer used with permission. All rights reserved.<br />Some artwork © Jack Badashski 2024, used with permission. All rights reserved.<br />Some artwork © Gabe Fua used with permission. All rights reserved.</p><p><br /><strong>Playtesters.</strong></p><p>Daniel Cotten, Danny “Travis Touchdown” Brown, James Martin, Sean Deiler.</p><p><br /><strong>Proofreader.</strong></p><p>Danny “Travis Touchdown” Brown. Special Thanks. All the folks who’ve been following the creation of this adventure on my YouTube<br /><br /><strong>Foundry Conversion.</strong><br />supercorn</p>",
+	"description": "<p>Early this morning, cultists<strong> </strong>of the<span class=\"s1\"><strong> </strong></span><strong>Crimson Hand </strong>raided the nearby village of Hillshire, capturing several villagers before disappearing into the night. Sister Inna, a priestess of St. Terragnis who escaped the attack, hopes to enlist the heroes in rescuing her fellow villagers. If the heroes pursue the cultists, they can easily track them to their lair, a dark temple carved into the side of a mountain.</p><p>The cultists are led by Dark Apostle Moloch, a dangerous and charismatic man, who seeks to bolster his forces by “converting” the strong, through sinister mind-controlling magic, and sacrificing the rest to his dark god, Ramlaat the Pillager.</p><p>Will our heroes be able to rescue the villagers from their grim fate, or will they, too, fall under Moloch's sinister sway?</p><p></p><p><a href=\"https://www.drivethrurpg.com/en/product/503348/against-the-cult-of-the-crimson-hand?affiliate_id=4437168\">https://www.drivethrurpg.com/en/product/503348/against-the-cult-of-the-crimson-hand?affiliate_id=4437168</a><br /></p><p></p><h2>Credits</h2><p><strong>Writing, Design, Dungeon Cartography, Layout.</strong> <br />William Harshman (Runeforged).</p><p></p><p><strong>Art.</strong> <br />Some artwork © 2015 Dean Spencer used with permission. All rights reserved.<br />Some artwork © Jack Badashski 2024, used with permission. All rights reserved.<br />Some artwork © Gabe Fua used with permission. All rights reserved.</p><p><br /><strong>Playtesters.</strong></p><p>Daniel Cotten, Danny “Travis Touchdown” Brown, James Martin, Sean Deiler.</p><p><br /><strong>Proofreader.</strong></p><p>Danny “Travis Touchdown” Brown. Special Thanks. All the folks who’ve been following the creation of this adventure on my YouTube<br /><br /><strong>Foundry Conversion.</strong><br />supercorn</p>",
 	"folder": null,
 	"folders": [
 		{
@@ -3909,6 +3901,138 @@
 			"sort": 600000,
 			"sorting": "a",
 			"type": "Scene"
+		},
+		{
+			"_id": "cikIbUiwbDfjkOJH",
+			"_stats": {
+				"compendiumSource": "Folder.cikIbUiwbDfjkOJH",
+				"coreVersion": "12.331",
+				"createdTime": 1734480109104,
+				"duplicateSource": null,
+				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+				"modifiedTime": 1734480109104,
+				"systemId": "shadowdark",
+				"systemVersion": "3.2.2"
+			},
+			"color": null,
+			"description": "",
+			"flags": {
+			},
+			"folder": "WAeYSjaglqc14lyz",
+			"name": "Against the Cult of the Crimson Hand",
+			"sort": 0,
+			"sorting": "a",
+			"type": "Macro"
+		},
+		{
+			"_id": "WAeYSjaglqc14lyz",
+			"_stats": {
+				"compendiumSource": null,
+				"coreVersion": "12.331",
+				"createdTime": 1726554564924,
+				"duplicateSource": null,
+				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+				"modifiedTime": 1726554564924,
+				"systemId": "shadowdark",
+				"systemVersion": "3.1.2"
+			},
+			"color": "#3a283e",
+			"description": "",
+			"flags": {
+			},
+			"folder": null,
+			"name": "Community Content",
+			"sort": 0,
+			"sorting": "a",
+			"type": "Macro"
+		},
+		{
+			"_id": "LAaB9Xa48gMorwBC",
+			"_stats": {
+				"compendiumSource": null,
+				"coreVersion": "12.331",
+				"createdTime": 1726551695695,
+				"duplicateSource": null,
+				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+				"modifiedTime": 1726675707097,
+				"systemId": "shadowdark",
+				"systemVersion": "3.1.2"
+			},
+			"color": "#3a283e",
+			"description": "",
+			"flags": {
+			},
+			"folder": null,
+			"name": "Community Content",
+			"sort": 100000,
+			"sorting": "a",
+			"type": "Actor"
+		},
+		{
+			"_id": "hFVYuBHY8cdSSJL4",
+			"_stats": {
+				"compendiumSource": null,
+				"coreVersion": "12.331",
+				"createdTime": 1726551752791,
+				"duplicateSource": null,
+				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+				"modifiedTime": 1726551752791,
+				"systemId": "shadowdark",
+				"systemVersion": "3.1.2"
+			},
+			"color": "#3a283e",
+			"description": "",
+			"flags": {
+			},
+			"folder": null,
+			"name": "Community Content",
+			"sort": 0,
+			"sorting": "a",
+			"type": "Scene"
+		},
+		{
+			"_id": "0XD5DC6G49vEkxM0",
+			"_stats": {
+				"compendiumSource": null,
+				"coreVersion": "12.331",
+				"createdTime": 1726551788293,
+				"duplicateSource": null,
+				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+				"modifiedTime": 1726551788293,
+				"systemId": "shadowdark",
+				"systemVersion": "3.1.2"
+			},
+			"color": "#3a283e",
+			"description": "",
+			"flags": {
+			},
+			"folder": null,
+			"name": "Community Content",
+			"sort": 0,
+			"sorting": "a",
+			"type": "JournalEntry"
+		},
+		{
+			"_id": "4zTaS1vDAEStB5WQ",
+			"_stats": {
+				"compendiumSource": null,
+				"coreVersion": "12.331",
+				"createdTime": 1726551718369,
+				"duplicateSource": null,
+				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+				"modifiedTime": 1726551718369,
+				"systemId": "shadowdark",
+				"systemVersion": "3.1.2"
+			},
+			"color": "#3a283e",
+			"description": "",
+			"flags": {
+			},
+			"folder": null,
+			"name": "Community Content",
+			"sort": 0,
+			"sorting": "a",
+			"type": "RollTable"
 		}
 	],
 	"img": "modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/Against_the_Cult_of_the_Crimson_Hand_Cover_Art.png",
@@ -3918,19 +4042,19 @@
 		{
 			"_id": "ysuQk1u0PH5tYsOq",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "JournalEntry.ysuQk1u0PH5tYsOq",
 				"coreVersion": "12.331",
 				"createdTime": 1733791473871,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1733791473871,
+				"modifiedTime": 1734472892918,
 				"systemId": "shadowdark",
 				"systemVersion": "3.2.1"
 			},
 			"flags": {
 			},
 			"folder": "r1o5qYDQy0gIcTRu",
-			"name": "Temple of the Crimson Hand",
+			"name": "Adventure Guide",
 			"ownership": {
 				"9x0Fx3xohMgaCVFR": 3,
 				"PsI2rp17nB0QWxtr": 3,
@@ -3945,8 +4069,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734480032971,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -3964,7 +4088,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Early this morning, cultist of the <strong>Crimson Hand</strong> raided the nearby village of Hillshire, capturing several villagers before disappearing into the night.</p><p></p><p><strong>Sister Inna</strong>, a priestess of St. Terragnis who escaped the attack, hopes to enlist the PCs in rescuing the villagers, especially <strong>Father Marcus</strong> (a pillar of the community), saying they can keep any of the chapel's treasure recovered from the raiders.</p><p></p><p>If the PCs pursue the cultists, they can easily track them to their lair, a dark temple carved into the side of a mountain.</p><p></p><p>The cultists are led by <strong>Dark Apostle Moloch</strong>, a dangerous and charismatic man, who seeks to bolster his forces by \"converting\" the strong (through sinister, mind-controlling magic), and sacrificing the rest to his dark god, <strong>Ramlaat the Pillager</strong>.</p><p></p><h2><strong>Crimson Hand</strong></h2><p>The Cult seeks the favor of Ramlaat to grow in power before a prophesized apocalypse where only the strongest will survive.</p><p></p><h2><strong>Core Cult Tenants</strong></h2><ul><li><p>Honor Ramlaat and his Skull Altars with blood.</p></li><li><p>Obey until you can usurp.</p></li><li><p>Only the strong survive.</p></li></ul><p></p><h2><strong>Cult Ranks</strong></h2><p>Strict hierarchy, denoted by robe color:</p><ol><li><p><strong>1 Cult Leader (Black Robe with Gold Trim). </strong>Apostle Moloch</p></li><li><p><strong>2 Masters (Black Robes). </strong>Master-at-Arms and Mistress of Pain</p></li><li><p><strong>~12 Acolytes/Hunters (Red Robes).</strong> Not allowed in Moloch's Chambers</p></li><li><p><strong>~24 Neophytes (Brown Robes). </strong>Not allowed east of Great Hall</p></li></ol><p>If PCs disguised as cultists, typically not questioned by cultists of equal or lower rank (unless acting suspicious).</p><p></p><h2><strong>Cultist Temple</strong></h2><p><strong>Light.</strong> Illuminated unless noted. Only Apostle Moloch and Mistress of Pain are dark-adapted</p><p><strong>Danger Level.</strong> <span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">Unsafe.</span></span> Check every 3 rounds or after loud noises. D6 roll of 1 = encounter.</p><p>@UUID[RollTable.vQSJwj4ccjw9kDM7]{Random Encounters}</p><p></p><h2><strong>Rescue the Villagers</strong></h2><ul><li><p>PCs gain 1 XP per villager rescued (2 XP for Father Marcus)</p></li><li><p>If clear path to exit, can escape without escort.</p></li></ul><h2><strong>Blood Lust</strong></h2><ul><li><p>When afflicted, use next action to attack the nearest creature (with ADV), or take 1d4 damage.</p></li></ul><h2><strong>Optional Rules</strong></h2><p>These <span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">optional rules</span></span> can be used for difficulty scaling.</p><p></p><h3><strong>Fate Worse Than Death</strong></h3><ul><li><p>Cultist do non-lethal damage unless noted. <em>\"Take them alive!\"</em></p></li><li><p>At 0 HP, unconscious until <strong>roused</strong> (no move or actions).</p></li><li><p><strong>Rouse</strong> after combat ends or when healed.</p></li><li><p>Captured PCs wake in Dungeon, no gear (once only, then taken for immediate \"conversion\").</p></li></ul><h3><strong>Blood God's Blessing</strong></h3><p>Inside temple, killing blows heal you for max HP of creature slain.</p><p></p><h3><strong>No Mere Rabble</strong></h3><p>PCs get max HP at level 1 and start with a Luck Token (Sister Inna's Blessing)</p>",
+						"content": "<p>Early this morning, cultist of the <strong>Crimson Hand</strong> raided the nearby village of Hillshire, capturing several villagers before disappearing into the night.</p><p></p><p><strong>Sister Inna</strong>, a priestess of St. Terragnis who escaped the attack, hopes to enlist the PCs in rescuing the villagers, especially <strong>@UUID[Actor.81mxXvuC4Eri44bF]{Father Marcus}</strong> (a pillar of the community), saying they can keep any of the chapel's treasure recovered from the raiders.</p><p></p><p>If the PCs pursue the cultists, they can easily track them to their lair, a dark temple carved into the side of a mountain.</p><p></p><p>The cultists are led by <strong>@UUID[Actor.6VWM6Wb47guFI4p4]{Dark Apostle Moloch}</strong>, a dangerous and charismatic man, who seeks to bolster his forces by \"converting\" the strong (through sinister, mind-controlling magic), and sacrificing the rest to his dark god, <strong>Ramlaat the Pillager</strong>.</p><h2><br />CULT DETAILS</h2><p><strong>Crimson Hand. </strong>The Cult seeks the favor of Ramlaat to grow in power before a prophesized apocalypse where only the strongest will survive.</p><p></p><p><strong>Core Cult Tenants.</strong></p><ul><li><p>Honor Ramlaat and his Skull Altars with blood.</p></li><li><p>Obey until you can usurp.</p></li><li><p>Only the strong survive.</p></li></ul><p></p><p><strong>Cult Ranks. </strong>Strict hierarchy, denoted by robe color:</p><ol><li><p><strong>1 Cult Leader (Black Robe with Gold Trim). </strong>Apostle Moloch</p></li><li><p><strong>2 Masters (Black Robes). </strong>Master-at-Arms and Mistress of Pain</p></li><li><p><strong>~12 Acolytes/Hunters (Red Robes).</strong> Not allowed in Moloch's Chambers</p></li><li><p><strong>~24 Neophytes (Brown Robes). </strong>Not allowed east of Great Hall</p></li></ol><p>If PCs disguised as cultists, typically not questioned by cultists of equal or lower rank (unless acting suspicious).</p><p></p><h2><strong>CULTIST TEMPLE</strong></h2><p><strong>Light.</strong> Illuminated unless noted. Only @UUID[Actor.6VWM6Wb47guFI4p4]{Apostle Moloch} and @UUID[Actor.fh3tkPui9VD7I4kF]{Mistress of Pain} are dark-adapted</p><p><strong>Danger Level.</strong> <span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">Unsafe.</span></span> Check every 3 rounds or after loud noises. D6 roll of 1 = encounter.</p><p></p><h2>RANDOM ENCOUNTERS</h2><p>@UUID[RollTable.vQSJwj4ccjw9kDM7]{Random Encounters}</p><table><tbody><tr><td data-colwidth=\"47\"><p>d6</p></td><td><p>Description</p></td></tr><tr><td data-colwidth=\"47\"><p>1</p></td><td><p>Roll twice (reroll 5+)</p></td></tr><tr><td data-colwidth=\"47\"><p>2</p></td><td><p>Random PC afflicted by Blood Lust (see left).</p></td></tr><tr><td data-colwidth=\"47\"><p>3</p></td><td><p>1 Hunter + Mastiff smells strangers, barks.</p></td></tr><tr><td data-colwidth=\"47\"><p>4</p></td><td><p>1 Acolyte + 3 Neophyte patrolling (suspicious).</p></td></tr><tr><td data-colwidth=\"47\"><p>5</p></td><td><p>Escaped villager and… (roll again, reroll 5+)</p></td></tr><tr><td data-colwidth=\"47\"><p>6</p></td><td><p>Disillusioned Acolyte. Knows you’re not cult, wants to escape (1 XP).</p></td></tr></tbody></table>",
 						"format": 1
 					},
 					"title": {
@@ -3984,8 +4108,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734479860522,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -3993,7 +4117,7 @@
 					},
 					"image": {
 					},
-					"name": "Entrance Hall",
+					"name": "Area 2: Entrance Hall",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4003,7 +4127,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/Triskull.jpg\" /><p>Large <strong>skull statue</strong>, covered in bloody handprints. Many <strong>hallways.</strong></p><ul><li><p><strong>Skull Statue. Trap. </strong>Runic <strong>inscription.</strong></p><ul><li><p><strong>Inscription.</strong> \"The price of entry is blood, and it shal be paid, one way or another.\"</p></li><li><p><strong>Trap.</strong> Unless place <strong>bloody hand</strong> on skull before leaving room, aflicted by <strong>Blood Lust</strong> (see below).</p></li><li><p><strong>Bloody Hand.</strong> 1 HP of blood, own or not.</p></li></ul></li><li><p><strong>Blood Lust</strong></p><ul><li><p>When afflicted, use next action to attack the nearest creature (with ADV), or take 1d4 HP damage.</p></li></ul></li><li><p><strong>Hallways.</strong></p><ul><li><p>North. Faint snoring (Barracks)</p></li><li><p>East. Many voices raised in celebration (Great Hall)</p></li><li><p>South. Barking, fearful cries (Kennels)</p></li><li><p>West. Exit.</p></li></ul></li></ul>",
+						"content": "<p>Large <strong>skull statue</strong>, covered in bloody handprints. Many <strong>hallways.</strong></p><ul><li><p><strong>Skull Statue. Trap. </strong>Runic <strong>inscription.</strong></p><ul><li><p><strong>Inscription.</strong> \"The price of entry is blood, and it shal be paid, one way or another.\"</p></li><li><p><strong>Trap.</strong> Unless place <strong>bloody hand</strong> on skull before leaving room, aflicted by <strong>Blood Lust</strong> (see below).</p></li><li><p><strong>Bloody Hand.</strong> 1 HP of blood, own or not.</p></li></ul></li><li><p><strong>Blood Lust</strong></p><ul><li><p>When afflicted, use next action to attack the nearest creature (with ADV), or take 1d4 HP damage.</p></li></ul></li><li><p><strong>Hallways.</strong></p><ul><li><p>North. Faint snoring (Barracks)</p></li><li><p>East. Many voices raised in celebration (Great Hall)</p></li><li><p>South. Barking, fearful cries (Kennels)</p></li><li><p>West. Exit.</p></li></ul></li></ul><img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/Triskull.jpg\" />",
 						"format": 1
 					},
 					"title": {
@@ -4023,8 +4147,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734479901350,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4032,7 +4156,7 @@
 					},
 					"image": {
 					},
-					"name": "Barracks",
+					"name": "Area 3: Barracks",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4042,7 +4166,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Sounds of snoring. Door cracked. <strong>Dark</strong> room.</p><ul><li><p><strong>Dark.</strong> Total Darkness (requires light to see).</p></li></ul><p>When lit:</p><ul><li><p>Sleeping cots and straw cover floor (<strong>flammable)</strong></p><ul><li><p><strong>Flammable.</strong> 1d4 damage/round. Burns for 1d4 rounds.</p></li></ul></li><li><p>Sleeping figures</p><ul><li><p>6 @UUID[Actor.yguUZJ0iczCebi8e]{Cult Neophyte}</p></li><li><p>2 @UUID[Actor.uExzKZRMjXZRrhnh]{Cult Acolyte}</p></li><li><p>Melee attacks hit sleepers automatically</p></li></ul></li><li><p>Piles of gear (by sleepers).</p><ul><li><p>Neophytes: Dagger, Brown Robes</p></li><li><p>Acolytes. Leather Armor, Shortsowrd, Red Robes, 1d4 gold</p></li></ul></li></ul><p></p><p>Waking Sleeping Cultist:</p><ul><li><p><strong>Sleeping</strong>. At 3 <strong>infractions</strong>, sleeping cultist awake (surprised). Some things may wake them automatically (loud noises, etc.)</p></li><li><p><strong>Infractions</strong></p><ul><li><p>Gain 1 for instance of light, noise, failed sneak check (DC 9, DISADV in <strong>dark</strong>)</p></li><li><p>Gain 2 for each Nat 1 check wile in room.</p></li><li><p>Remove 1 for each round spent silent.</p></li></ul></li></ul>",
+						"content": "<p>Sounds of snoring. Door cracked. <strong>Dark</strong> room.</p><ul><li><p><strong>Dark.</strong> Total Darkness (requires light to see).</p></li></ul><p>When lit:</p><ul><li><p>Sleeping cots and straw cover floor (<strong>flammable)</strong></p><ul><li><p><strong>Flammable.</strong> 1d4 damage/round. Burns for 1d4 rounds.</p></li></ul></li><li><p>Sleeping figures</p><ul><li><p>6 @UUID[Actor.yguUZJ0iczCebi8e]{Cult Neophyte}</p></li><li><p>2 @UUID[Actor.uExzKZRMjXZRrhnh]{Cult Acolyte}</p></li><li><p>Melee attacks hit sleepers automatically</p></li></ul></li><li><p>Piles of gear (by sleepers).</p><ul><li><p>Neophytes: Dagger, Brown Robes</p></li><li><p>Acolytes. Leather Armor, Shortsowrd, Red Robes, 1d4 gold</p></li></ul></li></ul><p></p><p>Waking Sleeping Cultist:</p><ul><li><p><strong>Sleeping</strong>. At 3 <strong>infractions</strong>, sleeping cultist awake (surprised). Some things may wake them automatically (loud noises, etc.)</p></li><li><p><strong>Infractions</strong></p><ul><li><p>Gain 1 for instance of light, noise, failed sneak check (DC 9, DISADV in <strong>dark</strong>)</p></li><li><p>Gain 2 for each Nat 1 check wile in room.</p></li><li><p>Remove 1 for each round spent silent.</p></li></ul></li></ul><img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/img106.webp\" />",
 						"format": 1
 					},
 					"title": {
@@ -4062,8 +4186,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734475891745,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4071,7 +4195,7 @@
 					},
 					"image": {
 					},
-					"name": "Training Grounds",
+					"name": "Area 4: Training Grounds",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4101,8 +4225,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734475909901,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4110,7 +4234,7 @@
 					},
 					"image": {
 					},
-					"name": "Kennels",
+					"name": "Area 5: Kennels",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4140,8 +4264,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734480819509,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4149,7 +4273,7 @@
 					},
 					"image": {
 					},
-					"name": "Front Gate",
+					"name": "Area 1: Front Gate",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4159,7 +4283,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Front Gate.</strong> Two <strong>brown robed figures</strong> stand <strong>sentry </strong>out front. <strong>Distracted</strong>, arguing over which is at fault for being on sentry duty instead of celebrating with the others.</p><ul><li><p><strong>Brown Robed figures</strong> are @UUID[Actor.yguUZJ0iczCebi8e]{Cult Neophyte}</p></li><li><p><strong>Distracted</strong>. Unless PCs making significant noise, cultist don't notice their approach.</p></li><li><p><strong>Sentry.</strong> If spot danger, neophytes will run to Barracks for aid.</p><ul><li><p>To avoid trap in <strong>Entrance Hall</strong>, will use <strong>blood in pouches</strong> (action) on <strong>Skull Statue</strong> before exiting room.</p></li></ul></li></ul><h2>Crumpled Parchment</h2><p><em>\"Tenants of Faith:</em></p><p></p><p><em>One. Honor our God, and his altars, with blood.</em></p><p></p><p><em>Two. <s>Obey until you can usurp</s> Listen to red and black robes.</em></p><p></p><p><em>Three. Only the strongest will survive.</em></p><p></p><p><em>Remember, neophytes are not allowed passed skulls in Great Hall.\"</em></p>",
+						"content": "<p><strong>Front Gate.</strong> Two <strong>brown robed figures</strong> stand <strong>sentry </strong>out front. <strong>Distracted</strong>, arguing over which is at fault for being on sentry duty instead of celebrating with the others.</p><ul><li><p><strong>Brown Robed figures</strong> are @UUID[Actor.yguUZJ0iczCebi8e]{Cult Neophyte}</p></li><li><p><strong>Distracted</strong>. Unless PCs making significant noise, cultist don't notice their approach.</p></li><li><p><strong>Sentry.</strong> If spot danger, neophytes will run to Barracks for aid.</p><ul><li><p>To avoid trap in <strong>Entrance Hall</strong>, will use <strong>blood in pouches</strong> (action) on <strong>Skull Statue</strong> before exiting room.</p></li></ul></li></ul><h2>Crumpled Parchment</h2><p><em>\"Tenants of Faith:</em></p><p></p><p><em>One. Honor our God, and his altars, with blood.</em></p><p></p><p><em>Two. <s>Obey until you can usurp</s> Listen to red and black robes.</em></p><p></p><p><em>Three. Only the strongest will survive.</em></p><p></p><p><em>Remember, neophytes are not allowed passed skulls in Great Hall.\"</em></p><p>@UUID[Macro.MalPR1XM6aJsZeRi]{Display Crumpled Parchment}</p><img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/img97.webp\" />",
 						"format": 1
 					},
 					"title": {
@@ -4179,8 +4303,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734475916996,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4188,7 +4312,7 @@
 					},
 					"image": {
 					},
-					"name": "Kitchen",
+					"name": "Area 6: Kitchen",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4218,8 +4342,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734475924907,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4227,7 +4351,7 @@
 					},
 					"image": {
 					},
-					"name": "Great Hall",
+					"name": "Area 7: Great Hall",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4257,8 +4381,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734480956061,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4266,7 +4390,7 @@
 					},
 					"image": {
 					},
-					"name": "Dungeon",
+					"name": "Area 8: Dungeon",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4276,7 +4400,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Sound of clinking chains, dripping water. Four <strong>villagers</strong> huddled in squalid cell. Cell door <strong>locked</strong>, but bars look rusted and brittle.</p><ul><li><p><strong>If captured (once only)</strong>. PCs wake up in cell with no gear, unless it was concealed. Gear stored in Halls of Pain</p><ul><li><p><strong>Rest (optional)</strong>. PCs can rest here, but half of remaining captured villagers are sacrificed while PC's sleep.</p></li></ul></li><li><p><strong>Locked.</strong> Use <strong>Skull Key</strong> (Mistress of Pain), lockpick (DC 12 DEX), break bars (DC 12 STR, noisy).</p></li><li><p><strong>Villagers.</strong> 4 @UUID[Actor.5wDTrsifhahwMDiH]{Strong Villager}, including <strong>Kara</strong> (elvish ancestry).</p></li><li><p><strong>Kara</strong>. Will risk anything to rescue her betrothed, <strong>Tyrus</strong>, recently taken to Ritual Chamber</p></li></ul>",
+						"content": "<p>Sound of clinking chains, dripping water. Four <strong>villagers</strong> huddled in squalid cell. Cell door <strong>locked</strong>, but bars look rusted and brittle.</p><ul><li><p><strong>If captured (once only)</strong>. PCs wake up in cell with no gear, unless it was concealed. Gear stored in Halls of Pain</p><ul><li><p><strong>Rest (optional)</strong>. PCs can rest here, but half of remaining captured villagers are sacrificed while PC's sleep.</p></li></ul></li><li><p><strong>Locked.</strong> Use <strong>Skull Key</strong> (Mistress of Pain), lockpick (DC 12 DEX), break bars (DC 12 STR, noisy).</p></li><li><p><strong>Villagers.</strong> 4 @UUID[Actor.5wDTrsifhahwMDiH]{Strong Villager}, including <strong>Kara</strong> (elvish ancestry).</p></li><li><p><strong>Kara</strong>. Will risk anything to rescue her betrothed, <strong>Tyrus</strong>, recently taken to Ritual Chamber</p></li></ul><img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/img119.webp\" /><img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/img121.webp\" />",
 						"format": 1
 					},
 					"title": {
@@ -4296,8 +4420,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734479995325,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4305,7 +4429,7 @@
 					},
 					"image": {
 					},
-					"name": "Halls of Pain",
+					"name": "Area 9: Halls of Pain",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4315,7 +4439,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Sound of lashing whip, stifled grunts of pain, faint hissing. <strong>Drow Woman</strong> stands over <strong>older man</strong> that's <strong>strapped to table</strong>. Two <strong>red robed figures</strong> spectate gleefully. <strong>Equipment Storage</strong>, nor side of room.</p><ul><li><p><strong>Drow Woman is @UUID[Actor.fh3tkPui9VD7I4kF]{Mistress of Pain}</strong></p></li><li><p><strong>Red Robed Figures</strong> are @UUID[Actor.uExzKZRMjXZRrhnh]{Cult Acolyte}</p></li><li><p><strong>Older Man </strong>is @UUID[Actor.81mxXvuC4Eri44bF]{Father Marcus}, priest of St. Terragnis. Injured</p></li><li><p><strong>Strapped to Table.</strong> Can be freed with action.</p></li><li><p><strong>Equipment Storage. </strong>Chainmail, mace (Father Marcus'), 5 daggers, PC gear (if captured)</p></li></ul>",
+						"content": "<p>Sound of lashing whip, stifled grunts of pain, faint hissing. <strong>Drow Woman</strong> stands over <strong>older man</strong> that's <strong>strapped to table</strong>. Two <strong>red robed figures</strong> spectate gleefully. <strong>Equipment Storage</strong>, nor side of room.</p><ul><li><p><strong>Drow Woman is @UUID[Actor.fh3tkPui9VD7I4kF]{Mistress of Pain}</strong></p></li><li><p><strong>Red Robed Figures</strong> are @UUID[Actor.uExzKZRMjXZRrhnh]{Cult Acolyte}</p></li><li><p><strong>Older Man </strong>is @UUID[Actor.81mxXvuC4Eri44bF]{Father Marcus}, priest of St. Terragnis. Injured</p></li><li><p><strong>Strapped to Table.</strong> Can be freed with action.</p></li><li><p><strong>Equipment Storage. </strong>Chainmail, mace (Father Marcus'), 5 daggers, PC gear (if captured)</p></li></ul><img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/img124.webp\" />",
 						"format": 1
 					},
 					"title": {
@@ -4335,8 +4459,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734480496162,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4344,7 +4468,7 @@
 					},
 					"image": {
 					},
-					"name": "Moloch's Chambers",
+					"name": "Area 10: Moloch's Chambers",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4354,7 +4478,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>No sound from within. <strong>Locked.</strong></p><ul><li><p><strong>Locked. </strong>Use <strong>Skull Key</strong> (Mistress of Pain) or lockpick (DC 15 DEX)</p></li></ul><p>When opened:</p><p></p><p>Sturdy wooden <strong>desk</strong>. Dusty <strong>bookshelf. </strong>Large feather bed.</p><ul><li><p><strong>Desk.</strong> Covered with <strong>papers</strong> and <strong>potions</strong></p><ul><li><p><strong>Papers. Cult Orders</strong></p></li><li><p><strong>Potions. </strong>3 healing potions (1d6 HP)</p></li></ul></li><li><p><strong>Bookshelf</strong>. Dusty books</p><ul><li><p>3 books are less dusty</p><ul><li><p>1. The Rule of Two: Now I am the Master</p></li><li><p>2. Origin of Power</p></li><li><p>3. Sanguine Sacrifices</p></li></ul></li><li><p>If pull in order: 3, 1, 2 (Tenants of Faith) reveal <strong>secret tunnel</strong> to Bloodied Altar</p></li><li><p>If wrong order, <strong>tunnel</strong> sealed shut, and magic alarm blares (auto random encounter next turn, reroll 5+)</p></li></ul></li></ul><h2>Cult Orders</h2><p><em>Apostle Moloch,</em></p><p></p><p><em>I find your lack of progress disturbing.</em></p><p></p><p><em>Send a raiding party to Hillshire at first light. Convert the strongest amonth them and sacrifice the rest.</em></p><p></p><p><em>I grow tired of your excuses. Do not fail me again.</em></p><p></p><p><em>In His Bloody name,</em></p><p><em>Crimson Archon Ar-Zul</em></p>",
+						"content": "<p>No sound from within. <strong>Locked.</strong></p><ul><li><p><strong>Locked. </strong>Use <strong>Skull Key</strong> (Mistress of Pain) or lockpick ([[request 15 DEX]])</p></li></ul><p>When opened:</p><p></p><p>Sturdy wooden <strong>desk</strong>. Dusty <strong>bookshelf. </strong>Large feather bed.</p><ul><li><p><strong>Desk.</strong> Covered with <strong>papers</strong> and <strong>potions</strong></p><ul><li><p><strong>Papers. Cult Orders</strong></p></li><li><p><strong>Potions. </strong>3 healing potions (1d6 HP)</p></li></ul></li><li><p><strong>Bookshelf</strong>. Dusty books</p><ul><li><p>3 books are less dusty</p><ul><li><p>1. The Rule of Two: Now I am the Master</p></li><li><p>2. Origin of Power</p></li><li><p>3. Sanguine Sacrifices</p></li></ul></li><li><p>If pull in order: 3, 1, 2 (Tenants of Faith) reveal <strong>secret tunnel</strong> to Bloodied Altar</p></li><li><p>If wrong order, <strong>tunnel</strong> sealed shut, and magic alarm blares (auto random encounter next turn, reroll 5+)</p></li></ul></li></ul><h2>Cult Orders</h2><p><em>Apostle Moloch,</em></p><p></p><p><em>I find your lack of progress disturbing.</em></p><p></p><p><em>Send a raiding party to Hillshire at first light. Convert the strongest amonth them and sacrifice the rest.</em></p><p></p><p><em>I grow tired of your excuses. Do not fail me again.</em></p><p></p><p><em>In His Bloody name,</em></p><p><em>Crimson Archon Ar-Zul</em></p><p>@UUID[Macro.W9i4HwJtZry8wzs7]{Display Cult Orders}</p><img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/img51.webp\" />",
 						"format": 1
 					},
 					"title": {
@@ -4374,8 +4498,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734476449236,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4383,7 +4507,7 @@
 					},
 					"image": {
 					},
-					"name": "Ritual Chamber",
+					"name": "Area 11: Ritual Chamber",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4393,7 +4517,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Sound of ominous chanting, led by deep, hypnotic-sounding voice. <strong>Locked.</strong></p><ul><li><p><strong>Locked.</strong> Use <strong>Skull Key</strong> (Mistress of Pain) or lockpick (DC 15 DEX)</p></li></ul><p>When opened:</p><p></p><p>1 <strong>black robed</strong> and 4 <strong>red robed figures</strong> chanting. 4 <strong>villagers</strong> are <strong>bound to wooden stakes</strong>. 5' deep <strong>river of caustic blood</strong> flows around outside of room.</p><ul><li><p><strong>Surprise</strong>. If come from Bloodied Altar cultists are surprised</p></li><li><p><strong>Black Robed Leader @UUID[Actor.6VWM6Wb47guFI4p4]{Apostle Moloch}</strong></p></li><li><p><strong>Red Robed Figures. Acolytes.</strong> Eyes closed</p></li></ul><h2>Battle Tactics</h2><ul><li><p>Other cultists follow Moloch's orders or attack lowest HP enemy in near</p></li><li><p><strong>Father Marcus</strong> fights, save heals for 0 HP allies</p></li><li><p><strong>Kara</strong> will try to free <strong>Tyrus</strong> if plausible or talk him down if he's <strong>converted</strong></p></li><li><p>If <strong>Tyrus</strong> or <strong>Kara</strong> is slain, the other will break free if <strong>converted</strong> or <strong>bound</strong> and fight to the death</p></li><li><p><strong>Strong Villagers</strong> fight to the best of their ability</p></li></ul><h2>Moloch Tactics</h2><ul><li><p>Until attacked, uses Convert Unbeliever on bound villagers (Tyrus first) and frees them.</p></li><li><p>Once attacked, will use Convert Unbeliever on highest HP enemy not yet attempted. Only 1 PC can be converted at a time (strong wills are taxing to control)</p></li><li><p>Prioritizes killing low HP targets (including allies) to benefit from Bloodthirster</p></li><li><p>Uses Sanguine Grip to push/pull enemies into River of Blood or prone them before attacking</p></li><li><p>At dramatic moment, or when reduced to half HP, uses Darkness Falls</p></li></ul>",
+						"content": "<p>Sound of ominous chanting, led by deep, hypnotic-sounding voice. <strong>Locked.</strong></p><ul><li><p><strong>Locked.</strong> Use <strong>Skull Key</strong> (Mistress of Pain) or lockpick ([[request 15 DEX]])</p></li></ul><p>When opened:</p><p></p><p>1 <strong>black robed</strong> and 4 <strong>red robed figures</strong> chanting. 4 <strong>@UUID[Actor.cRu7Vgmf0tDfsGFQ]{villagers} </strong>are <strong>bound to wooden stakes</strong>. 5' deep <strong>river of caustic blood</strong> flows around outside of room.</p><ul><li><p><strong>Surprise</strong>. If come from Bloodied Altar cultists are surprised</p></li><li><p><strong>Black Robed Leader @UUID[Actor.6VWM6Wb47guFI4p4]{Apostle Moloch}</strong></p></li><li><p><strong>Red Robed Figures. @UUID[Actor.uExzKZRMjXZRrhnh]{Acolytes}.</strong> Eyes closed</p></li></ul><h2>Battle Tactics</h2><ul><li><p>Other cultists follow Moloch's orders or attack lowest HP enemy in near</p></li><li><p><strong>@UUID[Actor.81mxXvuC4Eri44bF]{Father Marcus}</strong> fights, save heals for 0 HP allies</p></li><li><p><strong>Kara</strong> will try to free <strong>Tyrus</strong> if plausible or talk him down if he's <strong>converted</strong></p></li><li><p>If <strong>Tyrus</strong> or <strong>Kara</strong> is slain, the other will break free if <strong>converted</strong> or <strong>bound</strong> and fight to the death</p></li><li><p><strong>@UUID[Actor.5wDTrsifhahwMDiH]{Strong Villagers}</strong> fight to the best of their ability</p></li></ul><h2>Moloch Tactics</h2><ul><li><p>Until attacked, uses Convert Unbeliever on bound villagers (Tyrus first) and frees them.</p></li><li><p>Once attacked, will use Convert Unbeliever on highest HP enemy not yet attempted. Only 1 PC can be converted at a time (strong wills are taxing to control)</p></li><li><p>Prioritizes killing low HP targets (including allies) to benefit from Bloodthirster</p></li><li><p>Uses Sanguine Grip to push/pull enemies into River of Blood or prone them before attacking</p></li><li><p>At dramatic moment, or when reduced to half HP, uses Darkness Falls</p></li></ul>",
 						"format": 1
 					},
 					"title": {
@@ -4413,8 +4537,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734480059564,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4422,7 +4546,7 @@
 					},
 					"image": {
 					},
-					"name": "Bloodied Altar",
+					"name": "Area 12: Bloodied Altar",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4432,7 +4556,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Massive <strong>Blood Drenched Skull</strong>. Pile of <strong>treasure</strong> at base of skull. Large <strong>mural</strong> covers walls.</p><ul><li><p><strong>Blood Drenched Skull</strong>. Titan's skull, covered in blood, bearing an ominous <strong>inscription</strong></p><ul><li><p><strong>Inscription.</strong> <em>\"The strong take what they wish, but those who honor Him with the blood of the worthy slain, shall truly know His favor.\"</em></p></li><li><p><strong>Blood God's Favor.</strong> Any PC offering a <strong>worthy sacrifice</strong> gains a Luck Token. <em>Ramlaat will be watching their career with great interest…</em></p></li><li><p><strong>Worth Sacrifice.</strong> Drenching the altar in the blood of a slain creature with 5+ max HP. PCs have a sense of who may be worthy. Villagers, especially Father marcus, disapprove.</p></li><li><p><strong>Mural</strong>. Depicts scene of epic battle so bloody it drowns the world. Robed figures with demonit wings fly safely above the sanguine flood.</p></li><li><p><strong>Treasure</strong></p><ul><li><p>200 gold (3 XP)</p></li><li><p> <strong>@UUID[Compendium.shadowdark.magic-items.Item.t4RYKztP70zmAbGD]{Pearl of Power} </strong>(3 XP) A fat, opalescent pearl glowing with an inner radiance. <strong>Benefit.</strong> Once per day, you may regain the ability to cast a spell you have lost. This cannot restore a spell lost to a critical spellcasting failure.</p></li></ul></li></ul></li></ul>",
+						"content": "<p>Massive <strong>Blood Drenched Skull</strong>. Pile of <strong>treasure</strong> at base of skull. Large <strong>mural</strong> covers walls.</p><ul><li><p><strong>Blood Drenched Skull</strong>. Titan's skull, covered in blood, bearing an ominous <strong>inscription</strong></p><ul><li><p><strong>Inscription.</strong> <em>\"The strong take what they wish, but those who honor Him with the blood of the worthy slain, shall truly know His favor.\"</em></p></li><li><p><strong>Blood God's Favor.</strong> Any PC offering a <strong>worthy sacrifice</strong> gains a Luck Token. <em>Ramlaat will be watching their career with great interest…</em></p></li><li><p><strong>Worth Sacrifice.</strong> Drenching the altar in the blood of a slain creature with 5+ max HP. PCs have a sense of who may be worthy. Villagers, especially Father marcus, disapprove.</p></li><li><p><strong>Mural</strong>. Depicts scene of epic battle so bloody it drowns the world. Robed figures with demonit wings fly safely above the sanguine flood.</p></li><li><p><strong>Treasure</strong></p><ul><li><p>200 gold (3 XP)</p></li><li><p><strong>@UUID[Compendium.shadowdark.magic-items.Item.t4RYKztP70zmAbGD]{Pearl of Power} </strong>(3 XP) A fat, opalescent pearl glowing with an inner radiance. <strong>Benefit.</strong> Once per day, you may regain the ability to cast a spell you have lost. This cannot restore a spell lost to a critical spellcasting failure.</p></li></ul></li></ul></li></ul><img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/img141.webp\" />",
 						"format": 1
 					},
 					"title": {
@@ -4452,8 +4576,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734478379240,
 						"systemId": "shadowdark",
 						"systemVersion": "3.2.1"
 					},
@@ -4461,7 +4585,7 @@
 					},
 					"image": {
 					},
-					"name": "Back Exit",
+					"name": "Area 13: Back Exit",
 					"ownership": {
 						"S9R8EU8WuAcH9ost": 3,
 						"default": -1
@@ -4471,7 +4595,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p>Scent of fresh air. Reddish metallic stairs leading up t othe surface. A secret, well-concealed exit.</p>",
+						"content": "<p>Scent of fresh air. Reddish metallic stairs leading up to the surface. A secret, well-concealed exit.</p>",
 						"format": 1
 					},
 					"title": {
@@ -4522,12 +4646,144 @@
 						"controls": true,
 						"volume": 0.5
 					}
+				},
+				{
+					"_id": "OhOfgBQ0o5sIIwxT",
+					"_stats": {
+						"compendiumSource": null,
+						"coreVersion": "12.331",
+						"createdTime": 1734472342408,
+						"duplicateSource": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734472404741,
+						"systemId": "shadowdark",
+						"systemVersion": "3.2.2"
+					},
+					"flags": {
+					},
+					"image": {
+					},
+					"name": "Cover",
+					"ownership": {
+						"9x0Fx3xohMgaCVFR": 3,
+						"default": -1
+					},
+					"sort": -100000,
+					"src": null,
+					"system": {
+					},
+					"text": {
+						"content": "<img src=\"modules/shadowdark-community-content/assets/against-the-cult-of-the-crimson-hand/Against_the_Cult_of_the_Crimson_Hand_Cover_Art.png\" />",
+						"format": 1
+					},
+					"title": {
+						"level": 1,
+						"show": true
+					},
+					"type": "text",
+					"video": {
+						"controls": true,
+						"volume": 0.5
+					}
+				},
+				{
+					"_id": "zJGBHglW3wEApQFT",
+					"_stats": {
+						"compendiumSource": null,
+						"coreVersion": "12.331",
+						"createdTime": 1734472692724,
+						"duplicateSource": null,
+						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+						"modifiedTime": 1734476522607,
+						"systemId": "shadowdark",
+						"systemVersion": "3.2.2"
+					},
+					"flags": {
+					},
+					"image": {
+					},
+					"name": "Special Rules",
+					"ownership": {
+						"9x0Fx3xohMgaCVFR": 3,
+						"default": -1
+					},
+					"sort": 100000,
+					"src": null,
+					"system": {
+					},
+					"text": {
+						"content": "<p><strong>Rescue the Villagers.</strong></p><ul><li><p>PCs gain 1 XP per villager rescued (2 XP for Father Marcus)</p></li><li><p>If clear path to exit, can escape without escort.</p></li></ul><p><strong>Blood Lust.</strong></p><ul><li><p>When afflicted, use next action to attack the nearest creature (with ADV), or take 1d4 damage.</p></li></ul><h2><strong>DIFFICULTY SCALING</strong></h2><p>These <span style=\"text-decoration:underline\"><span style=\"text-decoration:underline\">optional rules</span></span> can be used for difficulty scaling.</p><p><strong>Fate Worse Than Death.</strong></p><ul><li><p>Cultist do non-lethal damage unless noted. <em>\"Take them alive!\"</em></p></li><li><p>At 0 HP, unconscious until <strong>roused</strong> (no move or actions).</p></li><li><p><strong>Rouse</strong> after combat ends or when healed.</p></li><li><p>Captured PCs wake in Dungeon, no gear (once only, then taken for immediate \"conversion\").</p></li></ul><p><strong>Blood God's Blessing. </strong>Inside temple, killing blows heal you for max HP of creature slain.</p><p><strong>No Mere Rabble. </strong>PCs get max HP at level 1 and start with a Luck Token (Sister Inna's Blessing)</p>",
+						"format": 1
+					},
+					"title": {
+						"level": 1,
+						"show": true
+					},
+					"type": "text",
+					"video": {
+						"controls": true,
+						"volume": 0.5
+					}
 				}
 			],
 			"sort": 0
 		}
 	],
 	"macros": [
+		{
+			"_id": "W9i4HwJtZry8wzs7",
+			"_stats": {
+				"compendiumSource": "Macro.bopFOmSwD3EUEPid",
+				"coreVersion": "12.331",
+				"createdTime": 1734480130115,
+				"duplicateSource": "Macro.ADLoNeqa9pDj4cxe",
+				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+				"modifiedTime": 1734480361527,
+				"systemId": "shadowdark",
+				"systemVersion": "3.2.2"
+			},
+			"author": "9x0Fx3xohMgaCVFR",
+			"command": "const message = `<div class=\"shadowdark\">\n<h2 style=\"font-size: 20px\">\n<p>Apostle Moloch,</p><br>\n<p>I find your lack of progress disturbing.</p><br>\n<p>Send a raiding party to Hillshire at first light. Convert the strongest amonth them and sacrifice the rest.</p><br>\n<p>I grow tired of your excuses. Do not fail me again.</p><br>\n<p>In His Bloody name,<br>\nCrimson Archon Ar-Zul</p>\n</h2>\n</div>`;\n\nconst chatData = {\n\tuser: game.user._id,\n\tflavor: \"Cult Orders\",\n\tcontent: message,\n};\n\nChatMessage.create(chatData, {});",
+			"flags": {
+			},
+			"folder": "cikIbUiwbDfjkOJH",
+			"img": "icons/sundries/documents/paper-plain-white.webp",
+			"name": "Display Cult Orders (Area 10)",
+			"ownership": {
+				"9x0Fx3xohMgaCVFR": 3,
+				"default": 0
+			},
+			"scope": "global",
+			"sort": 100000,
+			"type": "script"
+		},
+		{
+			"_id": "MalPR1XM6aJsZeRi",
+			"_stats": {
+				"compendiumSource": "Macro.bopFOmSwD3EUEPid",
+				"coreVersion": "12.331",
+				"createdTime": 1734480503125,
+				"duplicateSource": "Macro.W9i4HwJtZry8wzs7",
+				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
+				"modifiedTime": 1734480894838,
+				"systemId": "shadowdark",
+				"systemVersion": "3.2.2"
+			},
+			"author": "9x0Fx3xohMgaCVFR",
+			"command": "const message = `<div class=\"shadowdark\">\n\n<h1 style=\"font-size: 30px\">Tenants of Faith:</h1>\n<h2 style=\"font-size: 20px\">\nOne. Honor our God, and His altars, with blood.<br><br>\nTwo. <span style=\" text-decoration: line-through;\">Obey until you can usurp</span> Listen to red and black robes.<br><br>\nThree. Only the strongest will survive.<br><br>\nRemember, neophytes are not allowed passed skulls in Great Hall.\n</h2>\n</div>`;\n\nconst chatData = {\n\tuser: game.user._id,\n\tflavor: \"Crumpled Parchment\",\n\tcontent: message,\n};\n\nChatMessage.create(chatData, {});",
+			"flags": {
+			},
+			"folder": "cikIbUiwbDfjkOJH",
+			"img": "icons/sundries/documents/paper-plain-white.webp",
+			"name": "Display Crumpled Parchment (Area 1)",
+			"ownership": {
+				"9x0Fx3xohMgaCVFR": 3,
+				"default": 0
+			},
+			"scope": "global",
+			"sort": 100000,
+			"type": "script"
+		}
 	],
 	"name": "[1-2] Against the Cult of the Crimson Hand",
 	"playlists": [
@@ -4541,11 +4797,11 @@
 				"createdTime": 1733791473956,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1733791473956,
+				"modifiedTime": 1734337175248,
 				"systemId": "shadowdark",
 				"systemVersion": "3.2.1"
 			},
-			"active": true,
+			"active": false,
 			"background": {
 				"alphaThreshold": 0,
 				"anchorX": 0,
@@ -4654,7 +4910,7 @@
 			],
 			"templates": [
 			],
-			"thumb": "worlds/against-the-cult-of-the-crimson-hand/assets/scenes/Pdq29ZDtZ12zlWW9-thumb.webp",
+			"thumb": "worlds/package-world/assets/scenes/Pdq29ZDtZ12zlWW9-thumb.webp",
 			"tiles": [
 			],
 			"tokenVision": false,
@@ -4673,11 +4929,11 @@
 				"createdTime": 1733791473956,
 				"duplicateSource": null,
 				"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-				"modifiedTime": 1733791473956,
+				"modifiedTime": 1734476859565,
 				"systemId": "shadowdark",
 				"systemVersion": "3.2.1"
 			},
-			"active": false,
+			"active": true,
 			"background": {
 				"alphaThreshold": 0,
 				"anchorX": 0,
@@ -5599,7 +5855,7 @@
 			],
 			"templates": [
 			],
-			"thumb": "worlds/against-the-cult-of-the-crimson-hand/assets/scenes/jJ0UxGeBSQerx4ug-thumb.webp",
+			"thumb": "worlds/package-world/assets/scenes/jJ0UxGeBSQerx4ug-thumb.webp",
 			"tiles": [
 			],
 			"tokenVision": true,
@@ -11370,30 +11626,6 @@
 			],
 			"walls": [
 				{
-					"_id": "AX2aNDEGZKauwRub",
-					"c": [
-						613,
-						1602,
-						613,
-						1402
-					],
-					"dir": 0,
-					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
 					"_id": "sc2vLomT3zzlraaw",
 					"c": [
 						613,
@@ -11471,7 +11703,7 @@
 						800,
 						1302,
 						800,
-						702
+						700
 					],
 					"dir": 0,
 					"door": 0,
@@ -11493,9 +11725,9 @@
 					"_id": "zTXVpbqz9N3UIuql",
 					"c": [
 						800,
-						702,
+						700,
 						1000,
-						702
+						700
 					],
 					"dir": 0,
 					"door": 1,
@@ -11518,7 +11750,7 @@
 					"_id": "hdTbaNbmu5VYQelD",
 					"c": [
 						1000,
-						702,
+						700,
 						1000,
 						1302
 					],
@@ -11834,7 +12066,7 @@
 						700,
 						1602,
 						613,
-						1602
+						1600
 					],
 					"dir": 0,
 					"door": 0,
@@ -12167,31 +12399,6 @@
 					}
 				},
 				{
-					"_id": "urKBgN5xlw9hM7LJ",
-					"c": [
-						2300,
-						300,
-						2300,
-						500
-					],
-					"dir": 0,
-					"door": 1,
-					"doorSound": "woodHeavy",
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
 					"_id": "sarUfLnquoEFXjQQ",
 					"c": [
 						2300,
@@ -12266,7 +12473,7 @@
 				{
 					"_id": "0nnfEpn45iqKw1PC",
 					"c": [
-						2325,
+						2300,
 						300,
 						2800,
 						300
@@ -12297,31 +12504,6 @@
 					],
 					"dir": 0,
 					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "xbStiwuaKXeOe309",
-					"c": [
-						2800,
-						1100,
-						2600,
-						1100
-					],
-					"dir": 0,
-					"door": 1,
-					"doorSound": "woodHeavy",
 					"ds": 0,
 					"flags": {
 					},
@@ -12418,31 +12600,6 @@
 					],
 					"dir": 0,
 					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "tPtQqbHiDaHBeVlK",
-					"c": [
-						3000,
-						1400,
-						3000,
-						1600
-					],
-					"dir": 0,
-					"door": 1,
-					"doorSound": "stoneBasic",
 					"ds": 0,
 					"flags": {
 					},
@@ -12830,30 +12987,6 @@
 					"dir": 0,
 					"door": 1,
 					"doorSound": "woodBasic",
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "rgN3harWpU8fRUNy",
-					"c": [
-						2100,
-						2300,
-						2300,
-						2300
-					],
-					"dir": 0,
-					"door": 0,
 					"ds": 0,
 					"flags": {
 					},
@@ -13332,31 +13465,7 @@
 						3500,
 						2700,
 						3500,
-						2413
-					],
-					"dir": 0,
-					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "e4RqinSmQUbCFdnR",
-					"c": [
-						3500,
-						2413,
-						3500,
-						2300
+						2400
 					],
 					"dir": 0,
 					"door": 0,
@@ -13404,30 +13513,6 @@
 						3500,
 						2100,
 						3300,
-						2100
-					],
-					"dir": 0,
-					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "RBgkWspKLNO1T1SH",
-					"c": [
-						3300,
-						2100,
-						3100,
 						2100
 					],
 					"dir": 0,
@@ -13498,85 +13583,12 @@
 					"_id": "gJtbHMFBNL99q0VR",
 					"c": [
 						3300,
-						2063,
+						2100,
 						3300,
 						1600
 					],
 					"dir": 0,
 					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "hW7kylVBg0nyJp2v",
-					"c": [
-						3300,
-						1600,
-						3300,
-						1400
-					],
-					"dir": 0,
-					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "evEOl7Z1ZlDPjczh",
-					"c": [
-						3300,
-						1400,
-						3300,
-						900
-					],
-					"dir": 0,
-					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "41yvisi9hdUKgRnl",
-					"c": [
-						3300,
-						900,
-						3100,
-						900
-					],
-					"dir": 0,
-					"door": 1,
-					"doorSound": "woodBasic",
 					"ds": 0,
 					"flags": {
 					},
@@ -13694,30 +13706,6 @@
 						100,
 						3500,
 						100
-					],
-					"dir": 0,
-					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "62xUUXyiTjSwBnYC",
-					"c": [
-						3500,
-						100,
-						3500,
-						500
 					],
 					"dir": 0,
 					"door": 0,
@@ -13933,7 +13921,7 @@
 					"_id": "tBEZvseXOqG4jT32",
 					"c": [
 						3700,
-						475,
+						500,
 						3700,
 						300
 					],
@@ -14290,30 +14278,6 @@
 					}
 				},
 				{
-					"_id": "OKAnzDvRQEGLJXuy",
-					"c": [
-						4700,
-						1700,
-						4800,
-						1700
-					],
-					"dir": 0,
-					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
 					"_id": "CUvu8EO6LhYKyhNR",
 					"c": [
 						4800,
@@ -14342,7 +14306,7 @@
 					"c": [
 						4800,
 						2200,
-						4988,
+						5000,
 						2200
 					],
 					"dir": 0,
@@ -14364,10 +14328,10 @@
 				{
 					"_id": "vReE0Uvy5D8HbI3W",
 					"c": [
-						3525,
-						2413,
+						3500,
+						2400,
 						4100,
-						2413
+						2400
 					],
 					"dir": 0,
 					"door": 0,
@@ -14389,7 +14353,7 @@
 					"_id": "9GU90A7atzMfm9vB",
 					"c": [
 						4100,
-						2413,
+						2400,
 						4100,
 						2100
 					],
@@ -14462,32 +14426,8 @@
 					"c": [
 						4700,
 						2300,
-						4988,
+						5000,
 						2300
-					],
-					"dir": 0,
-					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
-					"_id": "1BhaAQYPBq82zXHc",
-					"c": [
-						4813,
-						1700,
-						4900,
-						1700
 					],
 					"dir": 0,
 					"door": 0,
@@ -14578,30 +14518,6 @@
 					}
 				},
 				{
-					"_id": "N9X22OH1GhIbkNav",
-					"c": [
-						4500,
-						1400,
-						4500,
-						1600
-					],
-					"dir": 0,
-					"door": 0,
-					"ds": 0,
-					"flags": {
-					},
-					"light": 20,
-					"move": 20,
-					"sight": 20,
-					"sound": 20,
-					"threshold": {
-						"attenuation": false,
-						"light": null,
-						"sight": null,
-						"sound": null
-					}
-				},
-				{
 					"_id": "7jR3EsKD3twZJhuN",
 					"c": [
 						4500,
@@ -14653,7 +14569,7 @@
 					"_id": "E6d2PupVcwDNmyMH",
 					"c": [
 						4500,
-						1725,
+						1700,
 						4500,
 						1900
 					],
@@ -14731,6 +14647,438 @@
 					],
 					"dir": 0,
 					"door": 0,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "M6S2YwT7iPjTWjeS",
+					"c": [
+						4700,
+						1700,
+						4800,
+						1700
+					],
+					"dir": 0,
+					"door": 1,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "UFjBe0Ig1VVe8WKG",
+					"c": [
+						4800,
+						1700,
+						4900,
+						1700
+					],
+					"dir": 0,
+					"door": 0,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "uZLTpjKaJKXXOT3J",
+					"c": [
+						3500,
+						2300,
+						3500,
+						2400
+					],
+					"dir": 0,
+					"door": 2,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "iKmgDbyJl82i9IWa",
+					"c": [
+						3300,
+						1400,
+						3300,
+						1100
+					],
+					"dir": 0,
+					"door": 0,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "y75rHwJQRrYOiD1q",
+					"c": [
+						3300,
+						1100,
+						3300,
+						900
+					],
+					"dir": 0,
+					"door": 0,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "wpb5RuHq2IKphySc",
+					"c": [
+						3500,
+						100,
+						3500,
+						400
+					],
+					"dir": 0,
+					"door": 0,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "mR3nJRjV3xgXXkFF",
+					"c": [
+						3500,
+						400,
+						3500,
+						500
+					],
+					"dir": 0,
+					"door": 0,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "JoTRVlO7Z7YtgxOC",
+					"c": [
+						2600,
+						1100,
+						2800,
+						1100
+					],
+					"dir": 0,
+					"door": 1,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "U5uFTGdfmMrECrZS",
+					"c": [
+						3100,
+						900,
+						3300,
+						900
+					],
+					"dir": 0,
+					"door": 1,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "qtHdbuVT3fEbmrk6",
+					"c": [
+						2300,
+						300,
+						2300,
+						500
+					],
+					"dir": 0,
+					"door": 1,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "3eIXchQt2grqajiG",
+					"c": [
+						3000,
+						1400,
+						3000,
+						1600
+					],
+					"dir": 0,
+					"door": 1,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "l0diYYtNSjK4HLxG",
+					"c": [
+						3300,
+						1400,
+						3300,
+						1600
+					],
+					"dir": 0,
+					"door": 1,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "Ux1xrlG7DWmmhsdd",
+					"c": [
+						3100,
+						2100,
+						3300,
+						2100
+					],
+					"dir": 0,
+					"door": 1,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "p9LBieyi5Mmk3hda",
+					"c": [
+						2100,
+						2300,
+						2200,
+						2300
+					],
+					"dir": 0,
+					"door": 0,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "Ea2QcUELViqArIa0",
+					"c": [
+						2200,
+						2300,
+						2300,
+						2300
+					],
+					"dir": 0,
+					"door": 0,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "VDTZIy91hVTFIMXp",
+					"c": [
+						5000,
+						2300,
+						5000,
+						2200
+					],
+					"dir": 0,
+					"door": 0,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "fI57gPyPuzVgbzVN",
+					"c": [
+						4500,
+						1400,
+						4500,
+						1600
+					],
+					"dir": 0,
+					"door": 1,
+					"ds": 0,
+					"flags": {
+					},
+					"light": 20,
+					"move": 20,
+					"sight": 20,
+					"sound": 20,
+					"threshold": {
+						"attenuation": false,
+						"light": null,
+						"sight": null,
+						"sound": null
+					}
+				},
+				{
+					"_id": "KW7mfpUJ2AJDQMO2",
+					"c": [
+						613,
+						1402,
+						613,
+						1600
+					],
+					"dir": 0,
+					"door": 1,
 					"ds": 0,
 					"flags": {
 					},
