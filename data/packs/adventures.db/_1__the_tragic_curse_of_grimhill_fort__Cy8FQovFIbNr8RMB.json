@@ -1582,6 +1582,7 @@
 			},
 			"sort": 0,
 			"system": {
+				"ammoClass": "",
 				"baseWeapon": "dagger",
 				"bonuses": {
 					"attackBonus": "1",
@@ -1607,6 +1608,7 @@
 				},
 				"description": "<p><em>Found under a dirty pillow</em></p><p></p><p><strong>Bonus:</strong> +1 dagger</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -1671,6 +1673,7 @@
 					"value": -1
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -1805,6 +1808,7 @@
 			},
 			"sort": 0,
 			"system": {
+				"ammoClass": "",
 				"baseWeapon": "longsword",
 				"bonuses": {
 					"attackBonus": "1",
@@ -1830,6 +1834,7 @@
 				},
 				"description": "<p>An ornate blade mounted on a jeweled iron handle. </p><p></p><p><strong>Bonus.</strong> +1 longsword. +2 if used against undead. </p><p><strong>Benefit.</strong> if used by a cleric, AC+1 against undead.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",

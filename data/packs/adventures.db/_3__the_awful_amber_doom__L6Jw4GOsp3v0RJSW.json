@@ -7253,6 +7253,7 @@
 					"value": ""
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -7306,6 +7307,7 @@
 				},
 				"description": "",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -7366,6 +7368,7 @@
 				},
 				"description": "<p><em>An unadorned, heavy goblet with a glowing blood-red halo surrounding it. Rumored to be carved from a crimson tooth of the long-dead demon-god, Rhedon.</em></p><p></p><p><strong>Benefit.</strong> Works as a powerful Remove Curse spell. In addition, it can allegedly cure vampirism, lycanthropy, and even bring the dead back to life once every hundred years.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,

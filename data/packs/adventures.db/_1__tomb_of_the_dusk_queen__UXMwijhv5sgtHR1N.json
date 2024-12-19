@@ -2395,7 +2395,7 @@
 		{
 			"_id": "HGxbWm7IFrwR8jXy",
 			"_stats": {
-				"compendiumSource": "Folder.HGxbWm7IFrwR8jXy",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1727278914321,
 				"duplicateSource": null,
@@ -2439,7 +2439,7 @@
 		{
 			"_id": "A6HhfugipPgyZQ4M",
 			"_stats": {
-				"compendiumSource": "Folder.A6HhfugipPgyZQ4M",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1727279614950,
 				"duplicateSource": null,
@@ -2483,7 +2483,7 @@
 		{
 			"_id": "xvXDlBPOD3fvOdpO",
 			"_stats": {
-				"compendiumSource": "Folder.xvXDlBPOD3fvOdpO",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1727278933690,
 				"duplicateSource": null,
@@ -2527,7 +2527,7 @@
 		{
 			"_id": "yrajl2n82RsdeAD1",
 			"_stats": {
-				"compendiumSource": "Folder.yrajl2n82RsdeAD1",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1727279295915,
 				"duplicateSource": null,
@@ -2571,7 +2571,7 @@
 		{
 			"_id": "Cto1yR7ysbIvWrsE",
 			"_stats": {
-				"compendiumSource": "Folder.Cto1yR7ysbIvWrsE",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1727299225178,
 				"duplicateSource": null,
@@ -2649,6 +2649,7 @@
 				},
 				"description": "",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -2790,6 +2791,7 @@
 			},
 			"sort": 200000,
 			"system": {
+				"ammoClass": "",
 				"attackBonus": 0,
 				"baseWeapon": "",
 				"bonuses": {
@@ -2817,6 +2819,7 @@
 				},
 				"description": "<p>A rune-etched mithril longsword with an amethyst pommel.</p><p><strong>Bonus.</strong> Grants +1 to attack and damage rolls.</p><p><strong>Benefit.</strong> Amethyst glows when secret doors/hidden crawls are near.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -2863,6 +2866,7 @@
 			},
 			"sort": 400000,
 			"system": {
+				"ammoClass": "",
 				"attackBonus": 0,
 				"baseWeapon": "",
 				"bonuses": {
@@ -2890,6 +2894,7 @@
 				},
 				"description": "<p>This once-lustrous silver shortspear is on the verge of shattering.</p><p></p><p><strong>Benefit.</strong> Functions as silver weapon. Breaks after two successful hits.</p><p></p><p><strong>Repair (DC 18 INT).</strong> Add two more hits before shattering. Time taken</p><p>to repair triggers random encounter check. Max one attempt.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": false,
 				"predefinedEffects": "",
@@ -2946,6 +2951,7 @@
 				},
 				"description": "<p><em>This glowing moonstone cut into the shape of a stylus is wrapped with</em></p><p><em>silver ribbon and engraved with Elvish writing.</em></p><p></p><p><strong>Benefit.</strong> Once before end of delve, use stone to scribe helpful (or misleading) <strong>two-word message</strong> at any spot in dungeon. This message will appear in glowing moonlight runes at same spot in dungeon next time GM runs this delve for another group of players.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3006,6 +3012,7 @@
 				},
 				"description": "<p><span style=\"font-family: Montserrat-Medium\"><em>A mud-caked hold symbol bearing image of golden tree.</em></span></p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3066,6 +3073,7 @@
 				},
 				"description": "<p><em>Contains painted portrait of young human male and Elvish woman</em></p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3132,6 +3140,7 @@
 					"value": ""
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -3185,6 +3194,7 @@
 				},
 				"description": "<p><em>A polished wedding ring decorated with a shield crest and gold tree.</em></p><p></p><p><strong>Benefit.</strong> Shatter ring to cancel one attack made against you.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3245,6 +3255,7 @@
 				},
 				"description": "<p>A polished jade scarab on a brass chain. Gifted to an Elvish knight from a far-away desert princess.</p><p></p><p><strong>Benefit.</strong> Absorbs 10 points of life drain before turning to sand.</p>",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3305,6 +3316,7 @@
 				},
 				"description": "",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -3372,6 +3384,7 @@
 					"value": -1
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -3432,6 +3445,7 @@
 					"value": "10"
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -3491,6 +3505,7 @@
 					"value": -1
 				},
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"magicItem": true,
 				"predefinedEffects": "",
@@ -3544,6 +3559,7 @@
 				},
 				"description": "",
 				"equipped": false,
+				"isAmmunition": false,
 				"isPhysical": true,
 				"light": {
 					"active": false,
@@ -4303,7 +4319,7 @@
 						"createdTime": 1727302009154,
 						"duplicateSource": null,
 						"lastModifiedBy": "9x0Fx3xohMgaCVFR",
-						"modifiedTime": 1727482750558,
+						"modifiedTime": 1727808551433,
 						"systemId": "shadowdark",
 						"systemVersion": "3.1.2"
 					},
@@ -4482,7 +4498,7 @@
 		{
 			"_id": "ZDJTC0FLzMyb1MLh",
 			"_stats": {
-				"compendiumSource": null,
+				"compendiumSource": "Scene.ZDJTC0FLzMyb1MLh",
 				"coreVersion": "12.331",
 				"createdTime": 1727302326276,
 				"duplicateSource": null,
@@ -5116,119 +5132,6 @@
 			],
 			"tokenVision": true,
 			"tokens": [
-				{
-					"_id": "vRSHr0ch5f1tE475",
-					"_regions": [
-					],
-					"actorId": "YYUohc6mL8lifBzy",
-					"actorLink": true,
-					"alpha": 1,
-					"appendNumber": false,
-					"bar1": {
-						"attribute": "attributes.hp"
-					},
-					"bar2": {
-						"attribute": null
-					},
-					"delta": {
-						"_id": "elVbRl9ldVzVxt3f",
-						"effects": [
-						],
-						"flags": {
-						},
-						"img": null,
-						"items": [
-						],
-						"name": null,
-						"system": {
-						},
-						"type": null
-					},
-					"detectionModes": [
-					],
-					"displayBars": 0,
-					"displayName": 0,
-					"disposition": -1,
-					"elevation": 0,
-					"flags": {
-					},
-					"height": 1,
-					"hexagonalShape": 0,
-					"hidden": false,
-					"light": {
-						"alpha": 0.2,
-						"angle": 360,
-						"animation": {
-							"intensity": 1,
-							"reverse": false,
-							"speed": 1,
-							"type": "torch"
-						},
-						"attenuation": 0.5,
-						"bright": 5,
-						"color": "#d1c846",
-						"coloration": 1,
-						"contrast": 0,
-						"darkness": {
-							"max": 1,
-							"min": 0
-						},
-						"dim": 30,
-						"luminosity": 0.5,
-						"negative": false,
-						"priority": 0,
-						"saturation": 0,
-						"shadows": 0
-					},
-					"lockRotation": false,
-					"locked": false,
-					"name": "Rina",
-					"occludable": {
-						"radius": 0
-					},
-					"prependAdjective": false,
-					"ring": {
-						"colors": {
-							"background": null,
-							"ring": null
-						},
-						"effects": 1,
-						"enabled": false,
-						"subject": {
-							"scale": 1,
-							"texture": null
-						}
-					},
-					"rotation": 0,
-					"sight": {
-						"angle": 360,
-						"attenuation": 0.1,
-						"brightness": 0,
-						"color": null,
-						"contrast": 0,
-						"enabled": true,
-						"range": 0,
-						"saturation": 0,
-						"visionMode": "basic"
-					},
-					"sort": 0,
-					"texture": {
-						"alphaThreshold": 0.75,
-						"anchorX": 0.5,
-						"anchorY": 0.5,
-						"fit": "contain",
-						"offsetX": 0,
-						"offsetY": 0,
-						"rotation": 0,
-						"scaleX": 1,
-						"scaleY": 1,
-						"src": "icons/svg/mystery-man.svg",
-						"tint": "#ffffff"
-					},
-					"width": 1,
-					"x": 3240,
-					"y": 1920
-				}
 			],
 			"walls": [
 				{
