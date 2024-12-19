@@ -13,7 +13,7 @@ const PACKAGE_ID = "shadowdark-community-content";
 const MODULE_SOURCE_PATH = "./module";
 const PACK_DST_PATH  = "./module/packs";
 const NOTES_SRC_PATH = "./RELEASE_NOTES.md";
-const JOURNAL_JSON = "./data/packs/journals.db/release_notes__0hRI4ofgCntXMWAg.json";
+const JOURNAL_JSON = "./data/packs/journals.db/community_content__0hRI4ofgCntXMWAg.json";
 
 const packHandler = new PackHandler();
 
