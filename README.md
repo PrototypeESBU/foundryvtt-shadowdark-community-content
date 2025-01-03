@@ -8,6 +8,8 @@ This is a module for use with Shadowdark RPG on Foundry VTT. The module provides
 - **The Diabolical Lair of Professor Memnon** by Richard Jackson
 - **Tomb of the Dusk Queen** by Sersa Victory
 - **The Tragic Curse of Grimhill Fort** by Reverse Ettin Games
+- **The Lord of Mad Mansion** by Sticky
+- **Against the Cult of the Crimson Hand** by Runeforged Tabletop Gaming
 
 ### Classes
 - **Explorer Class** by Reverse Ettin Games
@@ -17,7 +19,7 @@ This is a module for use with Shadowdark RPG on Foundry VTT. The module provides
 - Indexed lists of core rules monsters by level and name
 
 ### Macros
-- GM and player utility macros by Prototype
+- GM and player utility macros by Prototype and Evounnamed
 
 ## Contributing
 Submit content or report issues on the [Github page](https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content/issues/new/choose)

@@ -7,6 +7,7 @@
 
 ### Macros
 - Party Resource Report by Evounnamed
+- Crawling Helper by Evounnamed
 - Apply Community Token Art by Prototype
 
 # v1.1
