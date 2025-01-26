@@ -2,7 +2,7 @@
     "id": "shadowdark-community-content",
     "title": "Shadowdark Community Content",
 	"description": "A collection of community provided content for Shadowdark RPG",
-    "version": "1.2",
+    "version": "1.3",
     "compatibility": {
         "minimum": "12",
         "verified": "12"
@@ -16,8 +16,8 @@
                 "id": "shadowdark",
                 "type": "system",
                 "compatibility": {
-                    "minimum": "3.2.1",
-                    "verified": "3.2.2"
+                    "minimum": "3.3.0",
+                    "verified": "3.3.0"
                 }
             }
         ]
@@ -101,5 +101,5 @@
 	},
     "url": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content",
 	"manifest": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content/releases/latest/download/module.json",
-	"download": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content/releases/download/release-v1.2/shadowdark-community-content.zip"
+	"download": "https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content/releases/download/release-v1.3/shadowdark-community-content.zip"
 }
