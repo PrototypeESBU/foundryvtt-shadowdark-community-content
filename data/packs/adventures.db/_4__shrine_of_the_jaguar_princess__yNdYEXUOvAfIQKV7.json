@@ -3703,7 +3703,7 @@
 		{
 			"_id": "LkxpdP5P0n1MofJH",
 			"_stats": {
-				"compendiumSource": "Folder.LkxpdP5P0n1MofJH",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1737868951148,
 				"duplicateSource": null,
@@ -3747,7 +3747,7 @@
 		{
 			"_id": "zkMuMrXBdR8Z3hO8",
 			"_stats": {
-				"compendiumSource": "Folder.zkMuMrXBdR8Z3hO8",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1737869023176,
 				"duplicateSource": null,
@@ -3791,7 +3791,7 @@
 		{
 			"_id": "Ou4fCnBdPxF3o087",
 			"_stats": {
-				"compendiumSource": "Folder.Ou4fCnBdPxF3o087",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1737868966066,
 				"duplicateSource": null,
@@ -3923,7 +3923,7 @@
 		{
 			"_id": "GC7Evmo9XfLJv6LG",
 			"_stats": {
-				"compendiumSource": "Folder.GC7Evmo9XfLJv6LG",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1737868994764,
 				"duplicateSource": null,
@@ -3967,7 +3967,7 @@
 		{
 			"_id": "hTaqhEbfHkJFzwSF",
 			"_stats": {
-				"compendiumSource": "Folder.hTaqhEbfHkJFzwSF",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1737869000676,
 				"duplicateSource": null,
@@ -4011,7 +4011,7 @@
 		{
 			"_id": "vrRlPOCrTbNizcHE",
 			"_stats": {
-				"compendiumSource": "Folder.vrRlPOCrTbNizcHE",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1737872087137,
 				"duplicateSource": null,
@@ -5540,7 +5540,7 @@
 		{
 			"_id": "rqEYtio8e9nCpTxX",
 			"_stats": {
-				"compendiumSource": "Item.rqEYtio8e9nCpTxX",
+				"compendiumSource": null,
 				"coreVersion": "12.331",
 				"createdTime": 1737929003816,
 				"duplicateSource": null,
@@ -7136,7 +7136,7 @@
 						"createdTime": null,
 						"duplicateSource": null,
 						"lastModifiedBy": "c0RDWj8i50iqquQq",
-						"modifiedTime": 1737926399741,
+						"modifiedTime": 1737934679024,
 						"systemId": "shadowdark",
 						"systemVersion": "3.3.0"
 					},
@@ -7154,7 +7154,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<p><strong>Painted Clay Figures</strong>: Size of children, stand all throughout cluster of square tombs. <strong>Limestone Slabs</strong>: Set into center of walls, depict women in feathered crowns stringing teeth onto necklaces. <strong>Bare Footprints</strong>: Faintly visible in thin layer of ash covering floor.</p><ul><li><p><strong>Twist Heads Off Figures</strong>: Clay figures are actually urns. Most contain damp ash, one contains necklace of polished teeth worth 20 gp and @UUID[Item.Efexs9CWhVdSAEWE]{potion of extra-healing}.</p></li><li><p><strong>@UUID[Actor.K2FbCP1QvRgOGDLZ]{Fire Beetle Swarms}</strong>: Two swarms emerge from cracks in walls and attack once they sense vibration of footsteps or voices.</p></li><li><p><strong>Secret Door</strong>: One wall-slab in the northernmost crypt is not limestone, but rather clay. Too tough to break down, but @UUID[Item.Rgk5HpVNJAcpwUcz]{circlet of the clay titans} can be used to part clay. Leads into hidden passageway damp with mold.</p></li></ul><p></p><img src=\"modules/shadowdark-community-content/assets/shrine-of-the-jaguar-princess/img137.webp\" />",
+						"content": "<p><strong>Painted Clay Figures</strong>: Size of children, stand all throughout cluster of square tombs. <strong>Limestone Slabs</strong>: Set into center of walls, depict women in feathered crowns stringing teeth onto necklaces. <strong>Bare Footprints</strong>: Faintly visible in thin layer of ash covering floor.</p><ul><li><p><strong>Twist Heads Off Figures</strong>: Clay figures are actually urns. Most contain damp ash, one contains necklace of polished teeth worth 20 gp and @UUID[Item.h8rSEHckdd2MVMxN]{potion of extra-healing}.</p></li><li><p><strong>@UUID[Actor.K2FbCP1QvRgOGDLZ]{Fire Beetle Swarms}</strong>: Two swarms emerge from cracks in walls and attack once they sense vibration of footsteps or voices.</p></li><li><p><strong>Secret Door</strong>: One wall-slab in the northernmost crypt is not limestone, but rather clay. Too tough to break down, but @UUID[Item.Rgk5HpVNJAcpwUcz]{circlet of the clay titans} can be used to part clay. Leads into hidden passageway damp with mold.</p></li></ul><p></p><img src=\"modules/shadowdark-community-content/assets/shrine-of-the-jaguar-princess/img137.webp\" />",
 						"format": 1
 					},
 					"title": {
@@ -7291,8 +7291,8 @@
 						"coreVersion": "12.331",
 						"createdTime": null,
 						"duplicateSource": null,
-						"lastModifiedBy": null,
-						"modifiedTime": null,
+						"lastModifiedBy": "c0RDWj8i50iqquQq",
+						"modifiedTime": 1737934616453,
 						"systemId": "shadowdark",
 						"systemVersion": "3.3.0"
 					},
@@ -7300,7 +7300,7 @@
 					},
 					"image": {
 					},
-					"name": "Part III",
+					"name": "Part III: Devoured Star",
 					"ownership": {
 						"default": -1,
 						"nVZKe7zMWaavRsCH": 3
@@ -7487,7 +7487,7 @@
 						"createdTime": null,
 						"duplicateSource": null,
 						"lastModifiedBy": "c0RDWj8i50iqquQq",
-						"modifiedTime": 1737872326037,
+						"modifiedTime": 1737938449229,
 						"systemId": "shadowdark",
 						"systemVersion": "3.3.0"
 					},
@@ -7505,7 +7505,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<h2>CREDITS</h2><p><strong>Design</strong></p><p>Sersa Victory (<a href=\"http://linktr.ee/sersavictory\">linktr.ee/sersavictory</a>)</p><p></p><p><strong>Editing</strong></p><p>Erin Kelley</p><p></p><p><strong>Illustrations</strong></p><p>Front Cover — Jenn Mansell</p><p>Other Illustrations — Pixabay, game-icons.net</p><p></p><p><strong>Inspiration</strong></p><p>Elements of this module were inspired in part by the works of Robert E. Howard and C1: The Hidden Shrine of Tamoachan by Harold Johnson and Jeff R. Leason</p><p></p><h2>LICENSE</h2><p><strong>Tomb of the Dusk Queen</strong> is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with The Arcane Library, LLC. Shadowdark RPG © 2023 The Arcane Library, LLC. Module text © 2023 Trident Gamebooks, LLC.</p>",
+						"content": "<h2>CREDITS</h2><p><strong>Design</strong></p><p>Sersa Victory (<a href=\"http://linktr.ee/sersavictory\">linktr.ee/sersavictory</a>)</p><p></p><p><strong>Editing</strong></p><p>Erin Kelley</p><p></p><p><strong>Illustrations</strong></p><p>Front Cover — Jenn Mansell</p><p>Other Illustrations — Pixabay, game-icons.net</p><p></p><p><strong>Inspiration</strong></p><p>Elements of this module were inspired in part by the works of Robert E. Howard and C1: The Hidden Shrine of Tamoachan by Harold Johnson and Jeff R. Leason<br /><br /><strong>Foundry VTT Conversion</strong><br />John K. Watson (<a href=\"https://github.com/jkwatson\">github.com/jkwatson</a>)</p><p></p><h2>LICENSE</h2><p><strong>Tomb of the Dusk Queen</strong> is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with The Arcane Library, LLC. Shadowdark RPG © 2023 The Arcane Library, LLC. Module text © 2023 Trident Gamebooks, LLC.</p>",
 						"format": 1
 					},
 					"title": {
