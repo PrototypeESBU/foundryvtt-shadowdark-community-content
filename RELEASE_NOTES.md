@@ -1,3 +1,9 @@
+# v1.3
+
+## Added
+### Adventures
+- Shrine of the Jaguar Princess by Sersa Victory
+
 # v1.2
 
 ## Added
