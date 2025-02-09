@@ -10,6 +10,7 @@ This is a module for use with Shadowdark RPG on Foundry VTT. The module provides
 - **The Tragic Curse of Grimhill Fort** by Reverse Ettin Games
 - **The Lord of Mad Mansion** by Sticky
 - **Against the Cult of the Crimson Hand** by Runeforged Tabletop Gaming
+- **Shrine of the Jaguar Princess** by Sersa Victory
 
 ### Classes
 - **Explorer Class** by Reverse Ettin Games
