@@ -31,7 +31,7 @@
 		"disposition": -1,
 		"flags": {
 		},
-		"height": 1,
+		"height": 7,
 		"hexagonalShape": 0,
 		"light": {
 			"alpha": 0.5,
@@ -102,7 +102,7 @@
 			"src": "modules/shadowdark-community-content/assets/tokens/default_monster.webp",
 			"tint": "#ffffff"
 		},
-		"width": 1
+		"width": 7
 	},
 	"system": {
 		"abilities": {
