@@ -1,0 +1,23 @@
+{
+	"_id": "TiZu2sGC50ABk5HT",
+	"_key": "!scenes.walls!yHvzTX177OP4IFO2.TiZu2sGC50ABk5HT",
+	"c": [
+		5952,
+		5496,
+		5904,
+		5496
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

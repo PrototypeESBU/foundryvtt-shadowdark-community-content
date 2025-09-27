@@ -1,0 +1,23 @@
+{
+	"_id": "wgQC6PGVYACKTnKz",
+	"_key": "!scenes.walls!yHvzTX177OP4IFO2.wgQC6PGVYACKTnKz",
+	"c": [
+		6840,
+		4240,
+		6864,
+		4224
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

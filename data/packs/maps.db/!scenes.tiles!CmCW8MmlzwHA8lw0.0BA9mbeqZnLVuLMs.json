@@ -1,0 +1,39 @@
+{
+	"_id": "0BA9mbeqZnLVuLMs",
+	"_key": "!scenes.tiles!CmCW8MmlzwHA8lw0.0BA9mbeqZnLVuLMs",
+	"alpha": 1,
+	"elevation": 0,
+	"height": 192,
+	"hidden": false,
+	"locked": false,
+	"occlusion": {
+		"alpha": 0,
+		"mode": 0
+	},
+	"restrictions": {
+		"light": false,
+		"weather": false
+	},
+	"rotation": 0,
+	"texture": {
+		"alphaThreshold": 0.75,
+		"anchorX": 0.5,
+		"anchorY": 0.5,
+		"fit": "fill",
+		"offsetX": 0,
+		"offsetY": 0,
+		"rotation": 0,
+		"scaleX": 1,
+		"scaleY": 1,
+		"src": "modules/shadowdark-community-content/assets/tiles/Classic%20Dungeon%20Symbols/Statue1x1.png",
+		"tint": "#ffffff"
+	},
+	"video": {
+		"autoplay": true,
+		"loop": true,
+		"volume": 0
+	},
+	"width": 192,
+	"x": 6942,
+	"y": 4507
+}

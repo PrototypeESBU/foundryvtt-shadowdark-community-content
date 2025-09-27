@@ -1,0 +1,39 @@
+{
+	"_id": "uwMCkIs1dZ7Grxat",
+	"_key": "!scenes.tiles!6GUiusTsSaxVw4Ns.uwMCkIs1dZ7Grxat",
+	"alpha": 1,
+	"elevation": 0,
+	"height": 256,
+	"hidden": true,
+	"locked": false,
+	"occlusion": {
+		"alpha": 0,
+		"mode": 0
+	},
+	"restrictions": {
+		"light": false,
+		"weather": false
+	},
+	"rotation": 0,
+	"texture": {
+		"alphaThreshold": 0.75,
+		"anchorX": 0.5,
+		"anchorY": 0.5,
+		"fit": "fill",
+		"offsetX": 0,
+		"offsetY": 0,
+		"rotation": 0,
+		"scaleX": 1,
+		"scaleY": 1,
+		"src": "modules/shadowdark-community-content/assets/tiles/map-extras/prototype-bittermold-keep-illusion-wall-3x2.webp",
+		"tint": "#ffffff"
+	},
+	"video": {
+		"autoplay": true,
+		"loop": true,
+		"volume": 0
+	},
+	"width": 384,
+	"x": 5376,
+	"y": 4608
+}

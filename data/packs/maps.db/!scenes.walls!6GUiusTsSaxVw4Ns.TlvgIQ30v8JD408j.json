@@ -1,0 +1,23 @@
+{
+	"_id": "TlvgIQ30v8JD408j",
+	"_key": "!scenes.walls!6GUiusTsSaxVw4Ns.TlvgIQ30v8JD408j",
+	"c": [
+		7584,
+		4312,
+		7528,
+		4312
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

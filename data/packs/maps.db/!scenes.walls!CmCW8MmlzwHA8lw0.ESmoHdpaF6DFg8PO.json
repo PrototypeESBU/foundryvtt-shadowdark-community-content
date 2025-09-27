@@ -1,0 +1,23 @@
+{
+	"_id": "ESmoHdpaF6DFg8PO",
+	"_key": "!scenes.walls!CmCW8MmlzwHA8lw0.ESmoHdpaF6DFg8PO",
+	"c": [
+		8176,
+		1904,
+		8176,
+		1536
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

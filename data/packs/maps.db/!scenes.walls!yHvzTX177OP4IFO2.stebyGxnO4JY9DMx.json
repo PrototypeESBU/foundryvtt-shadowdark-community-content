@@ -1,0 +1,23 @@
+{
+	"_id": "stebyGxnO4JY9DMx",
+	"_key": "!scenes.walls!yHvzTX177OP4IFO2.stebyGxnO4JY9DMx",
+	"c": [
+		8088,
+		1712,
+		8120,
+		1720
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

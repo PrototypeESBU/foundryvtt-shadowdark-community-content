@@ -1,0 +1,39 @@
+{
+	"_id": "LBXUz4K0VDCNKw3X",
+	"_key": "!scenes.tiles!bj5ZQZXppCaf8Yjc.LBXUz4K0VDCNKw3X",
+	"alpha": 1,
+	"elevation": 0,
+	"height": 111.7,
+	"hidden": false,
+	"locked": false,
+	"occlusion": {
+		"alpha": 0,
+		"mode": 0
+	},
+	"restrictions": {
+		"light": false,
+		"weather": false
+	},
+	"rotation": 180,
+	"texture": {
+		"alphaThreshold": 0.75,
+		"anchorX": 0.5,
+		"anchorY": 0.5,
+		"fit": "fill",
+		"offsetX": 0,
+		"offsetY": 0,
+		"rotation": 0,
+		"scaleX": 1,
+		"scaleY": 1,
+		"src": "modules/shadowdark-community-content/assets/tiles/Classic%20Dungeon%20Symbols/StairsUpDownBox1x1.png",
+		"tint": "#ffffff"
+	},
+	"video": {
+		"autoplay": true,
+		"loop": true,
+		"volume": 0
+	},
+	"width": 138.1,
+	"x": 2379,
+	"y": 3526
+}

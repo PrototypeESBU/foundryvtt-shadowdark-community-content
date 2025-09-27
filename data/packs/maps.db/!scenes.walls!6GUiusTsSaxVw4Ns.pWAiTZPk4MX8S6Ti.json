@@ -1,0 +1,23 @@
+{
+	"_id": "pWAiTZPk4MX8S6Ti",
+	"_key": "!scenes.walls!6GUiusTsSaxVw4Ns.pWAiTZPk4MX8S6Ti",
+	"c": [
+		9392,
+		4624,
+		9432,
+		4568
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

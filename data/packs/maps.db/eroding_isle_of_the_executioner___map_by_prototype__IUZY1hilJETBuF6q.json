@@ -1,0 +1,154 @@
+{
+	"_id": "IUZY1hilJETBuF6q",
+	"_key": "!scenes!IUZY1hilJETBuF6q",
+	"active": false,
+	"background": {
+		"alphaThreshold": 0,
+		"anchorX": 0,
+		"anchorY": 0,
+		"fit": "fill",
+		"offsetX": 0,
+		"offsetY": 0,
+		"rotation": 0,
+		"scaleX": 1,
+		"scaleY": 1,
+		"src": "modules/shadowdark-community-content/assets/maps/eroding-isle-of-the-executioner/prototype.webp",
+		"tint": "#ffffff"
+	},
+	"backgroundColor": "#1c3042",
+	"drawings": [
+	],
+	"environment": {
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"cycle": true,
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"enabled": true,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"fog": {
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		},
+		"exploration": true,
+		"overlay": null,
+		"reset": 1701824144243
+	},
+	"folder": "eu3z9euSIIHNkXDr",
+	"foreground": null,
+	"foregroundElevation": 20,
+	"grid": {
+		"alpha": 0,
+		"color": "#000000",
+		"distance": 5,
+		"size": 128,
+		"style": "solidLines",
+		"thickness": 1,
+		"type": 1,
+		"units": "ft"
+	},
+	"height": 3072,
+	"initial": {
+		"scale": null,
+		"x": null,
+		"y": null
+	},
+	"journal": null,
+	"journalEntryPage": null,
+	"lights": [
+	],
+	"name": "Eroding Isle of the Executioner - Map by Prototype",
+	"navName": "Eroding Isle of the Executioner",
+	"navOrder": 0,
+	"navigation": false,
+	"notes": [
+	],
+	"padding": 0.25,
+	"playlist": null,
+	"playlistSound": null,
+	"regions": [
+	],
+	"sounds": [
+	],
+	"templates": [
+	],
+	"thumb": "worlds/package-world/assets/scenes/lTu5z9BjL5fqyAiQ-thumb.webp",
+	"tiles": [
+		"fyNOW5Yu8RmDeSkx",
+		"t3h1qOYZqjEpVewn",
+		"RRCb5qNAYJ6wKL0Z",
+		"MpJWMAurfSuZgoJW",
+		"YafaTYNZg0XCF6Lv",
+		"deFRVlh0PLYx9zbn"
+	],
+	"tokenVision": true,
+	"tokens": [
+	],
+	"walls": [
+		"p9L7iwFKvfcxaxHD",
+		"k3UvOpEjh4b7T0Ji",
+		"GdMBj2gGfcFEWF7W",
+		"GIzRC2LWhBH9fX38",
+		"RZilfjwvmIBAYAXK",
+		"vIduTCsFRE6YO6NB",
+		"RmuPhbJgG55qL1zw",
+		"v6jPzODaw1S0ONfk",
+		"BX7kiLiotlwdcgUO",
+		"47oMuWHaD1z5CQuQ",
+		"5srxh8zoLRphFBRM",
+		"ND7c67IGQkvNNDTL",
+		"lsXXjkkNeXU5Fkno",
+		"3bZN7hKWVxWv6B9x",
+		"UkCwrMwDvFeA9tyL",
+		"tp8PF5WqLRG7TX3y",
+		"VmwZtdpwWaIv2Zao",
+		"2mbh0ZMU9Me3ONez",
+		"JJBa5Y38VPtgimX2",
+		"ltD9EutL64o13Rop",
+		"eE0qxwDGqs6sViZw",
+		"3hVbIswHh6yHO40f",
+		"am59dFIbClRHxiGD",
+		"wbzsmC87bLK4aH2v",
+		"YwLG8U3w7jxTqJPL",
+		"yFAwoJbJUZQXvokX",
+		"LAj0T7tXh3eima9c",
+		"nhd08Bo8ug3NZrT2",
+		"LvqQrC7rjVAYqnTd",
+		"IejstLFRtC03zJZn",
+		"lsgSONDBGh7Mu6YL",
+		"IifcM6JpM95wRhcv",
+		"w81rKmuWlriPesHv",
+		"02GWJmo3fZjtHLjn",
+		"ZDNk0FU719JgtTsz",
+		"v26DOXRypTctasHC"
+	],
+	"weather": "",
+	"width": 3072
+}

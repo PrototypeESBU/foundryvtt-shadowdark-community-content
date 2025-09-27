@@ -1,0 +1,23 @@
+{
+	"_id": "cvpSr04Z2FkEskcf",
+	"_key": "!scenes.walls!8s55BOd8k5R1K3WG.cvpSr04Z2FkEskcf",
+	"c": [
+		1928,
+		1992,
+		1984,
+		1880
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}
