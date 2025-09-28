@@ -1,0 +1,29 @@
+{
+	"_id": "Fy4zXDYhgQbRHDws",
+	"_key": "!scenes.notes!9o5g2dJ7f4aYcmXg.Fy4zXDYhgQbRHDws",
+	"elevation": 0,
+	"entryId": "FprNeOJ2mcSRv7Pl",
+	"fontFamily": "Signika",
+	"fontSize": 32,
+	"global": false,
+	"iconSize": 40,
+	"pageId": "1moVU3Fic8mrMfok",
+	"text": "",
+	"textAnchor": 1,
+	"textColor": "#ffffff",
+	"texture": {
+		"alphaThreshold": 0,
+		"anchorX": 0.5,
+		"anchorY": 0.5,
+		"fit": "contain",
+		"offsetX": 0,
+		"offsetY": 0,
+		"rotation": 0,
+		"scaleX": 1,
+		"scaleY": 1,
+		"src": "icons/svg/book.svg",
+		"tint": "#ffffff"
+	},
+	"x": 3800,
+	"y": 1300
+}

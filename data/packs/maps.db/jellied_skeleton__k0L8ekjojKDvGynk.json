@@ -1,0 +1,98 @@
+{
+	"_id": "k0L8ekjojKDvGynk",
+	"_key": "!scenes.tokens!9o5g2dJ7f4aYcmXg.k0L8ekjojKDvGynk",
+	"_regions": [
+	],
+	"actorId": "ulNxYSQR6AqenuIC",
+	"actorLink": false,
+	"alpha": 1,
+	"appendNumber": false,
+	"bar1": {
+		"attribute": null
+	},
+	"bar2": {
+		"attribute": null
+	},
+	"delta": "pIVUV97hUKdH1jxy",
+	"detectionModes": [
+	],
+	"displayBars": 0,
+	"displayName": 20,
+	"disposition": -1,
+	"elevation": 0,
+	"height": 1,
+	"hexagonalShape": 0,
+	"hidden": false,
+	"light": {
+		"alpha": 0.5,
+		"angle": 360,
+		"animation": {
+			"intensity": 5,
+			"reverse": false,
+			"speed": 5,
+			"type": null
+		},
+		"attenuation": 0.5,
+		"bright": 0,
+		"color": null,
+		"coloration": 1,
+		"contrast": 0,
+		"darkness": {
+			"max": 1,
+			"min": 0
+		},
+		"dim": 0,
+		"luminosity": 0.5,
+		"negative": false,
+		"priority": 0,
+		"saturation": 0,
+		"shadows": 0
+	},
+	"lockRotation": false,
+	"locked": false,
+	"name": "Jellied Skeleton",
+	"occludable": {
+		"radius": 0
+	},
+	"prependAdjective": false,
+	"ring": {
+		"colors": {
+			"background": null,
+			"ring": null
+		},
+		"effects": 0,
+		"enabled": false,
+		"subject": {
+			"scale": 1,
+			"texture": null
+		}
+	},
+	"rotation": 0,
+	"sight": {
+		"angle": 360,
+		"attenuation": 0.1,
+		"brightness": 0,
+		"color": null,
+		"contrast": 0,
+		"enabled": false,
+		"range": 0,
+		"saturation": 0,
+		"visionMode": "basic"
+	},
+	"texture": {
+		"alphaThreshold": 0.75,
+		"anchorX": 0.5,
+		"anchorY": 0.5,
+		"fit": "contain",
+		"offsetX": 0,
+		"offsetY": 0,
+		"rotation": 0,
+		"scaleX": 1,
+		"scaleY": 1,
+		"src": "modules/shadowdark-community-content/assets/trial-of-the-slime-lord/Jellied%20Skeleton%20Token.png",
+		"tint": "#ffffff"
+	},
+	"width": 1,
+	"x": 5600,
+	"y": 3000
+}

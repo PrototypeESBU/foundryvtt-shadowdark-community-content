@@ -1,0 +1,23 @@
+{
+	"_id": "OnMyo5W3ay3qJ4GL",
+	"_key": "!scenes.walls!9o5g2dJ7f4aYcmXg.OnMyo5W3ay3qJ4GL",
+	"c": [
+		5363,
+		1088,
+		5288,
+		1171
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

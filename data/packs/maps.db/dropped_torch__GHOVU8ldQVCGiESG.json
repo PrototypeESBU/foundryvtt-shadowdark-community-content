@@ -1,0 +1,98 @@
+{
+	"_id": "GHOVU8ldQVCGiESG",
+	"_key": "!scenes.tokens!9o5g2dJ7f4aYcmXg.GHOVU8ldQVCGiESG",
+	"_regions": [
+	],
+	"actorId": "XqTHsBxjxRbCiLdY",
+	"actorLink": false,
+	"alpha": 1,
+	"appendNumber": false,
+	"bar1": {
+		"attribute": "attributes.hp"
+	},
+	"bar2": {
+		"attribute": null
+	},
+	"delta": "oZxxY4IchQeyPmyK",
+	"detectionModes": [
+	],
+	"displayBars": 0,
+	"displayName": 0,
+	"disposition": -1,
+	"elevation": 0,
+	"height": 1,
+	"hexagonalShape": 0,
+	"hidden": false,
+	"light": {
+		"alpha": 0.2,
+		"angle": 360,
+		"animation": {
+			"intensity": 1,
+			"reverse": false,
+			"speed": 1,
+			"type": "torch"
+		},
+		"attenuation": 0.5,
+		"bright": 5,
+		"color": "#d1c846",
+		"coloration": 1,
+		"contrast": 0,
+		"darkness": {
+			"max": 1,
+			"min": 0
+		},
+		"dim": 30,
+		"luminosity": 0.5,
+		"negative": false,
+		"priority": 0,
+		"saturation": 0,
+		"shadows": 0
+	},
+	"lockRotation": false,
+	"locked": false,
+	"name": "Dropped Torch",
+	"occludable": {
+		"radius": 0
+	},
+	"prependAdjective": false,
+	"ring": {
+		"colors": {
+			"background": null,
+			"ring": null
+		},
+		"effects": 1,
+		"enabled": false,
+		"subject": {
+			"scale": 1,
+			"texture": null
+		}
+	},
+	"rotation": 0,
+	"sight": {
+		"angle": 360,
+		"attenuation": 0.1,
+		"brightness": 0,
+		"color": null,
+		"contrast": 0,
+		"enabled": false,
+		"range": 0,
+		"saturation": 0,
+		"visionMode": "basic"
+	},
+	"texture": {
+		"alphaThreshold": 0.75,
+		"anchorX": 0.5,
+		"anchorY": 0.5,
+		"fit": "contain",
+		"offsetX": 0,
+		"offsetY": 0,
+		"rotation": 0,
+		"scaleX": 0.5,
+		"scaleY": 0.5,
+		"src": "icons/sundries/lights/torch-purple.webp",
+		"tint": "#ffffff"
+	},
+	"width": 1,
+	"x": 3900,
+	"y": 1000
+}

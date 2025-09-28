@@ -1,0 +1,23 @@
+{
+	"_id": "w1990ECv2E6DPeTV",
+	"_key": "!scenes.walls!9o5g2dJ7f4aYcmXg.w1990ECv2E6DPeTV",
+	"c": [
+		1988,
+		3050,
+		1950,
+		3063
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}
