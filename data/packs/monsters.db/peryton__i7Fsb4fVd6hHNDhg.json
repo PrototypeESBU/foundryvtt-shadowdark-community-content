@@ -29,7 +29,7 @@
 		"flags": {
 		},
 		"height": 2,
-		"hexagonalShape": 0,
+		"hexagonalShape": 1,
 		"light": {
 			"alpha": 0.5,
 			"angle": 360,
