@@ -3594,7 +3594,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<img src=\"worlds/package-world/assets/pages/FprNeOJ2mcSRv7Pl-pages-bY7yfi2K3xC6EbBc-image-MZxOouLseCVTRRv8.png\" />",
+						"content": "<img src=\"modules\shadowdark-community-content\assets\trial-of-the-slime-lord\cover.webp\" />",
 						"format": 1
 					},
 					"title": {
@@ -4600,7 +4600,7 @@
 			],
 			"templates": [
 			],
-			"thumb": "worlds/package-world/assets/scenes/DJ5RLgtUYxSq9AUT-thumb.webp",
+			"thumb": "",
 			"tiles": [
 				{
 					"_id": "hZn5UReMwD6UPzut",
@@ -17975,7 +17975,7 @@
 			],
 			"templates": [
 			],
-			"thumb": "worlds/package-world/assets/scenes/Kv3iCsSkMDHvtYtD-thumb.webp",
+			"thumb": "",
 			"tiles": [
 				{
 					"_id": "hZn5UReMwD6UPzut",
