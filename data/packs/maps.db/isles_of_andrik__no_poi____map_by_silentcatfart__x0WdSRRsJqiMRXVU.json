@@ -7,8 +7,8 @@
 		"anchorX": 0,
 		"anchorY": 0,
 		"fit": "fill",
-		"offsetX": 61,
-		"offsetY": -1,
+		"offsetX": 128,
+		"offsetY": -8,
 		"rotation": 0,
 		"scaleX": 1,
 		"scaleY": 1,
@@ -67,7 +67,7 @@
 		"alpha": 0.3,
 		"color": "#000000",
 		"distance": 6,
-		"size": 222,
+		"size": 256,
 		"style": "solidLines",
 		"thickness": 1,
 		"type": 5,
@@ -89,7 +89,7 @@
 	"navigation": false,
 	"notes": [
 	],
-	"padding": 0.05,
+	"padding": 0.25,
 	"playlist": null,
 	"playlistSound": null,
 	"regions": [

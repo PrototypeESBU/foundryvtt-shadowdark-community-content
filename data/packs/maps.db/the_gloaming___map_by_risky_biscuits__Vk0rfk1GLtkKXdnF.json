@@ -7,8 +7,8 @@
 		"anchorX": 0,
 		"anchorY": 0,
 		"fit": "fill",
-		"offsetX": 59,
-		"offsetY": -105,
+		"offsetX": 120,
+		"offsetY": -8,
 		"rotation": 0,
 		"scaleX": 1,
 		"scaleY": 1,
@@ -66,12 +66,12 @@
 	"grid": {
 		"alpha": 0,
 		"color": "#000000",
-		"distance": 5,
-		"size": 208,
+		"distance": 2,
+		"size": 240,
 		"style": "solidLines",
 		"thickness": 1,
-		"type": 4,
-		"units": "ft"
+		"type": 5,
+		"units": "miles"
 	},
 	"height": 2880,
 	"initial": {
@@ -89,7 +89,7 @@
 	"navigation": false,
 	"notes": [
 	],
-	"padding": 0.15,
+	"padding": 0.25,
 	"playlist": null,
 	"playlistSound": null,
 	"regions": [
