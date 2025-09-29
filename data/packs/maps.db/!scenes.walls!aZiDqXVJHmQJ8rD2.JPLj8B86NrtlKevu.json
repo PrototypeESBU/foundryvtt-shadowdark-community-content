@@ -1,0 +1,23 @@
+{
+	"_id": "JPLj8B86NrtlKevu",
+	"_key": "!scenes.walls!aZiDqXVJHmQJ8rD2.JPLj8B86NrtlKevu",
+	"c": [
+		5500,
+		3713,
+		5488,
+		3688
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

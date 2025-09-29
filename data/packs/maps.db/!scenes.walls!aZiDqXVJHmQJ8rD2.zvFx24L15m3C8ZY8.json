@@ -1,0 +1,24 @@
+{
+	"_id": "zvFx24L15m3C8ZY8",
+	"_key": "!scenes.walls!aZiDqXVJHmQJ8rD2.zvFx24L15m3C8ZY8",
+	"c": [
+		6300,
+		4913,
+		6300,
+		4775
+	],
+	"dir": 0,
+	"door": 1,
+	"doorSound": "stoneBasic",
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

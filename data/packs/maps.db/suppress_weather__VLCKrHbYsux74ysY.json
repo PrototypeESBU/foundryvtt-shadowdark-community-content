@@ -1,0 +1,9 @@
+{
+	"_id": "VLCKrHbYsux74ysY",
+	"_key": "!scenes.regions.behaviors!CKNgTw3nj46g2vlm.Y8iZUg0ohWIeKS81.VLCKrHbYsux74ysY",
+	"disabled": false,
+	"name": "Suppress Weather",
+	"system": {
+	},
+	"type": "suppressWeather"
+}

@@ -1,0 +1,11 @@
+{
+	"_id": "6UAjIP75M2yxJgN6",
+	"_key": "!scenes.regions.behaviors!CKNgTw3nj46g2vlm.Y8iZUg0ohWIeKS81.6UAjIP75M2yxJgN6",
+	"disabled": false,
+	"name": "Adjust Darkness Level",
+	"system": {
+		"mode": 2,
+		"modifier": 0
+	},
+	"type": "adjustDarknessLevel"
+}

@@ -1,0 +1,28 @@
+{
+	"_id": "m6TKACAq4OlaGl55",
+	"_key": "!scenes.sounds!CKNgTw3nj46g2vlm.m6TKACAq4OlaGl55",
+	"darkness": {
+		"max": 1,
+		"min": 0
+	},
+	"easing": true,
+	"effects": {
+		"base": {
+			"intensity": 5,
+			"type": ""
+		},
+		"muffled": {
+			"intensity": 5,
+			"type": ""
+		}
+	},
+	"elevation": 0,
+	"hidden": false,
+	"path": "age-shared/audio/fx/buzzing.ogg",
+	"radius": 110,
+	"repeat": false,
+	"volume": 0.5,
+	"walls": false,
+	"x": 4750,
+	"y": 3200
+}

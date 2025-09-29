@@ -1,0 +1,111 @@
+{
+	"_id": "WAPMKNa36kcUkjJy",
+	"_key": "!scenes!WAPMKNa36kcUkjJy",
+	"active": false,
+	"background": {
+		"alphaThreshold": 0,
+		"anchorX": 0,
+		"anchorY": 0,
+		"fit": "fill",
+		"offsetX": 59,
+		"offsetY": -105,
+		"rotation": 0,
+		"scaleX": 1,
+		"scaleY": 1,
+		"src": "modules/shadowdark-community-content/assets/maps/the-djurum/risky_biscuits.webp",
+		"tint": "#ffffff"
+	},
+	"backgroundColor": "#e4b180",
+	"drawings": [
+	],
+	"environment": {
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"cycle": true,
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"enabled": false,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"fog": {
+		"colors": {
+			"explored": null,
+			"unexplored": "#e4b180"
+		},
+		"exploration": true,
+		"overlay": null
+	},
+	"folder": "IADBXZTFp6GgLi1X",
+	"foreground": null,
+	"foregroundElevation": 20,
+	"grid": {
+		"alpha": 0,
+		"color": "#000000",
+		"distance": 5,
+		"size": 208,
+		"style": "solidLines",
+		"thickness": 1,
+		"type": 4,
+		"units": "ft"
+	},
+	"height": 2520,
+	"initial": {
+		"scale": 0.5,
+		"x": null,
+		"y": null
+	},
+	"journal": null,
+	"journalEntryPage": null,
+	"lights": [
+	],
+	"name": "The Djurum - Map by Risky_biscuits",
+	"navName": "The Djurum",
+	"navOrder": 0,
+	"navigation": false,
+	"notes": [
+	],
+	"padding": 0.25,
+	"playlist": null,
+	"playlistSound": null,
+	"regions": [
+	],
+	"sounds": [
+	],
+	"templates": [
+	],
+	"thumb": "worlds/package-world/assets/scenes/qU9OBT9f2B7npYGG-thumb.webp",
+	"tiles": [
+	],
+	"tokenVision": true,
+	"tokens": [
+	],
+	"walls": [
+	],
+	"weather": "",
+	"width": 3360
+}

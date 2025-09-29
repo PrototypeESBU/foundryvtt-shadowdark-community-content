@@ -1,0 +1,36 @@
+{
+	"_id": "awCiaArdYQH0sMOo",
+	"_key": "!scenes.lights!iC6icoLEoIs4OtnJ.awCiaArdYQH0sMOo",
+	"config": {
+		"alpha": 0.25,
+		"angle": 360,
+		"animation": {
+			"intensity": 5,
+			"reverse": false,
+			"speed": 6,
+			"type": "torch"
+		},
+		"attenuation": 0.5,
+		"bright": 1.68,
+		"color": "#a58040",
+		"coloration": 1,
+		"contrast": 0,
+		"darkness": {
+			"max": 1,
+			"min": 0
+		},
+		"dim": 3.37,
+		"luminosity": 0.5,
+		"negative": false,
+		"priority": 0,
+		"saturation": 0,
+		"shadows": 0
+	},
+	"elevation": 0,
+	"hidden": false,
+	"rotation": 0,
+	"vision": false,
+	"walls": true,
+	"x": 4318,
+	"y": 2057
+}

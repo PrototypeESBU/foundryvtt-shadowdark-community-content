@@ -1,0 +1,23 @@
+{
+	"_id": "x52W66HE3CKiRiuc",
+	"_key": "!scenes.walls!AHZ4KvRhLQsJuU02.x52W66HE3CKiRiuc",
+	"c": [
+		5850,
+		1738,
+		5838,
+		1700
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

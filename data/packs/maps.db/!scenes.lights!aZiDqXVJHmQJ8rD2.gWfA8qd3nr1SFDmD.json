@@ -1,0 +1,36 @@
+{
+	"_id": "gWfA8qd3nr1SFDmD",
+	"_key": "!scenes.lights!aZiDqXVJHmQJ8rD2.gWfA8qd3nr1SFDmD",
+	"config": {
+		"alpha": 0.5,
+		"angle": 360,
+		"animation": {
+			"intensity": 5,
+			"reverse": false,
+			"speed": 5,
+			"type": null
+		},
+		"attenuation": 0.5,
+		"bright": 5.86,
+		"color": null,
+		"coloration": 1,
+		"contrast": 0,
+		"darkness": {
+			"max": 1,
+			"min": 0
+		},
+		"dim": 11.73,
+		"luminosity": 0.5,
+		"negative": false,
+		"priority": 0,
+		"saturation": 0,
+		"shadows": 0
+	},
+	"elevation": 0,
+	"hidden": false,
+	"rotation": 0,
+	"vision": false,
+	"walls": true,
+	"x": 5200,
+	"y": 3750
+}

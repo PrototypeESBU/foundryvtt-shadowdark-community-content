@@ -1,0 +1,23 @@
+{
+	"_id": "Zfci2x8wcS2Mr04k",
+	"_key": "!scenes.walls!AHZ4KvRhLQsJuU02.Zfci2x8wcS2Mr04k",
+	"c": [
+		5113,
+		4225,
+		5125,
+		4200
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"_id": "SGSMYB73VUhivr72",
+	"_key": "!scenes.walls!AHZ4KvRhLQsJuU02.SGSMYB73VUhivr72",
+	"c": [
+		3413,
+		1325,
+		4200,
+		1325
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

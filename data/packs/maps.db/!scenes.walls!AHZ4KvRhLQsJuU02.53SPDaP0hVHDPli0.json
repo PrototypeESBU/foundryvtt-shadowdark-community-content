@@ -1,0 +1,23 @@
+{
+	"_id": "53SPDaP0hVHDPli0",
+	"_key": "!scenes.walls!AHZ4KvRhLQsJuU02.53SPDaP0hVHDPli0",
+	"c": [
+		4775,
+		4275,
+		4825,
+		4288
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

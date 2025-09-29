@@ -1,0 +1,111 @@
+{
+	"_id": "doQ6eenOqr84X6hx",
+	"_key": "!scenes!doQ6eenOqr84X6hx",
+	"active": false,
+	"background": {
+		"alphaThreshold": 0,
+		"anchorX": 0,
+		"anchorY": 0,
+		"fit": "fill",
+		"offsetX": 26,
+		"offsetY": -2,
+		"rotation": 0,
+		"scaleX": 1,
+		"scaleY": 1,
+		"src": "modules/shadowdark-community-content/assets/maps/the-gloaming/silentcatfart-poi.webp",
+		"tint": "#ffffff"
+	},
+	"backgroundColor": "#d7c792",
+	"drawings": [
+	],
+	"environment": {
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"cycle": true,
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"enabled": false,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"fog": {
+		"colors": {
+			"explored": null,
+			"unexplored": null
+		},
+		"exploration": true,
+		"overlay": null
+	},
+	"folder": "igtqHSinPmix1TjW",
+	"foreground": null,
+	"foregroundElevation": 20,
+	"grid": {
+		"alpha": 0.2,
+		"color": "#000000",
+		"distance": 6,
+		"size": 100,
+		"style": "solidLines",
+		"thickness": 1,
+		"type": 5,
+		"units": "miles"
+	},
+	"height": 1382,
+	"initial": {
+		"scale": 0.6701726187843057,
+		"x": 1509,
+		"y": 1051
+	},
+	"journal": null,
+	"journalEntryPage": null,
+	"lights": [
+	],
+	"name": "The Gloaming (POI) - Map by Silentcatfart",
+	"navName": "The Gloaming",
+	"navOrder": 0,
+	"navigation": false,
+	"notes": [
+	],
+	"padding": 0.05,
+	"playlist": null,
+	"playlistSound": null,
+	"regions": [
+	],
+	"sounds": [
+	],
+	"templates": [
+	],
+	"thumb": "worlds/package-world/assets/scenes/4MBtW0hgllsipDvy-thumb.webp",
+	"tiles": [
+	],
+	"tokenVision": false,
+	"tokens": [
+	],
+	"walls": [
+	],
+	"weather": "",
+	"width": 1842
+}

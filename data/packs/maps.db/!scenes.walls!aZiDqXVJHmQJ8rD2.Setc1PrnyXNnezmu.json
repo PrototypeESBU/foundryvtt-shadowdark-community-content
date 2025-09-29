@@ -1,0 +1,23 @@
+{
+	"_id": "Setc1PrnyXNnezmu",
+	"_key": "!scenes.walls!aZiDqXVJHmQJ8rD2.Setc1PrnyXNnezmu",
+	"c": [
+		5875,
+		4575,
+		5875,
+		4325
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

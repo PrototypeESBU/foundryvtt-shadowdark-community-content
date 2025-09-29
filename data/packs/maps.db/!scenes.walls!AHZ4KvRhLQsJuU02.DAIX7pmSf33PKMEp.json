@@ -1,0 +1,23 @@
+{
+	"_id": "DAIX7pmSf33PKMEp",
+	"_key": "!scenes.walls!AHZ4KvRhLQsJuU02.DAIX7pmSf33PKMEp",
+	"c": [
+		6363,
+		4475,
+		6350,
+		4425
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

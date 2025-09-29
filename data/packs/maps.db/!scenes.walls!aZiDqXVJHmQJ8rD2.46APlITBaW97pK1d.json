@@ -1,0 +1,23 @@
+{
+	"_id": "46APlITBaW97pK1d",
+	"_key": "!scenes.walls!aZiDqXVJHmQJ8rD2.46APlITBaW97pK1d",
+	"c": [
+		5875,
+		4975,
+		5875,
+		4775
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

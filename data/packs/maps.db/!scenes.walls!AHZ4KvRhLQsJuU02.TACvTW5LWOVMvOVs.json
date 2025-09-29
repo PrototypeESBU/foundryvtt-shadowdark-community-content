@@ -1,0 +1,23 @@
+{
+	"_id": "TACvTW5LWOVMvOVs",
+	"_key": "!scenes.walls!AHZ4KvRhLQsJuU02.TACvTW5LWOVMvOVs",
+	"c": [
+		5900,
+		3675,
+		5900,
+		3700
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

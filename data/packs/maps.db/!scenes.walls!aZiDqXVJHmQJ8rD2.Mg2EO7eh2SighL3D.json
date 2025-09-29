@@ -1,0 +1,23 @@
+{
+	"_id": "Mg2EO7eh2SighL3D",
+	"_key": "!scenes.walls!aZiDqXVJHmQJ8rD2.Mg2EO7eh2SighL3D",
+	"c": [
+		2350,
+		4550,
+		2263,
+		4638
+	],
+	"dir": 0,
+	"door": 0,
+	"ds": 0,
+	"light": 20,
+	"move": 20,
+	"sight": 20,
+	"sound": 20,
+	"threshold": {
+		"attenuation": false,
+		"light": null,
+		"sight": null,
+		"sound": null
+	}
+}

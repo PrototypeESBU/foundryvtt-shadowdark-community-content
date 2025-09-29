@@ -1,0 +1,27 @@
+{
+	"_id": "Y8iZUg0ohWIeKS81",
+	"_key": "!scenes.regions!CKNgTw3nj46g2vlm.Y8iZUg0ohWIeKS81",
+	"behaviors": [
+		"VLCKrHbYsux74ysY",
+		"6UAjIP75M2yxJgN6"
+	],
+	"color": "#2836cc",
+	"elevation": {
+		"bottom": null,
+		"top": null
+	},
+	"locked": false,
+	"name": "Region",
+	"shapes": [
+		{
+			"height": 3950,
+			"hole": false,
+			"rotation": 0,
+			"type": "rectangle",
+			"width": 3750,
+			"x": 2937.5,
+			"y": 1012.5
+		}
+	],
+	"visibility": 0
+}
