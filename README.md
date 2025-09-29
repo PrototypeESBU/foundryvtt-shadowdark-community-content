@@ -11,6 +11,7 @@ This is a module for use with Shadowdark RPG on Foundry VTT. The module provides
 - **The Lord of Mad Mansion** by Sticky
 - **Against the Cult of the Crimson Hand** by Runeforged Tabletop Gaming
 - **Shrine of the Jaguar Princess** by Sersa Victory
+- **The Steading Crashers** by Ryan Wheeler
 
 ### Classes
 - **Explorer Class** by Reverse Ettin Games
@@ -21,6 +22,9 @@ This is a module for use with Shadowdark RPG on Foundry VTT. The module provides
 
 ### Macros
 - GM and player utility macros by Prototype and Evounnamed
+
+### Maps
+- Map redraws for use with Arcane Library and 3rd party adventures. 
 
 ## Contributing
 Submit content or report issues on the [Github page](https://github.com/PrototypeESBU/foundryvtt-shadowdark-community-content/issues/new/choose)
@@ -78,6 +82,11 @@ Join the discussion on [The Arcane Library Discord](https://discord.com/invite/t
 - Illustrations: Front Cover by Jenn Mansell, other Illustrations by Pixabay
 - Foundry VTT Conversion: John K. Watson ([github.com/jkwatson](https://github.com/jkwatson))
 
+**The Steading Crashers**
+- Ryan Wheeler ([gastrop0d.itch.io](http://gastrop0d.itch.io))
+- Based on Steading of the Hill Giant Chief by Gary Gygax
+- Artwork: Ricardo de Gaspar, Carlos Castilho
+- Foundry VTT Conversion: John K. Watson (github.com/jkwatson)
 
 **Explorer Class**
 - Reverse Ettin Games ([reverse-ettin-games.itch.io](https://reverse-ettin-games.itch.io/))
@@ -90,6 +99,12 @@ Join the discussion on [The Arcane Library Discord](https://discord.com/invite/t
 **Macros**
 - Prototype
 - Evounnamed
+
+**Maps**
+- Asa Engleman (silentcatfart)
+- Gregg Haeberle (Zandelar) ([@talesfromthepythian993](https://www.youtube.com/@talesfromthepythian993))
+- Risky_biscuits
+- Prototype
 
 
 **Foundry VTT Conversions**

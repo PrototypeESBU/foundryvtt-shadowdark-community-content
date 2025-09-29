@@ -1,17 +1,21 @@
 # v1.4
 
+## Notes
 - Foundry v13 is now supported
-- Added map redraws based on adventures by Arcane Library and included 3rd party publishers.
-- Added Classic Dungeon Map Symbols Tiles (found in moduels/shadowdark-community-content/assets/tiles/)
+- This module now includes map redraws for Arcane Library and 3rd party adventures.
 
 ## Added
 ### Adventures
-- Steading Crashers
+- The Steading Crashers by Ryan Wheeler
 
 ### Maps
-- New maps by silentcatfart
+- New maps by Asa Engleman (silentcatfart)
+- New maps by Gregg Haeberle (Zandelar)
 - New maps by Riskybiscuits
 - New maps by Prototype
+
+### Tiles
+- Added Classic Dungeon Map Symbols Tiles (found in moduels/shadowdark-community-content/assets/tiles/)
 
 
 # v1.3
