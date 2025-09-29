@@ -1,0 +1,111 @@
+{
+	"_id": "Vk0rfk1GLtkKXdnF",
+	"_key": "!scenes!Vk0rfk1GLtkKXdnF",
+	"active": false,
+	"background": {
+		"alphaThreshold": 0,
+		"anchorX": 0,
+		"anchorY": 0,
+		"fit": "fill",
+		"offsetX": 59,
+		"offsetY": -105,
+		"rotation": 0,
+		"scaleX": 1,
+		"scaleY": 1,
+		"src": "modules/shadowdark-community-content/assets/maps/the-gloaming/risky_biscuits.webp",
+		"tint": "#ffffff"
+	},
+	"backgroundColor": "#221610",
+	"drawings": [
+	],
+	"environment": {
+		"base": {
+			"hue": 0,
+			"intensity": 0,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"cycle": true,
+		"dark": {
+			"hue": 0.7138888888888889,
+			"intensity": 0,
+			"luminosity": -0.25,
+			"saturation": 0,
+			"shadows": 0
+		},
+		"darknessLevel": 0,
+		"darknessLock": false,
+		"globalLight": {
+			"alpha": 0.5,
+			"bright": false,
+			"color": null,
+			"coloration": 1,
+			"contrast": 0,
+			"darkness": {
+				"max": 1,
+				"min": 0
+			},
+			"enabled": false,
+			"luminosity": 0,
+			"saturation": 0,
+			"shadows": 0
+		}
+	},
+	"fog": {
+		"colors": {
+			"explored": null,
+			"unexplored": "#221610"
+		},
+		"exploration": true,
+		"overlay": null
+	},
+	"folder": "IADBXZTFp6GgLi1X",
+	"foreground": null,
+	"foregroundElevation": 20,
+	"grid": {
+		"alpha": 0,
+		"color": "#000000",
+		"distance": 5,
+		"size": 208,
+		"style": "solidLines",
+		"thickness": 1,
+		"type": 4,
+		"units": "ft"
+	},
+	"height": 2880,
+	"initial": {
+		"scale": 0.5,
+		"x": null,
+		"y": null
+	},
+	"journal": null,
+	"journalEntryPage": null,
+	"lights": [
+	],
+	"name": "The Gloaming - Map by Risky_biscuits",
+	"navName": "The Gloaming",
+	"navOrder": 0,
+	"navigation": false,
+	"notes": [
+	],
+	"padding": 0.15,
+	"playlist": null,
+	"playlistSound": null,
+	"regions": [
+	],
+	"sounds": [
+	],
+	"templates": [
+	],
+	"thumb": "worlds/package-world/assets/scenes/0I5vCCZDgULqF25H-thumb.webp",
+	"tiles": [
+	],
+	"tokenVision": false,
+	"tokens": [
+	],
+	"walls": [
+	],
+	"weather": "",
+	"width": 3840
+}
