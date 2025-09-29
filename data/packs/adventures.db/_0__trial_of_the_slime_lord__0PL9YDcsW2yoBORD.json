@@ -3594,7 +3594,7 @@
 					"system": {
 					},
 					"text": {
-						"content": "<img src=\"modules\shadowdark-community-content\assets\trial-of-the-slime-lord\cover.webp\" />",
+						"content": "<img src=\"modules/shadowdark-community-content/assets/trial-of-the-slime-lord/cover.webp\" />",
 						"format": 1
 					},
 					"title": {
